@@ -1,0 +1,4 @@
+id,platform,date,text,media_url
+001,all,,"今日の投稿文です。X・Instagram・Threadsへ同じ内容を投稿します。",https://example.com/image.jpg
+002,x,,"Xだけに投稿する文章です。",""
+003,threads,2026-05-20,"指定日だけThreadsへ投稿する文章です。",""
