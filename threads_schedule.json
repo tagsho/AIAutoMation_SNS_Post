@@ -1,1 +1,225 @@
-{"timezone":"Asia/Tokyo","created_at":"2026-05-21T00:00:00+09:00","accounts":[{"id":"fortune","username":"yoru_memo____","user_id":"36250096211242194","purpose":"占いアフィリエイト"},{"id":"side_hustle","username":"temp_ok____ok","user_id":"27443228045297391","purpose":"副業アフィリエイト"}],"posts":[{"id":"fortune-fixed-20260522","account_id":"fortune","scheduled_at":"2026-05-22T07:55:00","status":"scheduled","kind":"fixed_candidate","pin_manually":true,"text":"恋愛、相性、復縁で気持ちがぐるぐるするとき用に、無料で試せる占い・相談先をプロフィールにまとめました。\n\n無理に課金するためじゃなくて、まずは今の気持ちを整理する入口として使ってください。\n\n迷った夜に見返せるように、ここを固定しておきます。"},{"id":"side-fixed-20260522","account_id":"side_hustle","scheduled_at":"2026-05-22T08:25:00","status":"scheduled","kind":"fixed_candidate","pin_manually":true,"text":"低単価で消耗したくない人向けに、SNSアフィリエイト、高単価ASP、AI活用、男性向け市場の参考教材をプロフィールにまとめました。\n\n大事なのは、投稿を増やすことより「どの市場に、どんな導線で流すか」。\n\nこの投稿は入口として固定しておきます。"},{"id":"fortune-20260522-pm","account_id":"fortune","scheduled_at":"2026-05-22T21:30:00","status":"scheduled","text":"好きな人から返信が遅いときほど、気持ちを決めつけないほうがいい日。\n\n不安は「相手の答え」じゃなくて「自分の予想」で大きくなることが多い。\n\n今日は追うより、少しだけ観察するほうが流れを崩しにくい。"},{"id":"side-20260522-pm","account_id":"side_hustle","scheduled_at":"2026-05-22T20:50:00","status":"scheduled","text":"副業で最初に見るべきなのは、作業量より単価。\n\n1件100円の案件を100件取るのと、1件1万円の案件を1件取るのでは、必要な導線がまったく違う。\n\n低単価で消耗しない設計を先に考える。"},{"id":"fortune-20260523-am","account_id":"fortune","scheduled_at":"2026-05-23T08:10:00","status":"scheduled","text":"今日の牡牛座は、返信を急がないほうが流れが整いやすい。\n\n気持ちがあるからこそ、相手の温度を見てから動く。\n\n焦って送る一言より、落ち着いて選んだ一言のほうが残る日。"},{"id":"side-20260523-am","account_id":"side_hustle","scheduled_at":"2026-05-23T08:40:00","status":"scheduled","text":"SNSアフィリは、投稿数だけ増やしても弱い。\n\n誰の欲求に刺すか、どこで信頼を作るか、最後に何を置くか。\n\nこの3つが決まってないと、反応があっても売上になりにくい。"},{"id":"fortune-20260523-pm","account_id":"fortune","scheduled_at":"2026-05-23T21:30:00","status":"scheduled","text":"復縁したいときほど、長文を送らない。\n\n気持ちを全部ぶつけるより、相手が返しやすい一言のほうが関係は動きやすい。\n\n未練が強い日ほど、文章は短く。"},{"id":"side-20260523-pm","account_id":"side_hustle","scheduled_at":"2026-05-23T20:50:00","status":"scheduled","text":"AI副業で大事なのは、AIに丸投げすることじゃない。\n\n市場を決める、投稿を作る、反応を見る、導線を直す。\n\nAIはこの作業を短くする道具。市場選びまでサボると弱い。"},{"id":"fortune-20260524-am","account_id":"fortune","scheduled_at":"2026-05-24T08:10:00","status":"scheduled","text":"相性がいい人は、会話を盛り上げる人とは限らない。\n\n沈黙が気まずくならない人、こちらの不安を利用しない人。\n\n恋愛は刺激より、安心して戻れる感覚もかなり大事。"},{"id":"side-20260524-am","account_id":"side_hustle","scheduled_at":"2026-05-24T08:40:00","status":"scheduled","text":"男性向け市場が強いのは、欲求が分かりやすく、匿名で動きやすく、悩みが継続しやすいから。\n\nただし表で露骨にやるほど危ない。\n\n投稿、リンク先、最終オファーは分けたほうがいい。"},{"id":"fortune-20260524-pm","account_id":"fortune","scheduled_at":"2026-05-24T21:30:00","status":"scheduled","text":"不安な恋ほど、答えを急ぎたくなる。\n\nでも今日は結論を出すより、自分が本当は何を怖がっているかを見る日。\n\n相手の気持ちより先に、自分の本音を整える。"},{"id":"side-20260524-pm","account_id":"side_hustle","scheduled_at":"2026-05-24T20:50:00","status":"scheduled","text":"アダルト系のアフィリは、露骨に投稿するほど強いわけじゃない。\n\n強いのは、需要を理解して、規約に触れにくい導線を作れる人。\n\n表では市場と仕組みを話すくらいがちょうどいい。"},{"id":"fortune-20260525-am","account_id":"fortune","scheduled_at":"2026-05-25T08:10:00","status":"scheduled","text":"今日の双子座は、軽い雑談が流れを変えやすい。\n\n重い話はあとでいい。\n\nまずは相手が返しやすい空気を作ること。恋は正論より温度で動く日がある。"},{"id":"side-20260525-am","account_id":"side_hustle","scheduled_at":"2026-05-25T08:40:00","status":"scheduled","text":"教材を見るときは、実績より「毎日何をするのか」を見る。\n\n投稿例、導線、失敗パターン、規約の注意点。\n\nこのへんが薄い教材は、読んでも動けないことが多い。"},{"id":"fortune-20260525-pm","account_id":"fortune","scheduled_at":"2026-05-25T21:30:00","status":"scheduled","text":"好きな人から返信が来ないとき、自分の価値まで下げて考えない。\n\n返信速度と気持ちは、いつも同じではない。\n\n今夜は相手を読むより、自分の気持ちを休ませる。"},{"id":"side-20260525-pm","account_id":"side_hustle","scheduled_at":"2026-05-25T20:50:00","status":"scheduled","text":"高単価アフィリは、クリック数が少なくても勝負できる。\n\nその代わり、いきなり売り込むと逃げられる。\n\n投稿で悩みを拾って、プロフィールで整理して、リンク先で選ばせる。"},{"id":"fortune-20260526-am","account_id":"fortune","scheduled_at":"2026-05-26T08:10:00","status":"scheduled","text":"復縁で流れが戻るサインは、相手を思い出しても前より胸が重くならないこと。\n\n執着が薄れた頃に、縁が自然に動くことがある。\n\n焦りを手放すほど、言葉がきれいになる。"},{"id":"side-20260526-am","account_id":"side_hustle","scheduled_at":"2026-05-26T08:40:00","status":"scheduled","text":"AIツールは稼ぐ道具というより、調べる、書く、整える時間を短くする道具。\n\n期待値を間違えないほうが続く。\n\n楽に稼ぐより、続けるために楽にする。"},{"id":"fortune-20260526-pm","account_id":"fortune","scheduled_at":"2026-05-26T21:30:00","status":"scheduled","text":"今日の開運ワードは「いったん置いておく」。\n\n恋愛も仕事も、焦って答えを出そうとすると流れが詰まりやすい。\n\n一晩寝かせるだけで、見えるものが変わる。"},{"id":"side-20260526-pm","account_id":"side_hustle","scheduled_at":"2026-05-26T20:50:00","status":"scheduled","text":"副業で一番もったいないのは、調べすぎて始めないこと。\n\n1週間調べたら、1件だけ応募してみる。\n\n小さく動くと、自分に合う仕事と合わない仕事が見えてくる。"},{"id":"fortune-20260527-am","account_id":"fortune","scheduled_at":"2026-05-27T08:10:00","status":"scheduled","text":"蠍座の今日は、深読みしすぎに注意。\n\n気になるなら探るより、短く素直に聞いたほうがいい。\n\n恋は駆け引きより、落ち着いた確認で進むこともある。"},{"id":"side-20260527-am","account_id":"side_hustle","scheduled_at":"2026-05-27T08:40:00","status":"scheduled","text":"月1万円の副業は、人生を変えない。\n\nでも「自分で稼げた」があると、次の判断が変わる。\n\n小さい実績は、金額以上に強い。"},{"id":"fortune-20260527-pm","account_id":"fortune","scheduled_at":"2026-05-27T21:30:00","status":"scheduled","text":"相手の気持ちが分からないときは、言葉より継続を見る。\n\n派手な一言より、何度も戻ってくる態度に本音が出る。\n\n不安な夜ほど、事実だけを拾う。"},{"id":"side-20260527-pm","account_id":"side_hustle","scheduled_at":"2026-05-27T20:50:00","status":"scheduled","text":"在宅ワークを探すときは、報酬より先に納期を見る。\n\n納期が読めない案件は、生活に入りにくい。\n\n副業は稼げるかだけじゃなく、続けられるかで選ぶ。"},{"id":"fortune-20260528-am","account_id":"fortune","scheduled_at":"2026-05-28T08:10:00","status":"scheduled","text":"恋愛運を落としにくい行動。\n\n返信前に一度だけ文章を短くする。完璧な言葉より、自然な温度を残す。\n\n相手に伝える前に、自分を少し落ち着かせる。"},{"id":"side-20260528-am","account_id":"side_hustle","scheduled_at":"2026-05-28T08:40:00","status":"scheduled","text":"副業を続けるコツは、最初から完璧なジャンルを選ばないこと。\n\n小さく試して、反応があるものに寄せる。\n\n調べる時間と動く時間のバランスが大事。"},{"id":"fortune-20260528-pm","account_id":"fortune","scheduled_at":"2026-05-28T21:30:00","status":"scheduled","text":"今週の恋愛メモ。\n\nいちばん心が揺れた相手より、いちばん安心して話せた相手を思い出してみる。\n\n恋が苦しいときほど、安心の感覚を見落としやすい。"},{"id":"side-20260528-pm","account_id":"side_hustle","scheduled_at":"2026-05-28T20:50:00","status":"scheduled","text":"副業を始めるなら、今月の目標は「稼ぐ」より「1つ納品する」。\n\n最初の実績は小さくていい。\n\n完璧な準備より、終わらせた経験のほうが次につながる。"}]}
+{
+  "timezone": "Asia/Tokyo",
+  "created_at": "2026-05-21T00:00:00+09:00",
+  "accounts": [
+    {
+      "id": "fortune",
+      "username": "yoru_memo____",
+      "user_id": "36250096211242194",
+      "purpose": "占いアフィリエイト"
+    },
+    {
+      "id": "side_hustle",
+      "username": "temp_ok____ok",
+      "user_id": "27443228045297391",
+      "purpose": "副業アフィリエイト"
+    }
+  ],
+  "posts": [
+    {
+      "id": "fortune-fixed-20260522",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-22T07:55:00",
+      "status": "published",
+      "kind": "fixed_candidate",
+      "pin_manually": true,
+      "text": "恋愛、相性、復縁で気持ちがぐるぐるするとき用に、無料で試せる占い・相談先をプロフィールにまとめました。\n\n無理に課金するためじゃなくて、まずは今の気持ちを整理する入口として使ってください。\n\n迷った夜に見返せるように、ここを固定しておきます。",
+      "creation_id": "18145754233446749",
+      "post_id": "18093518462259432",
+      "published_at": "2026-05-21T23:38:27.799Z"
+    },
+    {
+      "id": "side-fixed-20260522",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-22T08:25:00",
+      "status": "failed",
+      "kind": "fixed_candidate",
+      "pin_manually": true,
+      "text": "低単価で消耗したくない人向けに、SNSアフィリエイト、高単価ASP、AI活用、男性向け市場の参考教材をプロフィールにまとめました。\n\n大事なのは、投稿を増やすことより「どの市場に、どんな導線で流すか」。\n\nこの投稿は入口として固定しておきます。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Thursday, 21-May-26 16:38:28 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AHbXWv4kXW4pxeSzPTVf2-O\"}}",
+      "failed_at": "2026-05-21T23:38:28.112Z"
+    },
+    {
+      "id": "fortune-20260522-pm",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-22T21:30:00",
+      "status": "scheduled",
+      "text": "好きな人から返信が遅いときほど、気持ちを決めつけないほうがいい日。\n\n不安は「相手の答え」じゃなくて「自分の予想」で大きくなることが多い。\n\n今日は追うより、少しだけ観察するほうが流れを崩しにくい。"
+    },
+    {
+      "id": "side-20260522-pm",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-22T20:50:00",
+      "status": "scheduled",
+      "text": "副業で最初に見るべきなのは、作業量より単価。\n\n1件100円の案件を100件取るのと、1件1万円の案件を1件取るのでは、必要な導線がまったく違う。\n\n低単価で消耗しない設計を先に考える。"
+    },
+    {
+      "id": "fortune-20260523-am",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-23T08:10:00",
+      "status": "scheduled",
+      "text": "今日の牡牛座は、返信を急がないほうが流れが整いやすい。\n\n気持ちがあるからこそ、相手の温度を見てから動く。\n\n焦って送る一言より、落ち着いて選んだ一言のほうが残る日。"
+    },
+    {
+      "id": "side-20260523-am",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-23T08:40:00",
+      "status": "scheduled",
+      "text": "SNSアフィリは、投稿数だけ増やしても弱い。\n\n誰の欲求に刺すか、どこで信頼を作るか、最後に何を置くか。\n\nこの3つが決まってないと、反応があっても売上になりにくい。"
+    },
+    {
+      "id": "fortune-20260523-pm",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-23T21:30:00",
+      "status": "scheduled",
+      "text": "復縁したいときほど、長文を送らない。\n\n気持ちを全部ぶつけるより、相手が返しやすい一言のほうが関係は動きやすい。\n\n未練が強い日ほど、文章は短く。"
+    },
+    {
+      "id": "side-20260523-pm",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-23T20:50:00",
+      "status": "scheduled",
+      "text": "AI副業で大事なのは、AIに丸投げすることじゃない。\n\n市場を決める、投稿を作る、反応を見る、導線を直す。\n\nAIはこの作業を短くする道具。市場選びまでサボると弱い。"
+    },
+    {
+      "id": "fortune-20260524-am",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-24T08:10:00",
+      "status": "scheduled",
+      "text": "相性がいい人は、会話を盛り上げる人とは限らない。\n\n沈黙が気まずくならない人、こちらの不安を利用しない人。\n\n恋愛は刺激より、安心して戻れる感覚もかなり大事。"
+    },
+    {
+      "id": "side-20260524-am",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-24T08:40:00",
+      "status": "scheduled",
+      "text": "男性向け市場が強いのは、欲求が分かりやすく、匿名で動きやすく、悩みが継続しやすいから。\n\nただし表で露骨にやるほど危ない。\n\n投稿、リンク先、最終オファーは分けたほうがいい。"
+    },
+    {
+      "id": "fortune-20260524-pm",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-24T21:30:00",
+      "status": "scheduled",
+      "text": "不安な恋ほど、答えを急ぎたくなる。\n\nでも今日は結論を出すより、自分が本当は何を怖がっているかを見る日。\n\n相手の気持ちより先に、自分の本音を整える。"
+    },
+    {
+      "id": "side-20260524-pm",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-24T20:50:00",
+      "status": "scheduled",
+      "text": "アダルト系のアフィリは、露骨に投稿するほど強いわけじゃない。\n\n強いのは、需要を理解して、規約に触れにくい導線を作れる人。\n\n表では市場と仕組みを話すくらいがちょうどいい。"
+    },
+    {
+      "id": "fortune-20260525-am",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-25T08:10:00",
+      "status": "scheduled",
+      "text": "今日の双子座は、軽い雑談が流れを変えやすい。\n\n重い話はあとでいい。\n\nまずは相手が返しやすい空気を作ること。恋は正論より温度で動く日がある。"
+    },
+    {
+      "id": "side-20260525-am",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-25T08:40:00",
+      "status": "scheduled",
+      "text": "教材を見るときは、実績より「毎日何をするのか」を見る。\n\n投稿例、導線、失敗パターン、規約の注意点。\n\nこのへんが薄い教材は、読んでも動けないことが多い。"
+    },
+    {
+      "id": "fortune-20260525-pm",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-25T21:30:00",
+      "status": "scheduled",
+      "text": "好きな人から返信が来ないとき、自分の価値まで下げて考えない。\n\n返信速度と気持ちは、いつも同じではない。\n\n今夜は相手を読むより、自分の気持ちを休ませる。"
+    },
+    {
+      "id": "side-20260525-pm",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-25T20:50:00",
+      "status": "scheduled",
+      "text": "高単価アフィリは、クリック数が少なくても勝負できる。\n\nその代わり、いきなり売り込むと逃げられる。\n\n投稿で悩みを拾って、プロフィールで整理して、リンク先で選ばせる。"
+    },
+    {
+      "id": "fortune-20260526-am",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-26T08:10:00",
+      "status": "scheduled",
+      "text": "復縁で流れが戻るサインは、相手を思い出しても前より胸が重くならないこと。\n\n執着が薄れた頃に、縁が自然に動くことがある。\n\n焦りを手放すほど、言葉がきれいになる。"
+    },
+    {
+      "id": "side-20260526-am",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-26T08:40:00",
+      "status": "scheduled",
+      "text": "AIツールは稼ぐ道具というより、調べる、書く、整える時間を短くする道具。\n\n期待値を間違えないほうが続く。\n\n楽に稼ぐより、続けるために楽にする。"
+    },
+    {
+      "id": "fortune-20260526-pm",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-26T21:30:00",
+      "status": "scheduled",
+      "text": "今日の開運ワードは「いったん置いておく」。\n\n恋愛も仕事も、焦って答えを出そうとすると流れが詰まりやすい。\n\n一晩寝かせるだけで、見えるものが変わる。"
+    },
+    {
+      "id": "side-20260526-pm",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-26T20:50:00",
+      "status": "scheduled",
+      "text": "副業で一番もったいないのは、調べすぎて始めないこと。\n\n1週間調べたら、1件だけ応募してみる。\n\n小さく動くと、自分に合う仕事と合わない仕事が見えてくる。"
+    },
+    {
+      "id": "fortune-20260527-am",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-27T08:10:00",
+      "status": "scheduled",
+      "text": "蠍座の今日は、深読みしすぎに注意。\n\n気になるなら探るより、短く素直に聞いたほうがいい。\n\n恋は駆け引きより、落ち着いた確認で進むこともある。"
+    },
+    {
+      "id": "side-20260527-am",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-27T08:40:00",
+      "status": "scheduled",
+      "text": "月1万円の副業は、人生を変えない。\n\nでも「自分で稼げた」があると、次の判断が変わる。\n\n小さい実績は、金額以上に強い。"
+    },
+    {
+      "id": "fortune-20260527-pm",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-27T21:30:00",
+      "status": "scheduled",
+      "text": "相手の気持ちが分からないときは、言葉より継続を見る。\n\n派手な一言より、何度も戻ってくる態度に本音が出る。\n\n不安な夜ほど、事実だけを拾う。"
+    },
+    {
+      "id": "side-20260527-pm",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-27T20:50:00",
+      "status": "scheduled",
+      "text": "在宅ワークを探すときは、報酬より先に納期を見る。\n\n納期が読めない案件は、生活に入りにくい。\n\n副業は稼げるかだけじゃなく、続けられるかで選ぶ。"
+    },
+    {
+      "id": "fortune-20260528-am",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-28T08:10:00",
+      "status": "scheduled",
+      "text": "恋愛運を落としにくい行動。\n\n返信前に一度だけ文章を短くする。完璧な言葉より、自然な温度を残す。\n\n相手に伝える前に、自分を少し落ち着かせる。"
+    },
+    {
+      "id": "side-20260528-am",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-28T08:40:00",
+      "status": "scheduled",
+      "text": "副業を続けるコツは、最初から完璧なジャンルを選ばないこと。\n\n小さく試して、反応があるものに寄せる。\n\n調べる時間と動く時間のバランスが大事。"
+    },
+    {
+      "id": "fortune-20260528-pm",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-28T21:30:00",
+      "status": "scheduled",
+      "text": "今週の恋愛メモ。\n\nいちばん心が揺れた相手より、いちばん安心して話せた相手を思い出してみる。\n\n恋が苦しいときほど、安心の感覚を見落としやすい。"
+    },
+    {
+      "id": "side-20260528-pm",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-28T20:50:00",
+      "status": "scheduled",
+      "text": "副業を始めるなら、今月の目標は「稼ぐ」より「1つ納品する」。\n\n最初の実績は小さくていい。\n\n完璧な準備より、終わらせた経験のほうが次につながる。"
+    }
+  ]
+}
