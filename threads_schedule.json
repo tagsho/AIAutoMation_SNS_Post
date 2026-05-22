@@ -43,15 +43,20 @@
       "id": "fortune-20260522-pm",
       "account_id": "fortune",
       "scheduled_at": "2026-05-22T21:30:00",
-      "status": "scheduled",
-      "text": "好きな人から返信が遅いときほど、気持ちを決めつけないほうがいい日。\n\n不安は「相手の答え」じゃなくて「自分の予想」で大きくなることが多い。\n\n今日は追うより、少しだけ観察するほうが流れを崩しにくい。"
+      "status": "published",
+      "text": "好きな人から返信が遅いときほど、気持ちを決めつけないほうがいい日。\n\n不安は「相手の答え」じゃなくて「自分の予想」で大きくなることが多い。\n\n今日は追うより、少しだけ観察するほうが流れを崩しにくい。",
+      "creation_id": "18145829890446749",
+      "post_id": "18099393674113273",
+      "published_at": "2026-05-22T13:59:14.541Z"
     },
     {
       "id": "side-20260522-pm",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-22T20:50:00",
-      "status": "scheduled",
-      "text": "副業で最初に見るべきなのは、作業量より単価。\n\n1件100円の案件を100件取るのと、1件1万円の案件を1件取るのでは、必要な導線がまったく違う。\n\n低単価で消耗しない設計を先に考える。"
+      "status": "failed",
+      "text": "副業で最初に見るべきなのは、作業量より単価。\n\n1件100円の案件を100件取るのと、1件1万円の案件を1件取るのでは、必要な導線がまったく違う。\n\n低単価で消耗しない設計を先に考える。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Friday, 22-May-26 06:59:14 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AFDP7BsG7ab2kFedF7uJL7h\"}}",
+      "failed_at": "2026-05-22T13:59:14.707Z"
     },
     {
       "id": "fortune-20260523-am",
