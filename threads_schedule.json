@@ -88,8 +88,10 @@
       "id": "side-20260523-pm",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-23T20:50:00",
-      "status": "scheduled",
-      "text": "AI副業で大事なのは、AIに丸投げすることじゃない。\n\n市場を決める、投稿を作る、反応を見る、導線を直す。\n\nAIはこの作業を短くする道具。市場選びまでサボると弱い。"
+      "status": "failed",
+      "text": "AI副業で大事なのは、AIに丸投げすることじゃない。\n\n市場を決める、投稿を作る、反応を見る、導線を直す。\n\nAIはこの作業を短くする道具。市場選びまでサボると弱い。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Saturday, 23-May-26 04:51:29 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AjZ-F2l7V565HI0qrcT10sP\"}}",
+      "failed_at": "2026-05-23T11:51:29.290Z"
     },
     {
       "id": "fortune-20260524-am",
