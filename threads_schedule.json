@@ -119,15 +119,20 @@
       "id": "fortune-20260524-pm",
       "account_id": "fortune",
       "scheduled_at": "2026-05-24T21:30:00",
-      "status": "scheduled",
-      "text": "不安な恋ほど、答えを急ぎたくなる。\n\nでも今日は結論を出すより、自分が本当は何を怖がっているかを見る日。\n\n相手の気持ちより先に、自分の本音を整える。"
+      "status": "published",
+      "text": "不安な恋ほど、答えを急ぎたくなる。\n\nでも今日は結論を出すより、自分が本当は何を怖がっているかを見る日。\n\n相手の気持ちより先に、自分の本音を整える。",
+      "creation_id": "18146066623446749",
+      "post_id": "18047532467604064",
+      "published_at": "2026-05-24T12:44:56.705Z"
     },
     {
       "id": "side-20260524-pm",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-24T20:50:00",
-      "status": "scheduled",
-      "text": "アダルト系のアフィリは、露骨に投稿するほど強いわけじゃない。\n\n強いのは、需要を理解して、規約に触れにくい導線を作れる人。\n\n表では市場と仕組みを話すくらいがちょうどいい。"
+      "status": "failed",
+      "text": "アダルト系のアフィリは、露骨に投稿するほど強いわけじゃない。\n\n強いのは、需要を理解して、規約に触れにくい導線を作れる人。\n\n表では市場と仕組みを話すくらいがちょうどいい。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Sunday, 24-May-26 05:44:56 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AstQGl3NEn_LDUDHDgvGgT1\"}}",
+      "failed_at": "2026-05-24T12:44:56.790Z"
     },
     {
       "id": "fortune-20260525-am",
