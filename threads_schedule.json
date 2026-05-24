@@ -110,8 +110,10 @@
       "id": "side-20260524-am",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-24T08:40:00",
-      "status": "scheduled",
-      "text": "男性向け市場が強いのは、欲求が分かりやすく、匿名で動きやすく、悩みが継続しやすいから。\n\nただし表で露骨にやるほど危ない。\n\n投稿、リンク先、最終オファーは分けたほうがいい。"
+      "status": "failed",
+      "text": "男性向け市場が強いのは、欲求が分かりやすく、匿名で動きやすく、悩みが継続しやすいから。\n\nただし表で露骨にやるほど危ない。\n\n投稿、リンク先、最終オファーは分けたほうがいい。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Saturday, 23-May-26 18:33:54 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AprlPf6TYiFFDJqz8eHHTBx\"}}",
+      "failed_at": "2026-05-24T01:33:55.057Z"
     },
     {
       "id": "fortune-20260524-pm",
