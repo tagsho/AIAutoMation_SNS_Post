@@ -138,15 +138,20 @@
       "id": "fortune-20260525-am",
       "account_id": "fortune",
       "scheduled_at": "2026-05-25T08:10:00",
-      "status": "scheduled",
-      "text": "今日の双子座は、軽い雑談が流れを変えやすい。\n\n重い話はあとでいい。\n\nまずは相手が返しやすい空気を作ること。恋は正論より温度で動く日がある。"
+      "status": "published",
+      "text": "今日の双子座は、軽い雑談が流れを変えやすい。\n\n重い話はあとでいい。\n\nまずは相手が返しやすい空気を作ること。恋は正論より温度で動く日がある。",
+      "creation_id": "18146125930446749",
+      "post_id": "18130631038581958",
+      "published_at": "2026-05-24T23:40:36.401Z"
     },
     {
       "id": "side-20260525-am",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-25T08:40:00",
-      "status": "scheduled",
-      "text": "教材を見るときは、実績より「毎日何をするのか」を見る。\n\n投稿例、導線、失敗パターン、規約の注意点。\n\nこのへんが薄い教材は、読んでも動けないことが多い。"
+      "status": "failed",
+      "text": "教材を見るときは、実績より「毎日何をするのか」を見る。\n\n投稿例、導線、失敗パターン、規約の注意点。\n\nこのへんが薄い教材は、読んでも動けないことが多い。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Sunday, 24-May-26 16:40:36 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Apb6grhVAfu7rmRlm5Cp0SR\"}}",
+      "failed_at": "2026-05-24T23:40:36.515Z"
     },
     {
       "id": "fortune-20260525-pm",
