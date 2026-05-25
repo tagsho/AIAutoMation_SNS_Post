@@ -7,7 +7,7 @@
   },
   "accounts": {
     "fortune": {
-      "times": ["08:10", "21:30"],
+      "times": ["07:40", "12:20", "18:10", "22:30"],
       "links": {
         "note": "https://note.com/idoljp/n/n7fe85e1645c8",
         "reconciliation": "https://afi2.vernis.co.jp/r/3ebu5o6",
@@ -26,7 +26,7 @@
       ]
     },
     "side_hustle": {
-      "times": ["08:40", "20:50"],
+      "times": ["08:10", "12:50", "18:40", "21:50"],
       "links": {
         "note": "https://note.com/idoljp/n/n50b93e6a4b1c",
         "threads_asp": "https://deeps.me/u/chiruchiru/a/tamaafi/r/8R3swzVWYy",
