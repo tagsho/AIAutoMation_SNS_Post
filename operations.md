@@ -9,10 +9,10 @@
 
 ## Weekly Routine
 
-1. Add 7 days of posts to `threads_schedule.json`.
-2. Keep each account at 1 to 2 posts per day while the accounts are young.
-3. Use CTA posts sparingly, around 10% to 20% of total posts.
-4. Check replies, likes, profile visits, and link clicks every Sunday.
+1. Keep 7 days of posts in `threads_schedule.json`.
+2. Keep each account at 4 posts per day during the first monetization sprint.
+3. Use CTA posts at about 1 per 6 generated posts while monetization is being tested.
+4. Check replies, likes, profile visits, and link clicks every 2 to 3 days.
 5. Replace weak themes with stronger variants next week.
 
 ## Auto Content Generation
@@ -54,88 +54,69 @@ node scripts/generate_threads_schedule.mjs --dry-run --days-ahead=7
 Useful adjustments:
 
 - Increase/decrease CTA frequency: edit `generation.link_every`
-  - `10` means roughly 1 link post per 10 generated posts per account.
+  - `6` means roughly 1 link post per 6 generated posts per account.
 - Change posting times: edit `accounts.*.times`
 - Change affiliate or note links: edit `accounts.*.links`
 - Change recurring topic mix: edit `accounts.*.pillars`
 
-Current recommendation:
+Current monetization sprint settings:
 
-- Keep `link_every` at `10` while the accounts are young.
+- Fortune: 07:40, 12:20, 18:10, 22:30
+- Side hustle: 08:10, 12:50, 18:40, 21:50
+- Keep `link_every` at `6` for this week, then review.
 - Review weekly and only increase CTA ratio after link clicks or profile visits appear.
 - Replace weak pillars, not only weak individual posts.
 
 ## Content Ratio
 
-- 70%: Trust posts
+- Most posts: Trust posts
   - short insights
-  - checklists
   - common mistakes
   - emotional validation
-- 20%: Diagnostic posts
+  - market/funnel thinking
+- Some posts: Diagnostic posts
   - "if this applies, check..."
   - "before starting, confirm..."
   - "signs that..."
-- 10%: CTA posts
-  - "profileにまとめました"
-  - "固定投稿に置きました"
-  - "条件を確認しておく"
+- CTA posts
+  - Note link
+  - VERNIS direct link
+  - Deeps direct link
 
 ## Fortune Account
 
-Profile link target:
+Current monetization links:
 
-- `landing_pages/fortune.html`
+- VERNIS reconciliation LP: https://afi2.vernis.co.jp/r/3ebu5o6
+- VERNIS chat LP: https://afi2.vernis.co.jp/r/3edu5o6
+- Fortune Note: https://note.com/idoljp/n/n7fe85e1645c8
 
 Fixed post role:
 
 - Make the profile link feel safe.
-- Explain that the page is for free trials and initial free consultation.
+- Explain that the page is for first consultation / emotional organization.
 - Avoid "必ず当たる", "必ず復縁", "運命が変わる" style wording.
-
-Good offer types:
-
-- free registration
-- first consultation free
-- initial points
-- love, compatibility, reconciliation consultation
+- Avoid "free only is enough" wording.
 
 ## Side Hustle Account
 
-Profile link target:
+Current monetization links:
 
-- `landing_pages/side-hustle.html`
+- Side-hustle Note: https://note.com/idoljp/n/n50b93e6a4b1c
+- Threads x high-ticket ASP: https://deeps.me/u/chiruchiru/a/tamaafi/r/8R3swzVWYy
+- AI automation pack: https://deeps.me/u/rLK5dxngFm/a/UaHm2p7C3n/r/8R3swzVWYy
+- AI x hidden Instagram strategy: https://deeps.me/u/mobuemon01/a/PYpooWS7kO/r/8R3swzVWYy
 
 Fixed post role:
 
 - Position the page as a realistic starter list.
 - Avoid exaggerated income claims.
-- Emphasize small first wins and avoiding suspicious offers.
+- Emphasize market selection, funnel design, and avoiding low-ticket fatigue.
 
-Good offer types:
+## Next Link Expansion
 
-- crowdsourcing registration
-- AI productivity tools
-- writing or Web production learning services
-- skill marketplace or portfolio services
+When approved, add opt-in links:
 
-## Manual Steps After First Fixed Posts Publish
-
-Threads API can publish the fixed-post candidates, but pinning them is a manual UI action.
-
-1. Open the fortune account after `fortune-fixed-20260522` publishes.
-2. Pin that post to the profile.
-3. Open the side-hustle account after `side-fixed-20260522` publishes.
-4. Pin that post to the profile.
-5. Set each profile URL to the published landing page URL.
-
-## Link Replacement
-
-When affiliate links are ready, replace placeholders in the landing pages:
-
-- `AFFILIATE_LINK_FORTUNE_MAIN`
-- `AFFILIATE_LINK_FORTUNE_SUB_1`
-- `AFFILIATE_LINK_FORTUNE_SUB_2`
-- `AFFILIATE_LINK_SIDE_WORK`
-- `AFFILIATE_LINK_SIDE_AI`
-- `AFFILIATE_LINK_SIDE_LEARNING`
+- A8 media member recruitment for side hustle
+- A8 fortune/chat/phone fortune programs for fortune
+- carefully vetted LINE registration offers
