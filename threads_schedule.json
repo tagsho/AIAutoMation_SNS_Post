@@ -40,6 +40,15 @@
       "failed_at": "2026-05-21T23:38:28.112Z"
     },
     {
+      "id": "side-20260522-pm",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-22T20:50:00",
+      "status": "failed",
+      "text": "副業で最初に見るべきなのは、作業量より単価。\n\n1件100円の案件を100件取るのと、1件1万円の案件を1件取るのでは、必要な導線がまったく違う。\n\n低単価で消耗しない設計を先に考える。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Friday, 22-May-26 06:59:14 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AFDP7BsG7ab2kFedF7uJL7h\"}}",
+      "failed_at": "2026-05-22T13:59:14.707Z"
+    },
+    {
       "id": "fortune-20260522-pm",
       "account_id": "fortune",
       "scheduled_at": "2026-05-22T21:30:00",
@@ -48,15 +57,6 @@
       "creation_id": "18145829890446749",
       "post_id": "18099393674113273",
       "published_at": "2026-05-22T13:59:14.541Z"
-    },
-    {
-      "id": "side-20260522-pm",
-      "account_id": "side_hustle",
-      "scheduled_at": "2026-05-22T20:50:00",
-      "status": "failed",
-      "text": "副業で最初に見るべきなのは、作業量より単価。\n\n1件100円の案件を100件取るのと、1件1万円の案件を1件取るのでは、必要な導線がまったく違う。\n\n低単価で消耗しない設計を先に考える。",
-      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Friday, 22-May-26 06:59:14 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AFDP7BsG7ab2kFedF7uJL7h\"}}",
-      "failed_at": "2026-05-22T13:59:14.707Z"
     },
     {
       "id": "fortune-20260523-am",
@@ -78,6 +78,15 @@
       "failed_at": "2026-05-22T23:43:53.722Z"
     },
     {
+      "id": "side-20260523-pm",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-23T20:50:00",
+      "status": "failed",
+      "text": "AI副業で大事なのは、AIに丸投げすることじゃない。\n\n市場を決める、投稿を作る、反応を見る、導線を直す。\n\nAIはこの作業を短くする道具。市場選びまでサボると弱い。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Saturday, 23-May-26 04:51:29 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AjZ-F2l7V565HI0qrcT10sP\"}}",
+      "failed_at": "2026-05-23T11:51:29.290Z"
+    },
+    {
       "id": "fortune-20260523-pm",
       "account_id": "fortune",
       "scheduled_at": "2026-05-23T21:30:00",
@@ -86,15 +95,6 @@
       "creation_id": "18145942087446749",
       "post_id": "18096621716014007",
       "published_at": "2026-05-23T12:52:19.123Z"
-    },
-    {
-      "id": "side-20260523-pm",
-      "account_id": "side_hustle",
-      "scheduled_at": "2026-05-23T20:50:00",
-      "status": "failed",
-      "text": "AI副業で大事なのは、AIに丸投げすることじゃない。\n\n市場を決める、投稿を作る、反応を見る、導線を直す。\n\nAIはこの作業を短くする道具。市場選びまでサボると弱い。",
-      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Saturday, 23-May-26 04:51:29 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AjZ-F2l7V565HI0qrcT10sP\"}}",
-      "failed_at": "2026-05-23T11:51:29.290Z"
     },
     {
       "id": "fortune-20260524-am",
@@ -116,6 +116,15 @@
       "failed_at": "2026-05-24T01:33:55.057Z"
     },
     {
+      "id": "side-20260524-pm",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-24T20:50:00",
+      "status": "failed",
+      "text": "アダルト系のアフィリは、露骨に投稿するほど強いわけじゃない。\n\n強いのは、需要を理解して、規約に触れにくい導線を作れる人。\n\n表では市場と仕組みを話すくらいがちょうどいい。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Sunday, 24-May-26 05:44:56 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AstQGl3NEn_LDUDHDgvGgT1\"}}",
+      "failed_at": "2026-05-24T12:44:56.790Z"
+    },
+    {
       "id": "fortune-20260524-pm",
       "account_id": "fortune",
       "scheduled_at": "2026-05-24T21:30:00",
@@ -124,15 +133,6 @@
       "creation_id": "18146066623446749",
       "post_id": "18047532467604064",
       "published_at": "2026-05-24T12:44:56.705Z"
-    },
-    {
-      "id": "side-20260524-pm",
-      "account_id": "side_hustle",
-      "scheduled_at": "2026-05-24T20:50:00",
-      "status": "failed",
-      "text": "アダルト系のアフィリは、露骨に投稿するほど強いわけじゃない。\n\n強いのは、需要を理解して、規約に触れにくい導線を作れる人。\n\n表では市場と仕組みを話すくらいがちょうどいい。",
-      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 20-May-26 20:00:00 PDT. The current time is Sunday, 24-May-26 05:44:56 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AstQGl3NEn_LDUDHDgvGgT1\"}}",
-      "failed_at": "2026-05-24T12:44:56.790Z"
     },
     {
       "id": "fortune-20260525-am",
@@ -154,18 +154,18 @@
       "failed_at": "2026-05-24T23:40:36.515Z"
     },
     {
-      "id": "fortune-20260525-pm",
-      "account_id": "fortune",
-      "scheduled_at": "2026-05-25T21:30:00",
-      "status": "scheduled",
-      "text": "好きな人から返信が来ないとき、自分の価値まで下げて考えない。\n\n返信速度と気持ちは、いつも同じではない。\n\n今夜は相手を読むより、自分の気持ちを休ませる。"
-    },
-    {
       "id": "side-20260525-pm",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-25T20:50:00",
       "status": "scheduled",
       "text": "高単価アフィリは、クリック数が少なくても勝負できる。\n\nその代わり、いきなり売り込むと逃げられる。\n\n投稿で悩みを拾って、プロフィールで整理して、リンク先で選ばせる。"
+    },
+    {
+      "id": "fortune-20260525-pm",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-25T21:30:00",
+      "status": "scheduled",
+      "text": "好きな人から返信が来ないとき、自分の価値まで下げて考えない。\n\n返信速度と気持ちは、いつも同じではない。\n\n今夜は相手を読むより、自分の気持ちを休ませる。"
     },
     {
       "id": "fortune-20260526-am",
@@ -182,18 +182,18 @@
       "text": "AIツールは稼ぐ道具というより、調べる、書く、整える時間を短くする道具。\n\n期待値を間違えないほうが続く。\n\n楽に稼ぐより、続けるために楽にする。"
     },
     {
-      "id": "fortune-20260526-pm",
-      "account_id": "fortune",
-      "scheduled_at": "2026-05-26T21:30:00",
-      "status": "scheduled",
-      "text": "今日の開運ワードは「いったん置いておく」。\n\n恋愛も仕事も、焦って答えを出そうとすると流れが詰まりやすい。\n\n一晩寝かせるだけで、見えるものが変わる。"
-    },
-    {
       "id": "side-20260526-pm",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-26T20:50:00",
       "status": "scheduled",
       "text": "副業で一番もったいないのは、調べすぎて始めないこと。\n\n1週間調べたら、1件だけ応募してみる。\n\n小さく動くと、自分に合う仕事と合わない仕事が見えてくる。"
+    },
+    {
+      "id": "fortune-20260526-pm",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-26T21:30:00",
+      "status": "scheduled",
+      "text": "今日の開運ワードは「いったん置いておく」。\n\n恋愛も仕事も、焦って答えを出そうとすると流れが詰まりやすい。\n\n一晩寝かせるだけで、見えるものが変わる。"
     },
     {
       "id": "fortune-20260527-am",
@@ -210,18 +210,18 @@
       "text": "月1万円の副業は、人生を変えない。\n\nでも「自分で稼げた」があると、次の判断が変わる。\n\n小さい実績は、金額以上に強い。"
     },
     {
-      "id": "fortune-20260527-pm",
-      "account_id": "fortune",
-      "scheduled_at": "2026-05-27T21:30:00",
-      "status": "scheduled",
-      "text": "相手の気持ちが分からないときは、言葉より継続を見る。\n\n派手な一言より、何度も戻ってくる態度に本音が出る。\n\n不安な夜ほど、事実だけを拾う。"
-    },
-    {
       "id": "side-20260527-pm",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-27T20:50:00",
       "status": "scheduled",
       "text": "在宅ワークを探すときは、報酬より先に納期を見る。\n\n納期が読めない案件は、生活に入りにくい。\n\n副業は稼げるかだけじゃなく、続けられるかで選ぶ。"
+    },
+    {
+      "id": "fortune-20260527-pm",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-27T21:30:00",
+      "status": "scheduled",
+      "text": "相手の気持ちが分からないときは、言葉より継続を見る。\n\n派手な一言より、何度も戻ってくる態度に本音が出る。\n\n不安な夜ほど、事実だけを拾う。"
     },
     {
       "id": "fortune-20260528-am",
@@ -238,6 +238,13 @@
       "text": "副業を続けるコツは、最初から完璧なジャンルを選ばないこと。\n\n小さく試して、反応があるものに寄せる。\n\n調べる時間と動く時間のバランスが大事。"
     },
     {
+      "id": "side-20260528-pm",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-28T20:50:00",
+      "status": "scheduled",
+      "text": "副業を始めるなら、今月の目標は「稼ぐ」より「1つ納品する」。\n\n最初の実績は小さくていい。\n\n完璧な準備より、終わらせた経験のほうが次につながる。"
+    },
+    {
       "id": "fortune-20260528-pm",
       "account_id": "fortune",
       "scheduled_at": "2026-05-28T21:30:00",
@@ -245,11 +252,324 @@
       "text": "今週の恋愛メモ。\n\nいちばん心が揺れた相手より、いちばん安心して話せた相手を思い出してみる。\n\n恋が苦しいときほど、安心の感覚を見落としやすい。"
     },
     {
-      "id": "side-20260528-pm",
-      "account_id": "side_hustle",
-      "scheduled_at": "2026-05-28T20:50:00",
+      "id": "fortune-202605290740-reconciliation-24f5a7",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-29T07:40:00",
       "status": "scheduled",
-      "text": "副業を始めるなら、今月の目標は「稼ぐ」より「1つ納品する」。\n\n最初の実績は小さくていい。\n\n完璧な準備より、終わらせた経験のほうが次につながる。"
+      "kind": "generated_trust",
+      "pillar": "reconciliation",
+      "generated_at": "2026-05-25T06:08:48.293Z",
+      "text": "恋で苦しいときほど、相手の気持ちばかり見に行ってしまう。\n\n返事の速さとあなたの大切さは、同じものではない。\n\n動く日と整える日は、分けて考えていい。\n\n焦らない選択も、ちゃんと前に進むこと。"
+    },
+    {
+      "id": "side_hustle-202605290810-ai-workflow-b2f8a2",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-29T08:10:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-05-25T06:08:48.295Z",
+      "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n副業は作業より、設計で差がつく。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "fortune-202605291220-uncertain-relation-63b6e4",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-29T12:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "uncertain_relation",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "好きだから待てる日もある。\n\n未練が一番強い日に送る言葉は、重くなりやすい。\n\n恋の中でも、自分の生活は置き去りにしなくていい。\n\n今日は、答えより呼吸を先に置く。"
+    },
+    {
+      "id": "side_hustle-202605291250-sns-funnel-fac409",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-29T12:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-05-25T06:08:48.295Z",
+      "text": "Threadsは短い文章で温度を作りやすい。\n\nリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n先に市場を選ぶと、努力の空振りが減る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "fortune-202605291810-fortune-question-b5a85c",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-29T18:10:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "fortune_question",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "占いに聞くなら、まず悩みを一つに絞る。\n\n返事の速さとあなたの大切さは、同じものではない。\n\nそれは我慢ではなく、自分を守る準備。\n\n今日は、答えより呼吸を先に置く。"
+    },
+    {
+      "id": "side_hustle-202605291840-adult-adjacent-safe-f9ad42",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-29T18:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-05-25T06:08:48.295Z",
+      "text": "稼げる人は、投稿文だけを見ていない。\n\nリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202605292150-beginner-mistake-3373ba",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-29T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-05-25T06:08:48.295Z",
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n量を増やす前に、単価と需要を見る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "fortune-202605292230-self-respect-023500",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-29T22:30:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "self_respect",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "曖昧な関係ほど、優しい一言に期待して沈黙で崩れやすい。\n\n相手ではなく、自分の不安を先に見てあげる。\n\n今日は結論より、落ち着いて待てる距離を作る日。\n\n焦らない選択も、ちゃんと前に進むこと。"
+    },
+    {
+      "id": "fortune-202605300740-soft-cta-47ff4a",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-30T07:40:00",
+      "status": "scheduled",
+      "kind": "generated_cta",
+      "pillar": "soft_cta",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "占いに聞くなら、決断を丸投げするより今どう動くかを整理する使い方がいい。\n\n連絡、待つ、距離を置く。迷いが強い夜ほど、質問を一つに絞る。\n\n話しながら整理したい人向けです。\n\nhttps://afi2.vernis.co.jp/r/3edu5o6"
+    },
+    {
+      "id": "side_hustle-202605300810-soft-cta-6de157",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-30T08:10:00",
+      "status": "scheduled",
+      "kind": "generated_cta",
+      "pillar": "soft_cta",
+      "generated_at": "2026-05-25T06:08:48.295Z",
+      "text": "Threadsで高単価ASPを狙うなら、毎回リンクを貼るより固定導線を作るほうが自然。\n\n投稿は興味、プロフィールは整理、リンク先で比較。\n\nThreads向けの入口として置いておきます。\n\nhttps://deeps.me/u/chiruchiru/a/tamaafi/r/8R3swzVWYy"
+    },
+    {
+      "id": "fortune-202605301220-before-sending-4df989",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-30T12:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "before_sending",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "好きだから待てる日もある。\n\n相手ではなく、自分の不安を先に見てあげる。\n\n恋の中でも、自分の生活は置き去りにしなくていい。\n\n今夜は結論を出さない勇気でいい。"
+    },
+    {
+      "id": "side_hustle-202605301250-high-ticket-09fd63",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-30T12:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-05-25T06:08:48.295Z",
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n強い市場ほど、表現と導線を間違えると危ない。\n\n先に市場を選ぶと、努力の空振りが減る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "fortune-202605301810-reconciliation-f4e7e9",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-30T18:10:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "reconciliation",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "寂しいときに送る一言ほど、本音より不安が前に出やすい。\n\n相手の態度を読む前に、自分がどんな扱いを望むのかを見る。\n\n送る前に一度だけ、深呼吸してからでいい。\n\n今夜は結論を出さない勇気でいい。"
+    },
+    {
+      "id": "side_hustle-202605301840-ai-workflow-5fe089",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-30T18:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-05-25T06:08:48.295Z",
+      "text": "Threadsは短い文章で温度を作りやすい。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\n先に出口を決める。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202605302150-sns-funnel-353dfe",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-30T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-05-25T06:08:48.295Z",
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n雑な煽りではなく、比較して納得してもらう導線がいる。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "fortune-202605302230-uncertain-relation-00fac0",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-30T22:30:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "uncertain_relation",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "好きだから待てる日もある。\n\n今は待つ時期か、動くなら何を避けるべきかまで考える。\n\n送る前に一度だけ、深呼吸してからでいい。\n\n今夜は結論を出さない勇気でいい。"
+    },
+    {
+      "id": "fortune-202605310740-fortune-question-95539b",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-31T07:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "fortune_question",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "不安なまま送ると、確認したい言葉が責めているように見えることがある。\n\nでも返信の遅さだけで、好意の有無まで決めなくていい。\n\n大事にされたい気持ちは、わがままではない。\n\n相手を読む前に、自分の本音を拾う。"
+    },
+    {
+      "id": "side_hustle-202605310810-adult-adjacent-safe-d0af6b",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-31T08:10:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-05-25T06:08:48.296Z",
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\nルールと境界線を理解して設計するほうが長く残る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "fortune-202605311220-self-respect-282813",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-31T12:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "self_respect",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "曖昧な関係ほど、優しい一言に期待して沈黙で崩れやすい。\n\n自分がどれだけ無理をしているかも同じくらい大切。\n\n動く日と整える日は、分けて考えていい。\n\n焦らない選択も、ちゃんと前に進むこと。"
+    },
+    {
+      "id": "side_hustle-202605311250-beginner-mistake-4f2599",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-31T12:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-05-25T06:08:48.296Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n先に市場を選ぶと、努力の空振りが減る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "fortune-202605311810-before-sending-a18fd1",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-31T18:10:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "before_sending",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "占いに聞くなら、まず悩みを一つに絞る。\n\nその想像は事実ではなく、不安が作った仮説かもしれない。\n\n答えを丸投げせず、気持ちを整理する使い方がいい。\n\n焦らない選択も、ちゃんと前に進むこと。"
+    },
+    {
+      "id": "side_hustle-202605311840-high-ticket-bc5f60",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-31T18:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-05-25T06:08:48.296Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202605312150-ai-workflow-f59ca5",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-05-31T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-05-25T06:08:48.296Z",
+      "text": "男性向け市場は需要が強い。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n仕組みにすると、毎日の迷いが減る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "fortune-202605312230-reconciliation-e3a92e",
+      "account_id": "fortune",
+      "scheduled_at": "2026-05-31T22:30:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "reconciliation",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "既読のまま止まると、悪い想像ばかり増えやすい。\n\nでも返信の遅さだけで、好意の有無まで決めなくていい。\n\nそれは我慢ではなく、自分を守る準備。\n\n相手を読む前に、自分の本音を拾う。"
+    },
+    {
+      "id": "fortune-202606010740-uncertain-relation-265dde",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-01T07:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "uncertain_relation",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "既読のまま止まると、悪い想像ばかり増えやすい。\n\n相手の態度を読む前に、自分がどんな扱いを望むのかを見る。\n\n送る前に一度だけ、深呼吸してからでいい。\n\n今日は、答えより呼吸を先に置く。"
+    },
+    {
+      "id": "side_hustle-202606010810-sns-funnel-7e3c54",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-01T08:10:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-05-25T06:08:48.296Z",
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n雑な煽りではなく、比較して納得してもらう導線がいる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "fortune-202606011220-fortune-question-657967",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-01T12:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "fortune_question",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "寂しいときに送る一言ほど、本音より不安が前に出やすい。\n\n自分がどれだけ無理をしているかも同じくらい大切。\n\n恋の中でも、自分の生活は置き去りにしなくていい。\n\n相手を読む前に、自分の本音を拾う。"
+    },
+    {
+      "id": "side_hustle-202606011250-adult-adjacent-safe-7297b1",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-01T12:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-05-25T06:08:48.296Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n副業は作業より、設計で差がつく。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "fortune-202606011810-self-respect-baa49d",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-01T18:10:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "self_respect",
+      "generated_at": "2026-05-25T06:08:48.294Z",
+      "text": "不安なまま送ると、確認したい言葉が責めているように見えることがある。\n\n自分がどれだけ無理をしているかも同じくらい大切。\n\n動く日と整える日は、分けて考えていい。\n\n今日は、答えより呼吸を先に置く。"
+    },
+    {
+      "id": "side_hustle-202606011840-beginner-mistake-eec8f1",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-01T18:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-05-25T06:08:48.297Z",
+      "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\nルールと境界線を理解して設計するほうが長く残る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606012150-soft-cta-1394cc",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-01T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_cta",
+      "pillar": "soft_cta",
+      "generated_at": "2026-05-25T06:08:48.297Z",
+      "text": "AIで副業を回したい人ほど、先に作業の流れを決めたほうがいい。\n\n投稿作成、予約、リンク導線、改善。この順番で仕組みにする。\n\nAI自動化寄りで見るならこれ。\n\nhttps://deeps.me/u/rLK5dxngFm/a/UaHm2p7C3n/r/8R3swzVWYy"
+    },
+    {
+      "id": "fortune-202606012230-before-sending-374246",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-01T22:30:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "before_sending",
+      "generated_at": "2026-05-25T06:08:48.295Z",
+      "text": "既読のまま止まると、悪い想像ばかり増えやすい。\n\n返事の速さとあなたの大切さは、同じものではない。\n\nそれだけで、言葉の温度は少し変わる。\n\n今夜は結論を出さない勇気でいい。"
     }
   ]
 }
