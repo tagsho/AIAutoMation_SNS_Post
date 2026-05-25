@@ -12,6 +12,32 @@ This lets us include adult-affiliate offers without making Threads posts explici
 
 ## Best Candidates
 
+### 0. Urakaku Revolution
+
+- URL: `https://deeps.me/u/gai_sns/a/hx3VD0IG6H`
+- Affiliate URL pattern: `https://deeps.me/u/gai_sns/a/hx3VD0IG6H/r/8R3swzVWYy`
+- Category: Adult-adjacent / SNS monetization
+- Price observed: 9,980 JPY
+- Reward observed: 4,990 JPY
+- Purchases observed: 700+
+- Updated: 2026-05-17
+
+Why it is strong:
+
+- Very strong purchase proof.
+- Low price compared with the other high-ticket offers, so it can convert faster.
+- Good fit for "smartphone / low setup / market-demand" side-hustle copy.
+
+Risk:
+
+- Adult-adjacent and aggressive income claims on the product page.
+- Do not link directly from every Threads post.
+
+Recommended role:
+
+- Add as a lower-ticket conversion option inside the side-hustle note.
+- Use after a fit-check section, not as the first public CTA.
+
 ### 1. MudoNote -X ad affiliate-
 
 - URL: `https://deeps.me/u/mudo1/a/7EtmzJpPAm`
@@ -155,6 +181,102 @@ Recommended role:
 
 - Best fit for the current Threads account narrative.
 - Use in CTA posts about "low-ticket affiliate fatigue."
+
+### 7. Mudo Instagram Reels Method
+
+- URL: `https://deeps.me/u/mudo1/a/ktjGnCTypz`
+- Affiliate URL pattern: `https://deeps.me/u/mudo1/a/ktjGnCTypz/r/8R3swzVWYy`
+- Category: Adult affiliate / Instagram Reels
+- Price observed: 12,980 JPY
+- Reward observed: 6,490 JPY
+- Purchases observed: 100+
+- Published: 2026-04-01
+- Updated: 2026-04-01
+
+Why it is strong:
+
+- Lower-ticket than the main Mudo offers.
+- Directly connected to short-form content and SNS funnel design.
+- Immediate affiliate-link controls were visible.
+
+Risk:
+
+- Adult-affiliate offer. Keep public Threads copy indirect.
+
+Recommended role:
+
+- Secondary direct offer for users interested in Instagram/Reels rather than X/Threads.
+
+### 8. Urakun Beginner Adult-SNS Method
+
+- URL: `https://deeps.me/u/4wm7Osu1gq/a/95yy991jk6`
+- Affiliate URL pattern: `https://deeps.me/u/4wm7Osu1gq/a/95yy991jk6/r/8R3swzVWYy`
+- Category: SNS media operation / adult-adjacent
+- Price observed: 4,980 JPY
+- Reward observed: 2,490 JPY
+- Purchases observed: 500+
+- Published: 2026-03-28
+- Updated: 2026-04-01
+
+Why it is strong:
+
+- Lowest price among the verified Deeps candidates.
+- Strong purchase proof.
+- Easier impulse conversion than 30,000-40,000 JPY products.
+
+Risk:
+
+- Adult-adjacent and aggressive claims.
+
+Recommended role:
+
+- Low-ticket entry offer in the side-hustle note.
+- Good for "start small before buying high-ticket material" positioning.
+
+### 9. Fortune Affiliate x TikTok Method
+
+- URL: `https://deeps.me/u/2ulHSm6jz8/a/rJg574ESz4`
+- Affiliate URL pattern: `https://deeps.me/u/2ulHSm6jz8/a/rJg574ESz4/r/8R3swzVWYy`
+- Category: Fortune / TikTok affiliate
+- Price observed: 8,980 JPY
+- Reward observed: 4,490 JPY
+- Purchases observed: 30+
+- Published: 2025-12-17
+- Updated: 2025-12-19
+
+Why it is useful:
+
+- Connects the fortune niche and affiliate monetization.
+- Could become a bridge between the fortune account and side-hustle account.
+
+Risk:
+
+- Product page explicitly says the content may involve platform-rule risks.
+- Do not promote from the main fortune relationship account.
+
+Recommended role:
+
+- Keep as a side-hustle-account offer for people interested in fortune-affiliate operations.
+- Do not add to the romantic/fortune-reader note.
+
+### 10. X Account Sale Method
+
+- URL: `https://deeps.me/u/Faffi0/a/NZ8Byc5ytL`
+- Affiliate URL pattern tested: `https://deeps.me/u/Faffi0/a/NZ8Byc5ytL/r/8R3swzVWYy`
+- Category: SNS media operation
+- Price observed: 14,800 JPY
+- Reward observed: 5,920 JPY
+- Purchases observed: 100+
+- Published: 2026-02-21
+- Updated: 2026-05-13
+
+Status:
+
+- The page displayed "purchase required before affiliate promotion."
+
+Recommended role:
+
+- Do not use in the current funnel unless purchased/unlocked.
 
 ## Avoid Or Keep Low Priority
 
