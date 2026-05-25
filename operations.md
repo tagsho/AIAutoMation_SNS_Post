@@ -15,6 +15,56 @@
 4. Check replies, likes, profile visits, and link clicks every Sunday.
 5. Replace weak themes with stronger variants next week.
 
+## Auto Content Generation
+
+Implemented goal:
+
+- Generate different scheduled post text for both accounts.
+- Keep the same proven content pillars while varying the actual wording.
+- Top up `threads_schedule.json` from GitHub Actions so the PC can be closed.
+- Use CTA/link posts sparingly instead of posting affiliate links every time.
+
+Files:
+
+- `content_generation_config.json`
+  - Posting times per account
+  - Link destinations
+  - CTA ratio via `generation.link_every`
+  - Days of future inventory via `generation.days_ahead`
+- `scripts/generate_threads_schedule.mjs`
+  - Generates future scheduled posts
+  - Avoids duplicate text already in `threads_schedule.json`
+  - Adds `kind`, `pillar`, and `generated_at` metadata to generated posts
+- `.github/workflows/threads-scheduler.yml`
+  - Runs generation before publishing due posts
+  - Commits generated schedule updates back to GitHub
+
+Manual generation command:
+
+```bash
+node scripts/generate_threads_schedule.mjs --days-ahead=7
+```
+
+Preview without changing files:
+
+```bash
+node scripts/generate_threads_schedule.mjs --dry-run --days-ahead=7
+```
+
+Useful adjustments:
+
+- Increase/decrease CTA frequency: edit `generation.link_every`
+  - `10` means roughly 1 link post per 10 generated posts per account.
+- Change posting times: edit `accounts.*.times`
+- Change affiliate or note links: edit `accounts.*.links`
+- Change recurring topic mix: edit `accounts.*.pillars`
+
+Current recommendation:
+
+- Keep `link_every` at `10` while the accounts are young.
+- Review weekly and only increase CTA ratio after link clicks or profile visits appear.
+- Replace weak pillars, not only weak individual posts.
+
 ## Content Ratio
 
 - 70%: Trust posts
@@ -29,7 +79,7 @@
 - 10%: CTA posts
   - "profileにまとめました"
   - "固定投稿に置きました"
-  - "無料枠だけ確認しておく"
+  - "条件を確認しておく"
 
 ## Fortune Account
 
