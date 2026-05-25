@@ -1,0 +1,49 @@
+{
+  "timezone": "Asia/Tokyo",
+  "generation": {
+    "days_ahead": 7,
+    "link_every": 10,
+    "max_length": 300
+  },
+  "accounts": {
+    "fortune": {
+      "times": ["08:10", "21:30"],
+      "links": {
+        "note": "https://note.com/idoljp/n/n7fe85e1645c8",
+        "reconciliation": "https://afi2.vernis.co.jp/r/3ebu5o6",
+        "general": "https://afi2.vernis.co.jp/r/3e9u5o6",
+        "chat": "https://afi2.vernis.co.jp/r/3edu5o6",
+        "line": "https://afi2.vernis.co.jp/r/3k5u5o6"
+      },
+      "pillars": [
+        "reply_waiting",
+        "before_sending",
+        "reconciliation",
+        "uncertain_relation",
+        "fortune_question",
+        "self_respect",
+        "soft_cta"
+      ]
+    },
+    "side_hustle": {
+      "times": ["08:40", "20:50"],
+      "links": {
+        "note": "https://note.com/idoljp/n/n50b93e6a4b1c",
+        "threads_asp": "https://deeps.me/u/chiruchiru/a/tamaafi/r/8R3swzVWYy",
+        "ai_automation": "https://deeps.me/u/rLK5dxngFm/a/UaHm2p7C3n/r/8R3swzVWYy",
+        "ai_instagram": "https://deeps.me/u/mobuemon01/a/PYpooWS7kO/r/8R3swzVWYy",
+        "mudo": "https://deeps.me/u/mudo1/a/7EtmzJpPAm/r/8R3swzVWYy",
+        "miiko": "https://deeps.me/u/BHP8Y0Gwi5/a/miiko_01/r/8R3swzVWYy"
+      },
+      "pillars": [
+        "market_selection",
+        "high_ticket",
+        "ai_workflow",
+        "sns_funnel",
+        "adult_adjacent_safe",
+        "beginner_mistake",
+        "soft_cta"
+      ]
+    }
+  }
+}
