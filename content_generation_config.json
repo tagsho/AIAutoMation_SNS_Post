@@ -2,7 +2,7 @@
   "timezone": "Asia/Tokyo",
   "generation": {
     "days_ahead": 7,
-    "link_every": 10,
+    "link_every": 6,
     "max_length": 300
   },
   "accounts": {
