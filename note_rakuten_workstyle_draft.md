@@ -40,9 +40,9 @@
 
 楽天リンク:
 
-- `RAKUTEN_LINK_CUSHION`
-- `RAKUTEN_LINK_FOOTREST`
-- `RAKUTEN_LINK_MONITOR_STAND`
+- 椅子用クッション: https://hb.afl.rakuten.co.jp/ichiba/542f1d07.dc3a1b9f.542f1d08.f2748080/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmygear%2F90xb086ldc55r%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
+- モニター台: https://hb.afl.rakuten.co.jp/ichiba/542f185a.1c16dd4c.542f185b.69fdda5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F285230%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
+- デスクライト: https://hb.afl.rakuten.co.jp/ichiba/542f1d40.14b5f3dc.542f1d41.eb9c9ff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fy0662%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 2. 机が狭くて集中できない人向け
 
@@ -59,9 +59,9 @@
 
 楽天リンク:
 
-- `RAKUTEN_LINK_CABLE_BOX`
-- `RAKUTEN_LINK_LAPTOP_STAND`
-- `RAKUTEN_LINK_DESK_TRAY`
+- ケーブルトレー: https://hb.afl.rakuten.co.jp/ichiba/542f1d28.a300def3.542f1d29.7578a583/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmscien%2Fms-wo01%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
+- ノートPCスタンド: https://hb.afl.rakuten.co.jp/ichiba/542f1cb6.7dacfc97.542f1cb7.b6621f35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdeoway%2Fb0cb7tvy3d%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
+- モニター台: https://hb.afl.rakuten.co.jp/ichiba/542f185a.1c16dd4c.542f185b.69fdda5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F285230%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 3. AI作業を回しやすくする小物
 
@@ -78,9 +78,9 @@ AIで投稿案や記事構成を作るなら、入力と見比べのしやすさ
 
 楽天リンク:
 
-- `RAKUTEN_LINK_KEYBOARD`
-- `RAKUTEN_LINK_MOUSE`
-- `RAKUTEN_LINK_TIMER`
+- 静音マウス: https://hb.afl.rakuten.co.jp/ichiba/542f1cd8.1468ab70.542f1cd9.2a81a4de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm220gr%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
+- タイマー: https://hb.afl.rakuten.co.jp/ichiba/542f1cf0.f915d440.542f1cf1.86d37fb6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fogawahan%2F10009091%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIxMDB4MTAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
+- ノートPCスタンド: https://hb.afl.rakuten.co.jp/ichiba/542f1cb6.7dacfc97.542f1cb7.b6621f35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdeoway%2Fb0cb7tvy3d%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 4. 一人暮らし・時短グッズ
 
@@ -97,9 +97,8 @@ AIで投稿案や記事構成を作るなら、入力と見比べのしやすさ
 
 楽天リンク:
 
-- `RAKUTEN_LINK_CLEANING`
-- `RAKUTEN_LINK_STORAGE`
-- `RAKUTEN_LINK_KITCHEN`
+- 収納ボックス: https://hb.afl.rakuten.co.jp/ichiba/542f1d32.5b7653b7.542f1d33.3ab3444f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshikimono%2F240653100x%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
+- ケーブルトレー: https://hb.afl.rakuten.co.jp/ichiba/542f1d28.a300def3.542f1d29.7578a583/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmscien%2Fms-wo01%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 買う前の注意点
 
@@ -125,6 +124,6 @@ AIで投稿案や記事構成を作るなら、入力と見比べのしやすさ
 
 楽天リンク:
 
-- `RAKUTEN_LINK_SUMMARY_1`
-- `RAKUTEN_LINK_SUMMARY_2`
-- `RAKUTEN_LINK_SUMMARY_3`
+- まず試しやすい: ノートPCスタンド https://hb.afl.rakuten.co.jp/ichiba/542f1cb6.7dacfc97.542f1cb7.b6621f35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdeoway%2Fb0cb7tvy3d%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
+- 机まわり改善: ケーブルトレー https://hb.afl.rakuten.co.jp/ichiba/542f1d28.a300def3.542f1d29.7578a583/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmscien%2Fms-wo01%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
+- 集中しやすい環境: デスクライト https://hb.afl.rakuten.co.jp/ichiba/542f1d40.14b5f3dc.542f1d41.eb9c9ff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fy0662%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
