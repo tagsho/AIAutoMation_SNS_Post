@@ -113,6 +113,30 @@ Fixed post role:
 - Avoid exaggerated income claims.
 - Emphasize market selection, funnel design, and avoiding low-ticket fatigue.
 
+## Rakuten Affiliate Track
+
+Use Rakuten-style content as a low-friction trust layer for the side-hustle account.
+
+Current role:
+
+- Keep Deeps offers as the high-ticket monetization path.
+- Add a recurring everyday-product pillar around work environment and time-saving goods.
+- Route Rakuten-style CTAs to a note first, then replace with a dedicated Rakuten note after links are obtained.
+
+Content angle:
+
+- AIで副業を続ける人の作業環境
+- 在宅ワークの肩こり、机まわり、集中しにくさ
+- 一人暮らしや時短グッズ
+- 悩み、選び方、比較、注意点、商品リンク
+
+Compliance notes:
+
+- Avoid "放置で稼げる" as a literal promise.
+- Do not use non-Rakuten URL shorteners for Rakuten affiliate links.
+- Do not send affiliate links via DM or closed channels.
+- Keep product posts useful even without a purchase.
+
 ## Next Link Expansion
 
 When approved, add opt-in links:
