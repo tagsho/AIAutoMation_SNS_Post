@@ -197,15 +197,21 @@
       "id": "side-20260526-pm",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-26T20:50:00",
-      "status": "scheduled",
-      "text": "副業で一番もったいないのは、調べすぎて始めないこと。\n\n1週間調べたら、1件だけ応募してみる。\n\n小さく動くと、自分に合う仕事と合わない仕事が見えてくる。"
+      "status": "published",
+      "text": "副業で一番もったいないのは、調べすぎて始めないこと。\n\n1週間調べたら、1件だけ応募してみる。\n\n小さく動くと、自分に合う仕事と合わない仕事が見えてくる。",
+      "creation_id": "18036409847616906",
+      "post_id": "18120803278607656",
+      "published_at": "2026-05-26T16:26:49.694Z"
     },
     {
       "id": "fortune-20260526-pm",
       "account_id": "fortune",
       "scheduled_at": "2026-05-26T21:30:00",
-      "status": "scheduled",
-      "text": "今日の開運ワードは「いったん置いておく」。\n\n恋愛も仕事も、焦って答えを出そうとすると流れが詰まりやすい。\n\n一晩寝かせるだけで、見えるものが変わる。"
+      "status": "published",
+      "text": "今日の開運ワードは「いったん置いておく」。\n\n恋愛も仕事も、焦って答えを出そうとすると流れが詰まりやすい。\n\n一晩寝かせるだけで、見えるものが変わる。",
+      "creation_id": "18146328094446749",
+      "post_id": "18556248241066287",
+      "published_at": "2026-05-26T16:26:57.417Z"
     },
     {
       "id": "fortune-20260527-am",
@@ -662,6 +668,86 @@
       "pillar": "fortune_question",
       "generated_at": "2026-05-25T16:13:38.725Z",
       "text": "復縁したい気持ちが強いほど、今すぐ動きたくなる。\n\n送る前に、何を返してほしいのかだけ書き出してみる。\n\nそれは我慢ではなく、自分を守る準備。\n\n今日は、答えより呼吸を先に置く。"
+    },
+    {
+      "id": "fortune-202606030740-fortune-question-45d36d",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-03T07:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "fortune_question",
+      "generated_at": "2026-05-26T16:26:40.457Z",
+      "text": "相談するときは、聞きたいことを一つに絞るほど楽になる。\n\n復縁、連絡、相性、不安。全部を一度に抱えると苦しい。\n\nまず今夜いちばん重い悩みだけでいい。\n\n焦らない選択も、ちゃんと前に進むこと。"
+    },
+    {
+      "id": "side_hustle-202606030810-beginner-mistake-9228c1",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-03T08:10:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-05-26T16:26:40.458Z",
+      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "fortune-202606031220-self-respect-1eb77e",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-03T12:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "self_respect",
+      "generated_at": "2026-05-26T16:26:40.457Z",
+      "text": "恋で苦しいときほど、相手の気持ちばかり見に行ってしまう。\n\n恋の結果とあなたの魅力は、同じものではない。\n\n大事にされたい気持ちは、わがままではない。\n\n不安な夜ほど、自分側に戻ってくる。"
+    },
+    {
+      "id": "side_hustle-202606031250-market-selection-b9e792",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-03T12:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "market_selection",
+      "generated_at": "2026-05-26T16:26:40.458Z",
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n副業は作業より、設計で差がつく。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "fortune-202606031810-soft-cta-63eb76",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-03T18:10:00",
+      "status": "scheduled",
+      "kind": "generated_cta",
+      "pillar": "soft_cta",
+      "generated_at": "2026-05-26T16:26:40.457Z",
+      "text": "占いに聞くなら、決断を丸投げするより「今どう動くか」を整理する使い方がいい。\n\n連絡、待つ、距離を置く。迷いが強い夜ほど、質問を一つに絞る。\n\n話しながら整理したい人向けです。\n\nhttps://afi2.vernis.co.jp/r/3edu5o6"
+    },
+    {
+      "id": "side_hustle-202606031840-ai-workflow-bdf067",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-03T18:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-05-26T16:26:40.458Z",
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202606032150-sns-funnel-cbc98d",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-03T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-05-26T16:26:40.458Z",
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "fortune-202606032230-before-sending-3adaf8",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-03T22:30:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "before_sending",
+      "generated_at": "2026-05-26T16:26:40.457Z",
+      "text": "不安なまま送ると、確認したい言葉が責めているように見えることがある。\n\nすぐ送らないだけで、責める言葉と伝えたい言葉を分けやすくなる。\n\n恋は勢いより、余白が残る一言のほうが届く日もある。\n\n焦らない選択も、ちゃんと前に進むこと。"
     }
   ]
 }
