@@ -6,14 +6,18 @@
 
 料率が高く、Threads投稿からnote記事へつなげやすい順です。
 
+直投稿に使う場合は、楽天公式の短縮URLを優先します。
+
 1. ケーブルトレー / 20.0%
    - 切り口: 机が狭い、配線が邪魔、作業前に片付けで疲れる
    - Link: https://hb.afl.rakuten.co.jp/ichiba/542f1d28.a300def3.542f1d29.7578a583/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmscien%2Fms-wo01%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
 2. ノートPCスタンド / 10.0%
    - 切り口: 姿勢、目線、肩こり、スマホ副業からPC作業へ移る人
+   - Short: https://a.r10.to/hkmzmp
    - Link: https://hb.afl.rakuten.co.jp/ichiba/542f1cb6.7dacfc97.542f1cb7.b6621f35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdeoway%2Fb0cb7tvy3d%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
 3. デスクライト / 10.0%
    - 切り口: 夜作業、目の疲れ、集中しやすい環境
+   - Short: https://a.r10.to/hkGK2P
    - Link: https://hb.afl.rakuten.co.jp/ichiba/542f1d40.14b5f3dc.542f1d41.eb9c9ff2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fy0662%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 追加候補
@@ -26,6 +30,7 @@
 
 ## 運用メモ
 
-- Threads単体には原則直リンクを貼らず、note記事に誘導する。
+- Threads単体の直リンクも使う。ただし楽天公式短縮URL、`#PR` 表記、商品ごとの悩み訴求をセットにする。
+- 直リンクはCTA枠内で混ぜる。通常投稿ではリンクなしの信頼投稿を維持する。
 - 投稿は悩み起点にする。「副業が続かない」ではなく「机が散らかって作業前に疲れる」のように具体化する。
 - 価格、在庫、クーポンは変わるので、note本文では「最新情報は商品ページで確認」と書く。
