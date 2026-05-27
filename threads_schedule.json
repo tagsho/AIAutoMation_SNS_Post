@@ -249,19 +249,25 @@
       "id": "side-boost-20260527-1520-trust",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-27T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
-      "text": "副業が続かない原因、やる気より環境のことがある。\n\n机が狭い、椅子が合わない、目が疲れる。\n\n小さいストレスを減らすだけで、夜の作業に入りやすくなる。"
+      "text": "副業が続かない原因、やる気より環境のことがある。\n\n机が狭い、椅子が合わない、目が疲れる。\n\n小さいストレスを減らすだけで、夜の作業に入りやすくなる。",
+      "creation_id": "18036492824616906",
+      "post_id": "18084036347629148",
+      "published_at": "2026-05-27T10:17:43.245Z"
     },
     {
       "id": "side-boost-20260527-1840-deeps",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-27T18:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_cta",
       "pillar": "soft_cta",
-      "text": "SNSアフィリは、投稿を増やすだけだと売上に変わりにくい。\n\n市場、固定導線、リンク先。この3つを先に作る。\n\nThreads向けの入口として置いておきます。\n\nhttps://deeps.me/u/chiruchiru/a/tamaafi/r/8R3swzVWYy"
+      "text": "SNSアフィリは、投稿を増やすだけだと売上に変わりにくい。\n\n市場、固定導線、リンク先。この3つを先に作る。\n\nThreads向けの入口として置いておきます。\n\nhttps://deeps.me/u/chiruchiru/a/tamaafi/r/8R3swzVWYy",
+      "creation_id": "18036492833616906",
+      "post_id": "17904423864264029",
+      "published_at": "2026-05-27T10:17:51.814Z"
     },
     {
       "id": "side-20260527-pm",
