@@ -27,6 +27,31 @@ jobs:
       - name: Generate future scheduled posts
         run: node scripts/generate_threads_schedule.mjs --days-ahead=7
 
+      - name: Merge boosted side hustle posts
+        run: |
+          node - <<'NODE'
+          const fs = require('node:fs');
+          const schedulePath = 'threads_schedule.json';
+          const boostPath = 'side_hustle_boost_posts.json';
+          if (!fs.existsSync(boostPath)) {
+            console.log('No boost posts file.');
+            process.exit(0);
+          }
+          const schedule = JSON.parse(fs.readFileSync(schedulePath, 'utf8'));
+          const boost = JSON.parse(fs.readFileSync(boostPath, 'utf8'));
+          const existing = new Set(schedule.posts.map((post) => post.id));
+          const additions = boost.posts.filter((post) => !existing.has(post.id));
+          if (additions.length === 0) {
+            console.log('No boost posts to merge.');
+            process.exit(0);
+          }
+          const parseTime = (value) => /[zZ]|[+-]\d\d:\d\d$/.test(value) ? new Date(value) : new Date(`${value}+09:00`);
+          schedule.posts.push(...additions);
+          schedule.posts.sort((a, b) => parseTime(a.scheduled_at) - parseTime(b.scheduled_at) || a.account_id.localeCompare(b.account_id));
+          fs.writeFileSync(schedulePath, `${JSON.stringify(schedule, null, 2)}\n`);
+          console.log(`Merged ${additions.length} boost posts.`);
+          NODE
+
       - name: Publish due Threads posts
         env:
           THREADS_FORTUNE_TOKEN: ${{ secrets.THREADS_FORTUNE_TOKEN }}
