@@ -369,11 +369,14 @@
       "id": "fortune-202605290740-reconciliation-24f5a7",
       "account_id": "fortune",
       "scheduled_at": "2026-05-29T07:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "reconciliation",
       "generated_at": "2026-05-25T06:08:48.293Z",
-      "text": "恋で苦しいときほど、相手の気持ちばかり見に行ってしまう。\n\n返事の速さとあなたの大切さは、同じものではない。\n\n動く日と整える日は、分けて考えていい。\n\n焦らない選択も、ちゃんと前に進むこと。"
+      "text": "恋で苦しいときほど、相手の気持ちばかり見に行ってしまう。\n\n返事の速さとあなたの大切さは、同じものではない。\n\n動く日と整える日は、分けて考えていい。\n\n焦らない選択も、ちゃんと前に進むこと。",
+      "creation_id": "18146591353446749",
+      "post_id": "17995511045785607",
+      "published_at": "2026-05-28T23:00:45.756Z"
     },
     {
       "id": "side_hustle-202605290810-ai-workflow-b2f8a2",
