@@ -337,24 +337,33 @@
       "id": "side-boost-20260528-1840-deeps",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-28T18:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_cta",
       "pillar": "soft_cta",
-      "text": "AIで副業を回したいなら、投稿作成だけじゃなく予約と改善まで仕組みにしたほうがいい。\n\n毎日迷う部分を減らす。\n\nAI自動化寄りで見るならこれ。\n\nhttps://deeps.me/u/rLK5dxngFm/a/UaHm2p7C3n/r/8R3swzVWYy"
+      "text": "AIで副業を回したいなら、投稿作成だけじゃなく予約と改善まで仕組みにしたほうがいい。\n\n毎日迷う部分を減らす。\n\nAI自動化寄りで見るならこれ。\n\nhttps://deeps.me/u/rLK5dxngFm/a/UaHm2p7C3n/r/8R3swzVWYy",
+      "creation_id": "18036619241616906",
+      "post_id": "17890434009535909",
+      "published_at": "2026-05-28T12:54:01.031Z"
     },
     {
       "id": "side-20260528-pm",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-28T20:50:00",
-      "status": "scheduled",
-      "text": "副業を始めるなら、今月の目標は「稼ぐ」より「1つ納品する」。\n\n最初の実績は小さくていい。\n\n完璧な準備より、終わらせた経験のほうが次につながる。"
+      "status": "published",
+      "text": "副業を始めるなら、今月の目標は「稼ぐ」より「1つ納品する」。\n\n最初の実績は小さくていい。\n\n完璧な準備より、終わらせた経験のほうが次につながる。",
+      "creation_id": "18036619262616906",
+      "post_id": "18059424785708000",
+      "published_at": "2026-05-28T12:54:06.868Z"
     },
     {
       "id": "fortune-20260528-pm",
       "account_id": "fortune",
       "scheduled_at": "2026-05-28T21:30:00",
-      "status": "scheduled",
-      "text": "今週の恋愛メモ。\n\nいちばん心が揺れた相手より、いちばん安心して話せた相手を思い出してみる。\n\n恋が苦しいときほど、安心の感覚を見落としやすい。"
+      "status": "published",
+      "text": "今週の恋愛メモ。\n\nいちばん心が揺れた相手より、いちばん安心して話せた相手を思い出してみる。\n\n恋が苦しいときほど、安心の感覚を見落としやすい。",
+      "creation_id": "18146538184446749",
+      "post_id": "18314920366263194",
+      "published_at": "2026-05-28T12:54:13.933Z"
     },
     {
       "id": "fortune-202605290740-reconciliation-24f5a7",
