@@ -325,10 +325,13 @@
       "id": "side-boost-20260528-1520-trust",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-28T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "market_selection",
-      "text": "楽天アフィリは高単価ではない。\n\nでも悩みが小さくて、商品までの距離が近い。\n\n肩こり、机の狭さ、夜作業の疲れ。こういう入口は投稿にしやすい。"
+      "text": "楽天アフィリは高単価ではない。\n\nでも悩みが小さくて、商品までの距離が近い。\n\n肩こり、机の狭さ、夜作業の疲れ。こういう入口は投稿にしやすい。",
+      "creation_id": "18036600845616906",
+      "post_id": "18113038591883036",
+      "published_at": "2026-05-28T09:39:18.654Z"
     },
     {
       "id": "side-boost-20260528-1840-deeps",
