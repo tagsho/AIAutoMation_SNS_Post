@@ -509,21 +509,27 @@
       "id": "fortune-202605300740-soft-cta-47ff4a",
       "account_id": "fortune",
       "scheduled_at": "2026-05-30T07:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_cta",
       "pillar": "soft_cta",
       "generated_at": "2026-05-25T06:08:48.294Z",
-      "text": "占いに聞くなら、決断を丸投げするより今どう動くかを整理する使い方がいい。\n\n連絡、待つ、距離を置く。迷いが強い夜ほど、質問を一つに絞る。\n\n話しながら整理したい人向けです。\n\nhttps://afi2.vernis.co.jp/r/3edu5o6"
+      "text": "占いに聞くなら、決断を丸投げするより今どう動くかを整理する使い方がいい。\n\n連絡、待つ、距離を置く。迷いが強い夜ほど、質問を一つに絞る。\n\n話しながら整理したい人向けです。\n\nhttps://afi2.vernis.co.jp/r/3edu5o6",
+      "creation_id": "18146711485446749",
+      "post_id": "18053346971772805",
+      "published_at": "2026-05-29T23:40:37.024Z"
     },
     {
       "id": "side_hustle-202605300810-soft-cta-6de157",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-30T08:10:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_cta",
       "pillar": "soft_cta",
       "generated_at": "2026-05-25T06:08:48.295Z",
-      "text": "Threadsで高単価ASPを狙うなら、毎回リンクを貼るより固定導線を作るほうが自然。\n\n投稿は興味、プロフィールは整理、リンク先で比較。\n\nThreads向けの入口として置いておきます。\n\nhttps://deeps.me/u/chiruchiru/a/tamaafi/r/8R3swzVWYy"
+      "text": "Threadsで高単価ASPを狙うなら、毎回リンクを貼るより固定導線を作るほうが自然。\n\n投稿は興味、プロフィールは整理、リンク先で比較。\n\nThreads向けの入口として置いておきます。\n\nhttps://deeps.me/u/chiruchiru/a/tamaafi/r/8R3swzVWYy",
+      "creation_id": "18036786092616906",
+      "post_id": "18101901938079592",
+      "published_at": "2026-05-29T23:40:44.965Z"
     },
     {
       "id": "side-boost-20260530-1140-rakuten-stand",
