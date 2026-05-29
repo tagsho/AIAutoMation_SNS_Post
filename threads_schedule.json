@@ -445,30 +445,39 @@
       "id": "fortune-202605291810-fortune-question-b5a85c",
       "account_id": "fortune",
       "scheduled_at": "2026-05-29T18:10:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "fortune_question",
       "generated_at": "2026-05-25T06:08:48.294Z",
-      "text": "占いに聞くなら、まず悩みを一つに絞る。\n\n返事の速さとあなたの大切さは、同じものではない。\n\nそれは我慢ではなく、自分を守る準備。\n\n今日は、答えより呼吸を先に置く。"
+      "text": "占いに聞くなら、まず悩みを一つに絞る。\n\n返事の速さとあなたの大切さは、同じものではない。\n\nそれは我慢ではなく、自分を守る準備。\n\n今日は、答えより呼吸を先に置く。",
+      "creation_id": "18146646886446749",
+      "post_id": "17918888514162964",
+      "published_at": "2026-05-29T11:54:18.187Z"
     },
     {
       "id": "side_hustle-202605291840-adult-adjacent-safe-f9ad42",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-29T18:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-05-25T06:08:48.295Z",
-      "text": "稼げる人は、投稿文だけを見ていない。\n\nリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "稼げる人は、投稿文だけを見ていない。\n\nリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n作業量より、設計のズレを減らすほうが先。",
+      "creation_id": "18036725447616906",
+      "post_id": "18090106124619417",
+      "published_at": "2026-05-29T11:54:24.359Z"
     },
     {
       "id": "side-boost-20260529-1840-deeps",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-29T18:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_cta",
       "pillar": "soft_cta",
-      "text": "高単価アフィリは、クリック数が少なくても数字が動く可能性がある。\n\nその代わり、案件選びと導線設計が大事。\n\nSNSアフィリ系の教材候補をまとめています。\n\nhttps://note.com/idoljp/n/n50b93e6a4b1c"
+      "text": "高単価アフィリは、クリック数が少なくても数字が動く可能性がある。\n\nその代わり、案件選びと導線設計が大事。\n\nSNSアフィリ系の教材候補をまとめています。\n\nhttps://note.com/idoljp/n/n50b93e6a4b1c",
+      "creation_id": "18036725462616906",
+      "post_id": "18102008591072245",
+      "published_at": "2026-05-29T11:54:32.253Z"
     },
     {
       "id": "side_hustle-202605292150-beginner-mistake-3373ba",
