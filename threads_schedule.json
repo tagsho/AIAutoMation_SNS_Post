@@ -433,10 +433,13 @@
       "id": "side-boost-20260529-1520-trust",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-29T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
-      "text": "投稿は売り場じゃなく入口。\n\n悩みを言語化して、興味が出た人だけリンクに進む。\n\n楽天でも高単価でも、いきなり売るより自然。"
+      "text": "投稿は売り場じゃなく入口。\n\n悩みを言語化して、興味が出た人だけリンクに進む。\n\n楽天でも高単価でも、いきなり売るより自然。",
+      "creation_id": "18036707249616906",
+      "post_id": "18001435007930183",
+      "published_at": "2026-05-29T08:35:56.327Z"
     },
     {
       "id": "fortune-202605291810-fortune-question-b5a85c",
