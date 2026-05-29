@@ -382,11 +382,14 @@
       "id": "side_hustle-202605290810-ai-workflow-b2f8a2",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-29T08:10:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-05-25T06:08:48.295Z",
-      "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n副業は作業より、設計で差がつく。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n副業は作業より、設計で差がつく。\n\n作業量より、設計のズレを減らすほうが先。",
+      "creation_id": "18036671732616906",
+      "post_id": "18011578658896803",
+      "published_at": "2026-05-29T00:18:32.789Z"
     },
     {
       "id": "side-boost-20260529-1140-rakuten-light",
