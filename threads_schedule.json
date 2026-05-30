@@ -573,10 +573,13 @@
       "id": "side-boost-20260530-1520-trust",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-30T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
-      "text": "初心者がやりがちなのは、商品リンクだけ貼ること。\n\nなぜ見るべきか、誰に合うか、どこに注意するか。\n\nこの判断材料がないと、クリックされにくい。"
+      "text": "初心者がやりがちなのは、商品リンクだけ貼ること。\n\nなぜ見るべきか、誰に合うか、どこに注意するか。\n\nこの判断材料がないと、クリックされにくい。",
+      "creation_id": "18036822698616906",
+      "post_id": "18083484791434609",
+      "published_at": "2026-05-30T07:50:07.635Z"
     },
     {
       "id": "fortune-202605301810-reconciliation-f4e7e9",
