@@ -649,21 +649,27 @@
       "id": "fortune-202605310740-fortune-question-95539b",
       "account_id": "fortune",
       "scheduled_at": "2026-05-31T07:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "fortune_question",
       "generated_at": "2026-05-25T06:08:48.294Z",
-      "text": "不安なまま送ると、確認したい言葉が責めているように見えることがある。\n\nでも返信の遅さだけで、好意の有無まで決めなくていい。\n\n大事にされたい気持ちは、わがままではない。\n\n相手を読む前に、自分の本音を拾う。"
+      "text": "不安なまま送ると、確認したい言葉が責めているように見えることがある。\n\nでも返信の遅さだけで、好意の有無まで決めなくていい。\n\n大事にされたい気持ちは、わがままではない。\n\n相手を読む前に、自分の本音を拾う。",
+      "creation_id": "18146838784446749",
+      "post_id": "18106081447890748",
+      "published_at": "2026-05-30T23:13:12.943Z"
     },
     {
       "id": "side_hustle-202605310810-adult-adjacent-safe-d0af6b",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-31T08:10:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-05-25T06:08:48.296Z",
-      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\nルールと境界線を理解して設計するほうが長く残る。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\nルールと境界線を理解して設計するほうが長く残る。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "creation_id": "18036900785616906",
+      "post_id": "18531941419072313",
+      "published_at": "2026-05-30T23:13:19.236Z"
     },
     {
       "id": "side-boost-20260531-1140-rakuten-light",
