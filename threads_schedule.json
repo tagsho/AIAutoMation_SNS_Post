@@ -535,30 +535,39 @@
       "id": "side-boost-20260530-1140-rakuten-stand",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-30T11:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "direct_rakuten_cta",
       "pillar": "rakuten_workstyle",
-      "text": "#PR 副業用に大きい買い物をする前に、小さい作業ストレスから減らすのがいい。\n\nノートPCの目線を上げるだけでも、作業の入りやすさは変わる。\n\n候補です。\n\nhttps://a.r10.to/hkmzmp"
+      "text": "#PR 副業用に大きい買い物をする前に、小さい作業ストレスから減らすのがいい。\n\nノートPCの目線を上げるだけでも、作業の入りやすさは変わる。\n\n候補です。\n\nhttps://a.r10.to/hkmzmp",
+      "creation_id": "18036809831616906",
+      "post_id": "18442602361185544",
+      "published_at": "2026-05-30T05:10:27.062Z"
     },
     {
       "id": "fortune-202605301220-before-sending-4df989",
       "account_id": "fortune",
       "scheduled_at": "2026-05-30T12:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "before_sending",
       "generated_at": "2026-05-25T06:08:48.294Z",
-      "text": "好きだから待てる日もある。\n\n相手ではなく、自分の不安を先に見てあげる。\n\n恋の中でも、自分の生活は置き去りにしなくていい。\n\n今夜は結論を出さない勇気でいい。"
+      "text": "好きだから待てる日もある。\n\n相手ではなく、自分の不安を先に見てあげる。\n\n恋の中でも、自分の生活は置き去りにしなくていい。\n\n今夜は結論を出さない勇気でいい。",
+      "creation_id": "18146737741446749",
+      "post_id": "18185700073379211",
+      "published_at": "2026-05-30T05:10:33.869Z"
     },
     {
       "id": "side_hustle-202605301250-high-ticket-09fd63",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-30T12:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-05-25T06:08:48.295Z",
-      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n強い市場ほど、表現と導線を間違えると危ない。\n\n先に市場を選ぶと、努力の空振りが減る。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n強い市場ほど、表現と導線を間違えると危ない。\n\n先に市場を選ぶと、努力の空振りが減る。\n\n小さく試して、反応がある場所に寄せる。",
+      "creation_id": "18036809849616906",
+      "post_id": "18075919001302832",
+      "published_at": "2026-05-30T05:10:39.118Z"
     },
     {
       "id": "side-boost-20260530-1520-trust",
