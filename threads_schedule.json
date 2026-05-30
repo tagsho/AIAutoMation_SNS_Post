@@ -623,21 +623,27 @@
       "id": "side_hustle-202605302150-sns-funnel-353dfe",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-30T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-05-25T06:08:48.295Z",
-      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n雑な煽りではなく、比較して納得してもらう導線がいる。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n雑な煽りではなく、比較して納得してもらう導線がいる。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "creation_id": "18036856442616906",
+      "post_id": "18444238933186344",
+      "published_at": "2026-05-30T14:04:42.920Z"
     },
     {
       "id": "fortune-202605302230-uncertain-relation-00fac0",
       "account_id": "fortune",
       "scheduled_at": "2026-05-30T22:30:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "uncertain_relation",
       "generated_at": "2026-05-25T06:08:48.294Z",
-      "text": "好きだから待てる日もある。\n\n今は待つ時期か、動くなら何を避けるべきかまで考える。\n\n送る前に一度だけ、深呼吸してからでいい。\n\n今夜は結論を出さない勇気でいい。"
+      "text": "好きだから待てる日もある。\n\n今は待つ時期か、動くなら何を避けるべきかまで考える。\n\n送る前に一度だけ、深呼吸してからでいい。\n\n今夜は結論を出さない勇気でいい。",
+      "creation_id": "18146785483446749",
+      "post_id": "18105130840975532",
+      "published_at": "2026-05-30T14:04:50.789Z"
     },
     {
       "id": "fortune-202605310740-fortune-question-95539b",
