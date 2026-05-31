@@ -713,10 +713,13 @@
       "id": "side-boost-20260531-1520-trust",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-31T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
-      "text": "楽天型は、売れる商品を探すより先に悩みを探す。\n\n肩がつらい、机が狭い、夜に集中できない。\n\n悩みが具体的なほど、商品紹介が自然になる。"
+      "text": "楽天型は、売れる商品を探すより先に悩みを探す。\n\n肩がつらい、机が狭い、夜に集中できない。\n\n悩みが具体的なほど、商品紹介が自然になる。",
+      "creation_id": "18036939377616906",
+      "post_id": "18079256183555612",
+      "published_at": "2026-05-31T08:00:23.744Z"
     },
     {
       "id": "fortune-202605311810-before-sending-a18fd1",
