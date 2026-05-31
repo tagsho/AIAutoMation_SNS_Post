@@ -789,21 +789,26 @@
       "id": "fortune-202606010740-uncertain-relation-265dde",
       "account_id": "fortune",
       "scheduled_at": "2026-06-01T07:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "uncertain_relation",
       "generated_at": "2026-05-25T06:08:48.294Z",
-      "text": "既読のまま止まると、悪い想像ばかり増えやすい。\n\n相手の態度を読む前に、自分がどんな扱いを望むのかを見る。\n\n送る前に一度だけ、深呼吸してからでいい。\n\n今日は、答えより呼吸を先に置く。"
+      "text": "既読のまま止まると、悪い想像ばかり増えやすい。\n\n相手の態度を読む前に、自分がどんな扱いを望むのかを見る。\n\n送る前に一度だけ、深呼吸してからでいい。\n\n今日は、答えより呼吸を先に置く。",
+      "creation_id": "18146966878446749",
+      "post_id": "18123562252655083",
+      "published_at": "2026-05-31T23:42:18.195Z"
     },
     {
       "id": "side_hustle-202606010810-sns-funnel-7e3c54",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-01T08:10:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-05-25T06:08:48.296Z",
-      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n雑な煽りではなく、比較して納得してもらう導線がいる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n雑な煽りではなく、比較して納得してもらう導線がいる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AlGhowVNTc0R4I1b4Pc0or3\"}}",
+      "failed_at": "2026-05-31T23:42:19.348Z"
     },
     {
       "id": "side-boost-20260601-1140-rakuten-stand",
