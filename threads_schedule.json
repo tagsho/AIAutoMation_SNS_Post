@@ -776,11 +776,14 @@
       "id": "fortune-202605312230-reconciliation-e3a92e",
       "account_id": "fortune",
       "scheduled_at": "2026-05-31T22:30:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "reconciliation",
       "generated_at": "2026-05-25T06:08:48.294Z",
-      "text": "既読のまま止まると、悪い想像ばかり増えやすい。\n\nでも返信の遅さだけで、好意の有無まで決めなくていい。\n\nそれは我慢ではなく、自分を守る準備。\n\n相手を読む前に、自分の本音を拾う。"
+      "text": "既読のまま止まると、悪い想像ばかり増えやすい。\n\nでも返信の遅さだけで、好意の有無まで決めなくていい。\n\nそれは我慢ではなく、自分を守る準備。\n\n相手を読む前に、自分の本音を拾う。",
+      "creation_id": "18146916619446749",
+      "post_id": "18010257827913386",
+      "published_at": "2026-05-31T14:54:27.287Z"
     },
     {
       "id": "fortune-202606010740-uncertain-relation-265dde",
