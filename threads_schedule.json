@@ -725,30 +725,39 @@
       "id": "fortune-202605311810-before-sending-a18fd1",
       "account_id": "fortune",
       "scheduled_at": "2026-05-31T18:10:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "before_sending",
       "generated_at": "2026-05-25T06:08:48.294Z",
-      "text": "占いに聞くなら、まず悩みを一つに絞る。\n\nその想像は事実ではなく、不安が作った仮説かもしれない。\n\n答えを丸投げせず、気持ちを整理する使い方がいい。\n\n焦らない選択も、ちゃんと前に進むこと。"
+      "text": "占いに聞くなら、まず悩みを一つに絞る。\n\nその想像は事実ではなく、不安が作った仮説かもしれない。\n\n答えを丸投げせず、気持ちを整理する使い方がいい。\n\n焦らない選択も、ちゃんと前に進むこと。",
+      "creation_id": "18146890444446749",
+      "post_id": "18212834380332742",
+      "published_at": "2026-05-31T10:23:05.306Z"
     },
     {
       "id": "side_hustle-202605311840-high-ticket-bc5f60",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-31T18:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-05-25T06:08:48.296Z",
-      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n売る前に、選ばれる理由を作る。"
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n売る前に、選ばれる理由を作る。",
+      "creation_id": "18036951917616906",
+      "post_id": "17868918231653914",
+      "published_at": "2026-05-31T10:23:13.497Z"
     },
     {
       "id": "side-boost-20260531-1840-deeps",
       "account_id": "side_hustle",
       "scheduled_at": "2026-05-31T18:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_cta",
       "pillar": "soft_cta",
-      "text": "低単価で消耗したくないなら、投稿数より出口を見る。\n\nどの市場に、どんな切り口で、最後に何を置くか。\n\nThreads向けの入口です。\n\nhttps://deeps.me/u/chiruchiru/a/tamaafi/r/8R3swzVWYy"
+      "text": "低単価で消耗したくないなら、投稿数より出口を見る。\n\nどの市場に、どんな切り口で、最後に何を置くか。\n\nThreads向けの入口です。\n\nhttps://deeps.me/u/chiruchiru/a/tamaafi/r/8R3swzVWYy",
+      "creation_id": "18036951932616906",
+      "post_id": "18102386548913313",
+      "published_at": "2026-05-31T10:23:22.853Z"
     },
     {
       "id": "side_hustle-202605312150-ai-workflow-f59ca5",
