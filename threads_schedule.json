@@ -898,21 +898,26 @@
       "id": "side_hustle-202606012150-soft-cta-1394cc",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-01T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_cta",
       "pillar": "soft_cta",
       "generated_at": "2026-05-25T06:08:48.297Z",
-      "text": "AIで副業を回したい人ほど、先に作業の流れを決めたほうがいい。\n\n投稿作成、予約、リンク導線、改善。この順番で仕組みにする。\n\nAI自動化寄りで見るならこれ。\n\nhttps://deeps.me/u/rLK5dxngFm/a/UaHm2p7C3n/r/8R3swzVWYy"
+      "text": "AIで副業を回したい人ほど、先に作業の流れを決めたほうがいい。\n\n投稿作成、予約、リンク導線、改善。この順番で仕組みにする。\n\nAI自動化寄りで見るならこれ。\n\nhttps://deeps.me/u/rLK5dxngFm/a/UaHm2p7C3n/r/8R3swzVWYy",
+      "creation_id": "18037121819616906",
+      "post_id": "17954624265155154",
+      "published_at": "2026-06-01T18:23:09.841Z"
     },
     {
       "id": "fortune-202606012230-before-sending-374246",
       "account_id": "fortune",
       "scheduled_at": "2026-06-01T22:30:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "before_sending",
       "generated_at": "2026-05-25T06:08:48.295Z",
-      "text": "既読のまま止まると、悪い想像ばかり増えやすい。\n\n返事の速さとあなたの大切さは、同じものではない。\n\nそれだけで、言葉の温度は少し変わる。\n\n今夜は結論を出さない勇気でいい。"
+      "text": "既読のまま止まると、悪い想像ばかり増えやすい。\n\n返事の速さとあなたの大切さは、同じものではない。\n\nそれだけで、言葉の温度は少し変わる。\n\n今夜は結論を出さない勇気でいい。",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AsjXOPT9Tf1B2YsPddFdLsT\"}}",
+      "failed_at": "2026-06-01T18:23:10.486Z"
     },
     {
       "id": "fortune-202606020740-before-sending-fe582d",
@@ -1523,6 +1528,96 @@
       "pillar": "fortune_question",
       "generated_at": "2026-05-31T15:58:12.326Z",
       "text": "占いは未来を決めてもらう場所というより、本音を言葉にする場所として使うほうがいい。\n\n今は待つ時期か、動くなら何を避けるべきかまで聞く。\n\n答えを丸投げせず、気持ちを整理する使い方がいい。\n\n今日は、答えより呼吸を先に置く。"
+    },
+    {
+      "id": "fortune-202606090740-fortune-question-466736",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-09T07:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "fortune_question",
+      "generated_at": "2026-06-01T18:23:00.666Z",
+      "text": "占いは未来を決めてもらう場所というより、本音を言葉にする場所として使うほうがいい。\n\n復縁、連絡、相性、不安。全部を一度に抱えると苦しい。\n\nそこが見えるだけで、次の一言は変わる。\n\n不安な夜ほど、自分側に戻ってくる。"
+    },
+    {
+      "id": "side_hustle-202606090750-rakuten-workstyle-eafda0",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-09T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-06-01T18:23:00.667Z",
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202606091140-adult-adjacent-safe-4608c9",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-09T11:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-06-01T18:23:00.667Z",
+      "text": "男性向け市場は需要が強い。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n露骨に寄せるより、ルールと境界線を理解して設計するほうが長く残る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "fortune-202606091220-self-respect-40ad42",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-09T12:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "self_respect",
+      "generated_at": "2026-06-01T18:23:00.666Z",
+      "text": "好きな人に合わせすぎると、自分の予定も機嫌も後回しになる。\n\n恋の結果とあなたの魅力は、同じものではない。\n\n今日は少し、自分側に戻ってくる。\n\n焦らない選択も、ちゃんと前に進むこと。"
+    },
+    {
+      "id": "side_hustle-202606091520-beginner-mistake-997675",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-09T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-06-01T18:23:00.667Z",
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n小さく使って初めて元が取れる。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "fortune-202606091810-soft-cta-accb77",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-09T18:10:00",
+      "status": "scheduled",
+      "kind": "generated_cta",
+      "pillar": "soft_cta",
+      "generated_at": "2026-06-01T18:23:00.666Z",
+      "text": "恋愛や復縁で頭がいっぱいになる夜は、答えを急ぐほど苦しくなりやすい。\n\nまずは相談したいことを一つに絞るところから。\n\n気持ちを整理する入口として置いておきます。\n\nhttps://note.com/idoljp/n/n7fe85e1645c8"
+    },
+    {
+      "id": "side_hustle-202606091840-high-ticket-4d8895",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-09T18:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-06-01T18:23:00.667Z",
+      "text": "安い商品ほど勢いで売れることがある。\n\nその代わり、雑な煽りでは売れにくい。\n\n投稿は売り込みより、判断材料を渡す場所。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606092150-ai-workflow-d7cc6d",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-09T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-06-01T18:23:00.667Z",
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n仕組みにすると、毎日の迷いが減る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "fortune-202606092230-before-sending-254bad",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-09T22:30:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "before_sending",
+      "generated_at": "2026-06-01T18:23:00.666Z",
+      "text": "不安なまま送ると、確認したい言葉が責めているように見えることがある。\n\nすぐ送らないだけで、責める言葉と伝えたい言葉を分けやすくなる。\n\nそれだけで、言葉の温度は少し変わる。\n\n今日は、答えより呼吸を先に置く。"
     }
   ]
 }
