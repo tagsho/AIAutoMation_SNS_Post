@@ -814,39 +814,48 @@
       "id": "side-boost-20260601-1140-rakuten-stand",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-01T11:40:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "direct_rakuten_cta",
       "pillar": "rakuten_workstyle",
-      "text": "#PR スマホだけで副業を始めてもいい。\n\nでも毎日投稿や比較をするなら、PC作業の姿勢を整えるだけでかなり楽になる。\n\nノートPCスタンド候補です。\n\nhttps://a.r10.to/hkmzmp"
+      "text": "#PR スマホだけで副業を始めてもいい。\n\nでも毎日投稿や比較をするなら、PC作業の姿勢を整えるだけでかなり楽になる。\n\nノートPCスタンド候補です。\n\nhttps://a.r10.to/hkmzmp",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ACMLMlkogtWJCGUDCnskz11\"}}",
+      "failed_at": "2026-06-01T06:56:02.426Z"
     },
     {
       "id": "fortune-202606011220-fortune-question-657967",
       "account_id": "fortune",
       "scheduled_at": "2026-06-01T12:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "fortune_question",
       "generated_at": "2026-05-25T06:08:48.294Z",
-      "text": "寂しいときに送る一言ほど、本音より不安が前に出やすい。\n\n自分がどれだけ無理をしているかも同じくらい大切。\n\n恋の中でも、自分の生活は置き去りにしなくていい。\n\n相手を読む前に、自分の本音を拾う。"
+      "text": "寂しいときに送る一言ほど、本音より不安が前に出やすい。\n\n自分がどれだけ無理をしているかも同じくらい大切。\n\n恋の中でも、自分の生活は置き去りにしなくていい。\n\n相手を読む前に、自分の本音を拾う。",
+      "creation_id": "18147002806446749",
+      "post_id": "18107313202938780",
+      "published_at": "2026-06-01T06:56:08.221Z"
     },
     {
       "id": "side_hustle-202606011250-adult-adjacent-safe-7297b1",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-01T12:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-05-25T06:08:48.296Z",
-      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n副業は作業より、設計で差がつく。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n副業は作業より、設計で差がつく。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ATDdZccW8HiE5YaVsBhWYQG\"}}",
+      "failed_at": "2026-06-01T06:56:08.452Z"
     },
     {
       "id": "side-boost-20260601-1520-trust",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-01T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
-      "text": "AI副業は、文章を作るだけだと弱い。\n\n投稿、予約、反応確認、リンク差し替え。\n\nこの流れまで作ると、改善が回り始める。"
+      "text": "AI副業は、文章を作るだけだと弱い。\n\n投稿、予約、反応確認、リンク差し替え。\n\nこの流れまで作ると、改善が回り始める。",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AIj0rcIYB50_Ivz5eHKa2yG\"}}",
+      "failed_at": "2026-06-01T06:56:08.689Z"
     },
     {
       "id": "fortune-202606011810-self-respect-baa49d",
