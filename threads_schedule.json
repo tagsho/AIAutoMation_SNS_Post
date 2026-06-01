@@ -923,21 +923,25 @@
       "id": "fortune-202606020740-before-sending-fe582d",
       "account_id": "fortune",
       "scheduled_at": "2026-06-02T07:40:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "before_sending",
       "generated_at": "2026-05-25T16:13:38.725Z",
-      "text": "寂しいときに送る一言ほど、本音より不安が前に出やすい。\n\n返事の速さとあなたの大切さは、同じものではない。\n\n恋は我慢の量で深くなるわけではない。\n\n相手を読む前に、自分の本音を拾う。"
+      "text": "寂しいときに送る一言ほど、本音より不安が前に出やすい。\n\n返事の速さとあなたの大切さは、同じものではない。\n\n恋は我慢の量で深くなるわけではない。\n\n相手を読む前に、自分の本音を拾う。",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A5bfY7Hs-lZ_fJqjOF8bwo4\"}}",
+      "failed_at": "2026-06-01T23:20:05.641Z"
     },
     {
       "id": "side_hustle-202606020810-soft-cta-b61187",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-02T08:10:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_cta",
       "pillar": "soft_cta",
       "generated_at": "2026-05-25T16:13:38.726Z",
-      "text": "高額教材から入るのが怖い人は、まず低単価で市場の仕組みを見たほうがいい。\n\nスマホだけで始める系の需要と導線を確認する入口です。\n\n今週の低単価候補として置いておきます。\n\nhttps://deeps.me/u/gai_sns/a/hx3VD0IG6H/r/8R3swzVWYy"
+      "text": "高額教材から入るのが怖い人は、まず低単価で市場の仕組みを見たほうがいい。\n\nスマホだけで始める系の需要と導線を確認する入口です。\n\n今週の低単価候補として置いておきます。\n\nhttps://deeps.me/u/gai_sns/a/hx3VD0IG6H/r/8R3swzVWYy",
+      "error": "{\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":4279009,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"error_user_msg\":\"The media with id 18037139846616906 cannot be found.\",\"fbtrace_id\":\"AgU8cu_-KO5iPajI65ygwzG\"}}",
+      "failed_at": "2026-06-01T23:20:11.830Z"
     },
     {
       "id": "fortune-202606021220-reconciliation-0a77ad",
