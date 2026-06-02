@@ -972,21 +972,26 @@
       "id": "fortune-202606021810-uncertain-relation-c06dea",
       "account_id": "fortune",
       "scheduled_at": "2026-06-02T18:10:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "uncertain_relation",
       "generated_at": "2026-05-25T16:13:38.725Z",
-      "text": "曖昧な関係ほど、優しい一言に期待して沈黙で崩れやすい。\n\n相手ではなく、自分の不安を先に見てあげる。\n\n答えを丸投げせず、気持ちを整理する使い方がいい。\n\n相手を読む前に、自分の本音を拾う。"
+      "text": "曖昧な関係ほど、優しい一言に期待して沈黙で崩れやすい。\n\n相手ではなく、自分の不安を先に見てあげる。\n\n答えを丸投げせず、気持ちを整理する使い方がいい。\n\n相手を読む前に、自分の本音を拾う。",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ARvn8LlkZHjp5U6VRaJs5BM\"}}",
+      "failed_at": "2026-06-02T10:59:40.231Z"
     },
     {
       "id": "side_hustle-202606021840-ai-workflow-16ead6",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-02T18:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-05-25T16:13:38.726Z",
-      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n副業は作業より、設計で差がつく。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n副業は作業より、設計で差がつく。\n\n作業量より、設計のズレを減らすほうが先。",
+      "creation_id": "18037189781616906",
+      "post_id": "18166107211439062",
+      "published_at": "2026-06-02T10:59:47.965Z"
     },
     {
       "id": "side_hustle-202606022150-sns-funnel-0450b0",
