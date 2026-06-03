@@ -1072,21 +1072,26 @@
       "id": "fortune-202606031810-soft-cta-63eb76",
       "account_id": "fortune",
       "scheduled_at": "2026-06-03T18:10:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_cta",
       "pillar": "soft_cta",
       "generated_at": "2026-05-26T16:26:40.457Z",
-      "text": "占いに聞くなら、決断を丸投げするより「今どう動くか」を整理する使い方がいい。\n\n連絡、待つ、距離を置く。迷いが強い夜ほど、質問を一つに絞る。\n\n話しながら整理したい人向けです。\n\nhttps://afi2.vernis.co.jp/r/3edu5o6"
+      "text": "占いに聞くなら、決断を丸投げするより「今どう動くか」を整理する使い方がいい。\n\n連絡、待つ、距離を置く。迷いが強い夜ほど、質問を一つに絞る。\n\n話しながら整理したい人向けです。\n\nhttps://afi2.vernis.co.jp/r/3edu5o6",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A0Apv_r2Gb6MgRJxBjy7Ut-\"}}",
+      "failed_at": "2026-06-03T11:31:22.826Z"
     },
     {
       "id": "side_hustle-202606031840-ai-workflow-bdf067",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-03T18:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-05-26T16:26:40.458Z",
-      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n作業量より、設計のズレを減らすほうが先。",
+      "creation_id": "18037342895616906",
+      "post_id": "18089769647615994",
+      "published_at": "2026-06-03T11:31:30.253Z"
     },
     {
       "id": "side_hustle-202606032150-sns-funnel-cbc98d",
