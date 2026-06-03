@@ -1097,21 +1097,26 @@
       "id": "side_hustle-202606032150-sns-funnel-cbc98d",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-03T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-05-26T16:26:40.458Z",
-      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n小さく試して、反応がある場所に寄せる。",
+      "creation_id": "18037366640616906",
+      "post_id": "17892984735355083",
+      "published_at": "2026-06-03T16:05:08.707Z"
     },
     {
       "id": "fortune-202606032230-before-sending-3adaf8",
       "account_id": "fortune",
       "scheduled_at": "2026-06-03T22:30:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "before_sending",
       "generated_at": "2026-05-26T16:26:40.457Z",
-      "text": "不安なまま送ると、確認したい言葉が責めているように見えることがある。\n\nすぐ送らないだけで、責める言葉と伝えたい言葉を分けやすくなる。\n\n恋は勢いより、余白が残る一言のほうが届く日もある。\n\n焦らない選択も、ちゃんと前に進むこと。"
+      "text": "不安なまま送ると、確認したい言葉が責めているように見えることがある。\n\nすぐ送らないだけで、責める言葉と伝えたい言葉を分けやすくなる。\n\n恋は勢いより、余白が残る一言のほうが届く日もある。\n\n焦らない選択も、ちゃんと前に進むこと。",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AxTWuwtrKvrhz0MQnMYQizg\"}}",
+      "failed_at": "2026-06-03T16:05:09.224Z"
     },
     {
       "id": "fortune-202606040740-reconciliation-7861c5",
@@ -1742,6 +1747,96 @@
       "pillar": "self_respect",
       "generated_at": "2026-06-02T18:28:04.864Z",
       "text": "好きな人に合わせすぎると、自分の予定も機嫌も後回しになる。\n\nでも本当は、自分がどれだけ無理をしているかも同じくらい大切。\n\n大事にされたい気持ちは、わがままではない。\n\n今日は、答えより呼吸を先に置く。"
+    },
+    {
+      "id": "fortune-202606110740-before-sending-eece77",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-11T07:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "before_sending",
+      "generated_at": "2026-06-03T16:05:02.167Z",
+      "text": "不安なまま送ると、確認したい言葉が責めているように見えることがある。\n\nすぐ送らないだけで、責める言葉と伝えたい言葉を分けやすくなる。\n\nそれは我慢ではなく、自分を守る準備。\n\n相手を読む前に、自分の本音を拾う。"
+    },
+    {
+      "id": "side_hustle-202606110750-market-selection-359ba7",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-11T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "market_selection",
+      "generated_at": "2026-06-03T16:05:02.168Z",
+      "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n量を増やす前に、単価と需要を見る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606111140-high-ticket-7a680c",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-11T11:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-06-03T16:05:02.168Z",
+      "text": "安い商品ほど勢いで売れることがある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "fortune-202606111220-reconciliation-1f4bae",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-11T12:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "reconciliation",
+      "generated_at": "2026-06-03T16:05:02.167Z",
+      "text": "忘れられないのは、弱いからではなく大切にしていた証拠でもある。\n\n相手の反応を追い続ける前に、自分の望みを整理する。\n\n動く日と整える日は、分けて考えていい。\n\n今日は、答えより呼吸を先に置く。"
+    },
+    {
+      "id": "side_hustle-202606111520-ai-workflow-ad8f2b",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-11T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-06-03T16:05:02.168Z",
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n市場選びまで外すと、量だけ増えても伸びにくい。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "fortune-202606111810-uncertain-relation-1354ac",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-11T18:10:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "uncertain_relation",
+      "generated_at": "2026-06-03T16:05:02.167Z",
+      "text": "曖昧な関係ほど、優しい一言に期待して沈黙で崩れやすい。\n\n相手を責める前に、自分が無理している場面を数える。\n\n見えてきた違和感は、ちゃんと大事にしていい。\n\n焦らない選択も、ちゃんと前に進むこと。"
+    },
+    {
+      "id": "side_hustle-202606111840-sns-funnel-eafa2e",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-11T18:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-06-03T16:05:02.168Z",
+      "text": "Threadsは短い文章で温度を作りやすい。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202606112150-rakuten-workstyle-4a910b",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-11T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-06-03T16:05:02.168Z",
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nまずは1ジャンル、1記事、1投稿で反応を見る。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "fortune-202606112230-fortune-question-a9e35f",
+      "account_id": "fortune",
+      "scheduled_at": "2026-06-11T22:30:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "fortune_question",
+      "generated_at": "2026-06-03T16:05:02.167Z",
+      "text": "相談するときは、聞きたいことを一つに絞るほど楽になる。\n\n復縁、連絡、相性、不安。全部を一度に抱えると苦しい。\n\nそこが見えるだけで、次の一言は変わる。\n\n今夜は結論を出さない勇気でいい。"
     }
   ]
 }
