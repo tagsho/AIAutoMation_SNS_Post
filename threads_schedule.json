@@ -1047,21 +1047,26 @@
       "id": "fortune-202606031220-self-respect-1eb77e",
       "account_id": "fortune",
       "scheduled_at": "2026-06-03T12:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "self_respect",
       "generated_at": "2026-05-26T16:26:40.457Z",
-      "text": "恋で苦しいときほど、相手の気持ちばかり見に行ってしまう。\n\n恋の結果とあなたの魅力は、同じものではない。\n\n大事にされたい気持ちは、わがままではない。\n\n不安な夜ほど、自分側に戻ってくる。"
+      "text": "恋で苦しいときほど、相手の気持ちばかり見に行ってしまう。\n\n恋の結果とあなたの魅力は、同じものではない。\n\n大事にされたい気持ちは、わがままではない。\n\n不安な夜ほど、自分側に戻ってくる。",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AvHK0oqLQO7GAJzlJFe2QCn\"}}",
+      "failed_at": "2026-06-03T06:41:41.569Z"
     },
     {
       "id": "side_hustle-202606031250-market-selection-b9e792",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-03T12:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-05-26T16:26:40.458Z",
-      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n副業は作業より、設計で差がつく。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n副業は作業より、設計で差がつく。\n\n作業量より、設計のズレを減らすほうが先。",
+      "creation_id": "18037285337616906",
+      "post_id": "18132106840505319",
+      "published_at": "2026-06-03T06:41:47.536Z"
     },
     {
       "id": "fortune-202606031810-soft-cta-63eb76",
