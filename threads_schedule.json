@@ -1147,21 +1147,26 @@
       "id": "side_hustle-202606041140-high-ticket-18b7a1",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-04T11:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-05-27T16:56:23.110Z",
-      "text": "安い商品ほど勢いで売れることがある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n自分の時間単価から逆算したほうがいい。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "安い商品ほど勢いで売れることがある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n自分の時間単価から逆算したほうがいい。\n\nリンクを貼る前に、読む理由を作る。",
+      "creation_id": "18037422203616906",
+      "post_id": "18411391402179898",
+      "published_at": "2026-06-04T05:02:17.495Z"
     },
     {
       "id": "fortune-202606041220-uncertain-relation-229ec3",
       "account_id": "fortune",
       "scheduled_at": "2026-06-04T12:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "uncertain_relation",
       "generated_at": "2026-05-27T16:56:23.110Z",
-      "text": "都合のいい関係かもしれないと感じたとき、答えを急ぐほど苦しくなる。\n\n待つことが自分を削るだけなら、一度立ち止まる合図かもしれない。\n\n見えてきた違和感は、ちゃんと大事にしていい。\n\n相手を読む前に、自分の本音を拾う。"
+      "text": "都合のいい関係かもしれないと感じたとき、答えを急ぐほど苦しくなる。\n\n待つことが自分を削るだけなら、一度立ち止まる合図かもしれない。\n\n見えてきた違和感は、ちゃんと大事にしていい。\n\n相手を読む前に、自分の本音を拾う。",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A5Jkgp1wDe_K_2O3MpwLrh7\"}}",
+      "failed_at": "2026-06-04T05:02:18.261Z"
     },
     {
       "id": "side_hustle-202606041520-ai-workflow-3e0334",
