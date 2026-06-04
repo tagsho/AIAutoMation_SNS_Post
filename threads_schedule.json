@@ -1122,21 +1122,26 @@
       "id": "fortune-202606040740-reconciliation-7861c5",
       "account_id": "fortune",
       "scheduled_at": "2026-06-04T07:40:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "reconciliation",
       "generated_at": "2026-05-27T16:56:23.110Z",
-      "text": "忘れられないのは、弱いからではなく大切にしていた証拠でもある。\n\nでも未練が一番強い日に送る言葉は、重くなりやすい。\n\n連絡するかどうかは、そのあとでいい。\n\n焦らない選択も、ちゃんと前に進むこと。"
+      "text": "忘れられないのは、弱いからではなく大切にしていた証拠でもある。\n\nでも未練が一番強い日に送る言葉は、重くなりやすい。\n\n連絡するかどうかは、そのあとでいい。\n\n焦らない選択も、ちゃんと前に進むこと。",
+      "error": "{\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207051,\"is_transient\":false,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AZ86aP6Es8paX9BGghbztbZ\"}}",
+      "failed_at": "2026-06-04T00:09:24.214Z"
     },
     {
       "id": "side_hustle-202606040750-market-selection-d615d0",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-04T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-05-27T16:56:23.110Z",
-      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\n副業は作業より、設計で差がつく。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\n副業は作業より、設計で差がつく。\n\nリンクを貼る前に、読む理由を作る。",
+      "creation_id": "18037400393616906",
+      "post_id": "17886611700396718",
+      "published_at": "2026-06-04T00:09:29.963Z"
     },
     {
       "id": "side_hustle-202606041140-high-ticket-18b7a1",
