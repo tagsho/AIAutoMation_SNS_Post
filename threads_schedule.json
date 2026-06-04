@@ -1195,11 +1195,14 @@
       "id": "side_hustle-202606041840-sns-funnel-2bb2d7",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-04T18:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-05-27T16:56:23.110Z",
-      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n売る前に、選ばれる理由を作る。"
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n売る前に、選ばれる理由を作る。",
+      "creation_id": "18037449173616906",
+      "post_id": "18121978351581647",
+      "published_at": "2026-06-04T11:50:31.761Z"
     },
     {
       "id": "side_hustle-202606042150-adult-adjacent-safe-cf548d",
