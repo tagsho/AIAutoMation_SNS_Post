@@ -1,6 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 const schedulePath = new URL("../threads_schedule.json", import.meta.url);
+const configPath = new URL("../content_generation_config.json", import.meta.url);
 
 const accountSecrets = {
   fortune: "THREADS_FORTUNE_TOKEN",
@@ -74,15 +75,25 @@ async function publishThread({ userId, token, text }) {
 }
 
 const schedule = JSON.parse(await readFile(schedulePath, "utf8"));
+const config = JSON.parse(await readFile(configPath, "utf8"));
 const now = new Date();
 const accounts = new Map(schedule.accounts.map((account) => [account.id, account]));
+const disabledAccounts = new Set(Object.entries(config.accounts ?? {})
+  .filter(([, account]) => account.enabled === false)
+  .map(([accountId]) => accountId));
 
 let changed = false;
 let published = 0;
 let failed = 0;
+let skipped = 0;
 
 for (const post of schedule.posts) {
   if (post.status !== "scheduled") continue;
+
+  if (disabledAccounts.has(post.account_id)) {
+    skipped += 1;
+    continue;
+  }
 
   const dueAt = parseTokyoTime(post.scheduled_at);
   if (dueAt > now) continue;
@@ -138,7 +149,7 @@ if (changed) {
 }
 
 if (published === 0 && failed === 0) {
-  console.log("no due posts");
+  console.log(skipped === 0 ? "no due posts" : `no due posts; skipped disabled=${skipped}`);
 } else {
-  console.log(`summary published=${published} failed=${failed}`);
+  console.log(`summary published=${published} failed=${failed} skipped_disabled=${skipped}`);
 }
