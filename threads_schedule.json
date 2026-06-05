@@ -1921,6 +1921,56 @@
       "pillar": "sns_funnel",
       "generated_at": "2026-06-04T17:27:23.670Z",
       "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202606130750-sns-funnel-29628f",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-13T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-06-05T16:16:12.226Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606131140-soft-cta-734748",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-13T11:40:00",
+      "status": "scheduled",
+      "kind": "generated_cta",
+      "pillar": "soft_cta",
+      "generated_at": "2026-06-05T16:16:12.226Z",
+      "text": "低単価で消耗したくないなら、最初に見るべきは投稿数より導線。\n\nどの市場に、どんな切り口で、最後に何を置くか。\n\nSNSアフィリ系の教材候補をまとめています。\n\nhttps://note.com/idoljp/n/n50b93e6a4b1c"
+    },
+    {
+      "id": "side_hustle-202606131520-beginner-mistake-6b5cb3",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-13T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-06-05T16:16:12.226Z",
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n小さく使って初めて元が取れる。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606131840-market-selection-04df29",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-13T18:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "market_selection",
+      "generated_at": "2026-06-05T16:16:12.227Z",
+      "text": "稼げる人は、投稿文だけを見ていない。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\n副業は作業より、設計で差がつく。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606132150-high-ticket-420d6d",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-13T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-06-05T16:16:12.227Z",
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n作業量より、設計のズレを減らすほうが先。"
     }
   ]
 }
