@@ -1986,6 +1986,56 @@
       "pillar": "high_ticket",
       "generated_at": "2026-06-05T16:16:12.227Z",
       "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202606140750-high-ticket-87f2fd",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-14T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-06-06T15:37:34.054Z",
+      "text": "安い商品ほど勢いで売れることがある。\n\nその代わり、雑な煽りでは売れにくい。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606141140-ai-workflow-c084f6",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-14T11:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-06-06T15:37:34.054Z",
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202606141520-soft-cta-8c4678",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-14T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_cta",
+      "pillar": "soft_cta",
+      "generated_at": "2026-06-06T15:37:34.055Z",
+      "text": "楽天型のアフィリは、商品リンクを貼るだけだと弱い。\n\n悩み、選び方、比較、注意点まで出すと、日用品でも自然な導線になる。\n\n副業アカウントで使う導線メモとして置いておきます。\n\nhttps://note.com/idoljp/n/n50b93e6a4b1c"
+    },
+    {
+      "id": "side_hustle-202606141840-rakuten-workstyle-6e51e7",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-14T18:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-06-06T15:37:34.055Z",
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\nまずは1ジャンル、1記事、1投稿で反応を見る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202606142150-adult-adjacent-safe-8fccbe",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-14T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-06-06T15:37:34.055Z",
+      "text": "男性向け市場は需要が強い。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n攻めるなら、先に守る線を決める。\n\n作業量より、設計のズレを減らすほうが先。"
     }
   ]
 }
