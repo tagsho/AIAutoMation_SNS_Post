@@ -1569,11 +1569,14 @@
       "id": "side_hustle-202606081140-market-selection-8f4ee1",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-08T11:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-05-31T15:58:12.326Z",
-      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n先に市場を選ぶと、努力の空振りが減る。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n先に市場を選ぶと、努力の空振りが減る。\n\n作業量より、設計のズレを減らすほうが先。",
+      "creation_id": "18037874696616906",
+      "post_id": "18124412314726197",
+      "published_at": "2026-06-08T06:42:45.424Z"
     },
     {
       "id": "fortune-202606081220-reconciliation-e08244",
@@ -1589,11 +1592,14 @@
       "id": "side_hustle-202606081520-ai-workflow-e5160e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-08T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-05-31T15:58:12.326Z",
-      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n小さく試して、反応がある場所に寄せる。",
+      "creation_id": "18037874708616906",
+      "post_id": "18045767084784105",
+      "published_at": "2026-06-08T06:42:51.011Z"
     },
     {
       "id": "fortune-202606081810-uncertain-relation-c01063",
