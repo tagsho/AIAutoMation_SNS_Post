@@ -1615,11 +1615,14 @@
       "id": "side_hustle-202606081840-sns-funnel-286cb8",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-08T18:40:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-05-31T15:58:12.327Z",
-      "text": "Threadsは短い文章で温度を作りやすい。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "Threadsは短い文章で温度を作りやすい。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n作業量より、設計のズレを減らすほうが先。",
+      "creation_id": "18037896845616906",
+      "post_id": "18008046614921517",
+      "published_at": "2026-06-08T11:29:45.992Z"
     },
     {
       "id": "side_hustle-202606082150-rakuten-workstyle-1de3b7",
