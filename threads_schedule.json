@@ -1766,11 +1766,14 @@
       "id": "side_hustle-202606100750-ai-workflow-4103f5",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-10T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-06-02T18:28:04.864Z",
-      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n作業量より、設計のズレを減らすほうが先。",
+      "creation_id": "18038074037616906",
+      "post_id": "18113550682808118",
+      "published_at": "2026-06-09T23:47:32.615Z"
     },
     {
       "id": "side_hustle-202606101140-sns-funnel-e9c03f",
