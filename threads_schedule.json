@@ -2181,6 +2181,56 @@
       "pillar": "ai_workflow",
       "generated_at": "2026-06-08T17:42:49.617Z",
       "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606170750-ai-workflow-2772ad",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-17T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-06-09T16:43:40.957Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202606171140-sns-funnel-6cb4be",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-17T11:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-06-09T16:43:40.957Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606171520-rakuten-workstyle-8f12f5",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-17T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-06-09T16:43:40.958Z",
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nまずは1ジャンル、1記事、1投稿で反応を見る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606171840-adult-adjacent-safe-8b2767",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-17T18:40:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-06-09T16:43:40.958Z",
+      "text": "男性向け市場は需要が強い。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\nこの距離感を作れる人が強い。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202606172150-beginner-mistake-48c61b",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-17T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-06-09T16:43:40.958Z",
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n先に出口を決める。\n\nリンクを貼る前に、読む理由を作る。"
     }
   ]
 }
