@@ -82,6 +82,15 @@ const disabledAccounts = new Set(Object.entries(config.accounts ?? {})
   .filter(([, account]) => account.enabled === false)
   .map(([accountId]) => accountId));
 
+function isAllowedByCurrentConfig(post) {
+  const account = config.accounts?.[post.account_id];
+  if (!account) return true;
+  const time = post.scheduled_at?.slice(11, 16);
+  if (Array.isArray(account.times) && account.times.length > 0 && !account.times.includes(time)) return false;
+  if (Array.isArray(account.pillars) && post.pillar && !account.pillars.includes(post.pillar)) return false;
+  return true;
+}
+
 let changed = false;
 let published = 0;
 let failed = 0;
@@ -91,6 +100,11 @@ for (const post of schedule.posts) {
   if (post.status !== "scheduled") continue;
 
   if (disabledAccounts.has(post.account_id)) {
+    skipped += 1;
+    continue;
+  }
+
+  if (!isAllowedByCurrentConfig(post)) {
     skipped += 1;
     continue;
   }
