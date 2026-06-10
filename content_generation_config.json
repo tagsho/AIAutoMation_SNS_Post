@@ -2,7 +2,7 @@
   "timezone": "Asia/Tokyo",
   "generation": {
     "days_ahead": 7,
-    "link_every": 6,
+    "link_every": 14,
     "max_length": 300
   },
   "accounts": {
@@ -28,7 +28,7 @@
     },
     "side_hustle": {
       "enabled": true,
-      "times": ["07:50", "11:40", "15:20", "18:40", "21:50"],
+      "times": ["07:50", "15:20", "21:50"],
       "links": {
         "note": "https://note.com/idoljp/n/n50b93e6a4b1c",
         "threads_asp": "https://deeps.me/u/chiruchiru/a/tamaafi/r/8R3swzVWYy",
@@ -50,7 +50,6 @@
         "ai_workflow",
         "sns_funnel",
         "rakuten_workstyle",
-        "adult_adjacent_safe",
         "beginner_mistake",
         "soft_cta"
       ]
