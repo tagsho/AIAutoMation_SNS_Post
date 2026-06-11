@@ -1931,11 +1931,14 @@
       "id": "side_hustle-202606112150-rakuten-workstyle-4a910b",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-11T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-06-03T16:05:02.168Z",
-      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nまずは1ジャンル、1記事、1投稿で反応を見る。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nまずは1ジャンル、1記事、1投稿で反応を見る。\n\n作業量より、設計のズレを減らすほうが先。",
+      "creation_id": "18038252270616906",
+      "post_id": "17987280392825877",
+      "published_at": "2026-06-11T14:53:00.487Z"
     },
     {
       "id": "fortune-202606112230-fortune-question-a9e35f",
