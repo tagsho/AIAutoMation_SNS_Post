@@ -2279,6 +2279,36 @@
       "pillar": "sns_funnel",
       "generated_at": "2026-06-10T16:55:33.530Z",
       "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606190750-sns-funnel-8672da",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-19T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-06-11T17:59:14.057Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202606191520-rakuten-workstyle-9107cd",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-19T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-06-11T17:59:14.057Z",
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606192150-beginner-mistake-9c1d40",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-19T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-06-11T17:59:14.058Z",
+      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n小さく使って初めて元が取れる。\n\n売る前に、選ばれる理由を作る。"
     }
   ]
 }
