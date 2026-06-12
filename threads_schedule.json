@@ -2000,11 +2000,13 @@
       "id": "side_hustle-202606122150-sns-funnel-f0568f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-12T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-06-04T17:27:23.670Z",
-      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AyRoGrcQV5ZHL4_MYTTBfZA\"}}",
+      "failed_at": "2026-06-12T14:14:21.913Z"
     },
     {
       "id": "side_hustle-202606130750-sns-funnel-29628f",
