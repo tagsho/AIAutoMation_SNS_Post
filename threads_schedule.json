@@ -2428,6 +2428,36 @@
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-06-14T16:02:17.246Z",
       "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202606230750-sns-funnel-202eae",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-23T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-06-15T15:33:25.264Z",
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202606231520-rakuten-workstyle-ab2884",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-23T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-06-15T15:33:25.264Z",
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606232150-beginner-mistake-fe068a",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-23T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-06-15T15:33:25.264Z",
+      "text": "教材を読むだけで満足すると、収益は動かない。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n先に出口を決める。\n\n作業量より、設計のズレを減らすほうが先。"
     }
   ]
 }
