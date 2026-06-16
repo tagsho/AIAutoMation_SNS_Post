@@ -2253,12 +2253,15 @@
       "id": "side_hustle-202606170750-ai-workflow-2772ad",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-17T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-06-09T16:43:40.957Z",
       "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-06-16T09:26:07.217Z"
+      "diversified_at": "2026-06-16T09:26:07.217Z",
+      "creation_id": "18038822126616906",
+      "post_id": "17893361808498137",
+      "published_at": "2026-06-16T23:07:52.798Z"
     },
     {
       "id": "side_hustle-202606171140-sns-funnel-6cb4be",
