@@ -2240,11 +2240,14 @@
       "id": "side_hustle-202606162150-ai-workflow-425e7d",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-16T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-06-08T17:42:49.617Z",
-      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n売る前に、選ばれる理由を作る。"
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n売る前に、選ばれる理由を作る。",
+      "creation_id": "18038782511616906",
+      "post_id": "18094314647263040",
+      "published_at": "2026-06-16T14:28:52.021Z"
     },
     {
       "id": "side_hustle-202606170750-ai-workflow-2772ad",
