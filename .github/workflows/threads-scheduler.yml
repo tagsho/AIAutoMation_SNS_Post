@@ -52,6 +52,9 @@ jobs:
           console.log(`Merged ${additions.length} boost posts.`);
           NODE
 
+      - name: Diversify scheduled post copy
+        run: node scripts/diversify_threads_schedule.mjs
+
       - name: Publish due Threads posts
         env:
           THREADS_FORTUNE_TOKEN: ${{ secrets.THREADS_FORTUNE_TOKEN }}
