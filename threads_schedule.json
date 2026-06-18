@@ -2327,12 +2327,15 @@
       "id": "side_hustle-202606181520-ai-workflow-88dd79",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-18T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-06-10T16:55:33.530Z",
       "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
-      "diversified_at": "2026-06-16T09:26:07.217Z"
+      "diversified_at": "2026-06-16T09:26:07.217Z",
+      "creation_id": "18038951162616906",
+      "post_id": "18011454071871831",
+      "published_at": "2026-06-18T06:25:28.669Z"
     },
     {
       "id": "side_hustle-202606182150-sns-funnel-d7c840",
