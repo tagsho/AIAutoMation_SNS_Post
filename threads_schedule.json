@@ -2341,12 +2341,15 @@
       "id": "side_hustle-202606182150-sns-funnel-d7c840",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-18T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-06-10T16:55:33.530Z",
       "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\nまずは小さく出して、反応がある角度に寄せる。",
-      "diversified_at": "2026-06-16T09:26:07.217Z"
+      "diversified_at": "2026-06-16T09:26:07.217Z",
+      "creation_id": "18038980901616906",
+      "post_id": "18100784450163765",
+      "published_at": "2026-06-18T13:54:08.810Z"
     },
     {
       "id": "side_hustle-202606190750-sns-funnel-8672da",
