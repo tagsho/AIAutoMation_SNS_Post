@@ -2355,12 +2355,15 @@
       "id": "side_hustle-202606190750-sns-funnel-8672da",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-19T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-06-11T17:59:14.057Z",
       "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-06-16T09:26:07.217Z"
+      "diversified_at": "2026-06-16T09:26:07.217Z",
+      "creation_id": "18039022814616906",
+      "post_id": "17967635997081649",
+      "published_at": "2026-06-18T23:16:17.174Z"
     },
     {
       "id": "side_hustle-202606191520-rakuten-workstyle-9107cd",
