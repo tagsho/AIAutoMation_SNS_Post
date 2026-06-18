@@ -2570,6 +2570,39 @@
       "pillar": "ai_workflow",
       "generated_at": "2026-06-17T17:35:38.935Z",
       "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202606260750-sns-funnel-6eb484",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-26T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-06-18T16:48:45.237Z",
+      "text": "Threadsは短い文章で温度を作りやすい。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-06-18T16:48:45.377Z"
+    },
+    {
+      "id": "side_hustle-202606261520-rakuten-workstyle-71f202",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-26T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-06-18T16:48:45.237Z",
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
+      "diversified_at": "2026-06-18T16:48:45.378Z"
+    },
+    {
+      "id": "side_hustle-202606262150-adult-adjacent-safe-9d4114",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-26T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-06-18T16:48:45.238Z",
+      "text": "男性向け市場は需要が強い。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n攻めるなら、投稿・プロフィール・リンク先の役割を分ける。全部を1投稿で売ろうとしない。\n\n短期で刺すより、消されにくい導線を積む。",
+      "diversified_at": "2026-06-18T16:48:45.378Z"
     }
   ]
 }
