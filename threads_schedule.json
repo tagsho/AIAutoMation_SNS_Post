@@ -2395,12 +2395,15 @@
       "id": "side_hustle-202606200750-market-selection-c4b242",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-20T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-06-12T17:15:17.974Z",
       "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-06-16T09:26:07.218Z"
+      "diversified_at": "2026-06-16T09:26:07.218Z",
+      "creation_id": "18039130961616906",
+      "post_id": "18087404750387665",
+      "published_at": "2026-06-19T23:44:29.160Z"
     },
     {
       "id": "side_hustle-202606201520-high-ticket-575e6e",
