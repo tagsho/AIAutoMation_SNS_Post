@@ -2409,12 +2409,15 @@
       "id": "side_hustle-202606201520-high-ticket-575e6e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-20T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-06-12T17:15:17.975Z",
       "text": "安い商品ほど勢いで売れることがある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-06-16T09:26:07.218Z"
+      "diversified_at": "2026-06-16T09:26:07.218Z",
+      "creation_id": "18039172133616906",
+      "post_id": "17905095033441361",
+      "published_at": "2026-06-20T09:35:40.281Z"
     },
     {
       "id": "side_hustle-202606202150-ai-workflow-dffcbc",
