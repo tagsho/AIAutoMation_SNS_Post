@@ -2653,6 +2653,38 @@
       "pillar": "sns_funnel",
       "generated_at": "2026-06-19T16:57:25.435Z",
       "text": "Threadsは短い文章で温度を作りやすい。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202606280750-sns-funnel-6eec22",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-28T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-06-20T15:11:05.689Z",
+      "text": "Threadsは短い文章で温度を作りやすい。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-06-20T15:11:05.943Z"
+    },
+    {
+      "id": "side_hustle-202606281520-rakuten-workstyle-1a0a40",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-28T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-06-20T15:11:05.690Z",
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202606282150-adult-adjacent-safe-b4e48e",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-06-28T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-06-20T15:11:05.690Z",
+      "text": "男性向け市場は需要が強い。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n露骨な単語を増やすより、なぜその市場が動くのかを説明したほうが長く使える投稿になる。\n\n短期で刺すより、消されにくい導線を積む。",
+      "diversified_at": "2026-06-20T15:11:05.944Z"
     }
   ]
 }
