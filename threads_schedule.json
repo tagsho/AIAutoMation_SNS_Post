@@ -2437,12 +2437,15 @@
       "id": "side_hustle-202606210750-sns-funnel-e93b91",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-21T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-06-13T15:53:35.302Z",
       "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-06-16T09:26:07.218Z"
+      "diversified_at": "2026-06-16T09:26:07.218Z",
+      "creation_id": "18039231614616906",
+      "post_id": "18010215047730519",
+      "published_at": "2026-06-20T23:23:39.266Z"
     },
     {
       "id": "side_hustle-202606211520-rakuten-workstyle-0110fc",
