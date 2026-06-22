@@ -2491,11 +2491,14 @@
       "id": "side_hustle-202606221520-sns-funnel-32e8ee",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-22T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-06-14T16:02:17.246Z",
-      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n小さく試して、反応がある場所に寄せる。",
+      "creation_id": "18039376940616906",
+      "post_id": "17929570764345815",
+      "published_at": "2026-06-22T07:37:49.852Z"
     },
     {
       "id": "side_hustle-202606222150-rakuten-workstyle-a207ad",
