@@ -2517,12 +2517,15 @@
       "id": "side_hustle-202606230750-sns-funnel-202eae",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-23T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-06-15T15:33:25.264Z",
       "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-06-16T09:26:07.218Z"
+      "diversified_at": "2026-06-16T09:26:07.218Z",
+      "creation_id": "18039445931616906",
+      "post_id": "18059420615505953",
+      "published_at": "2026-06-22T23:47:16.883Z"
     },
     {
       "id": "side_hustle-202606231520-rakuten-workstyle-ab2884",
