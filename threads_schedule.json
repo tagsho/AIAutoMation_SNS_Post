@@ -2531,12 +2531,15 @@
       "id": "side_hustle-202606231520-rakuten-workstyle-ab2884",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-23T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-06-15T15:33:25.264Z",
       "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-06-16T09:26:07.219Z"
+      "diversified_at": "2026-06-16T09:26:07.219Z",
+      "creation_id": "18039481610616906",
+      "post_id": "18124159369660950",
+      "published_at": "2026-06-23T08:58:04.436Z"
     },
     {
       "id": "side_hustle-202606232150-beginner-mistake-fe068a",
