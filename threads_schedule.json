@@ -2571,12 +2571,15 @@
       "id": "side_hustle-202606241520-adult-adjacent-safe-c21653",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-24T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-06-16T18:42:32.634Z",
       "text": "男性向け市場は需要が強い。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n強い需要ほど、言い方を間違えると削除や警戒につながる。先に境界線を決める。\n\n欲求ではなく、選び方から入る。",
-      "diversified_at": "2026-06-16T18:42:32.770Z"
+      "diversified_at": "2026-06-16T18:42:32.770Z",
+      "creation_id": "18039582611616906",
+      "post_id": "18197825044366021",
+      "published_at": "2026-06-24T08:32:53.617Z"
     },
     {
       "id": "side_hustle-202606242150-beginner-mistake-2d3085",
