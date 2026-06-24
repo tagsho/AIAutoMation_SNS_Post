@@ -2817,6 +2817,38 @@
       "generated_at": "2026-06-23T16:44:38.928Z",
       "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
       "diversified_at": "2026-06-23T16:44:39.048Z"
+    },
+    {
+      "id": "side_hustle-202607020750-high-ticket-31bc2a",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-02T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-06-24T15:58:25.495Z",
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-06-24T15:58:25.608Z"
+    },
+    {
+      "id": "side_hustle-202607021520-ai-workflow-0c11f9",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-02T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-06-24T15:58:25.495Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202607022150-sns-funnel-bfa153",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-02T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-06-24T15:58:25.495Z",
+      "text": "Threadsは短い文章で温度を作りやすい。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-06-24T15:58:25.609Z"
     }
   ]
 }
