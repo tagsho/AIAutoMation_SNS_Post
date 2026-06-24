@@ -2585,12 +2585,15 @@
       "id": "side_hustle-202606242150-beginner-mistake-2d3085",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-24T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-06-16T18:42:32.634Z",
       "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-06-16T18:42:32.771Z"
+      "diversified_at": "2026-06-16T18:42:32.771Z",
+      "creation_id": "18039607250616906",
+      "post_id": "18132460084597760",
+      "published_at": "2026-06-24T13:33:08.003Z"
     },
     {
       "id": "side_hustle-202606250750-market-selection-d7b08c",
