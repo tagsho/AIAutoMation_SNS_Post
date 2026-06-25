@@ -2858,6 +2858,38 @@
       "generated_at": "2026-06-24T15:58:25.495Z",
       "text": "Threadsは短い文章で温度を作りやすい。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n売る前に、読む理由を作る。",
       "diversified_at": "2026-06-24T15:58:25.609Z"
+    },
+    {
+      "id": "side_hustle-202607030750-sns-funnel-81ab96",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-03T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-06-25T16:12:35.287Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202607031520-rakuten-workstyle-2c01b2",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-03T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-06-25T16:12:35.288Z",
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\nまずは小さく出して、反応がある角度に寄せる。",
+      "diversified_at": "2026-06-25T16:12:35.404Z"
+    },
+    {
+      "id": "side_hustle-202607032150-adult-adjacent-safe-63b3cb",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-03T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-06-25T16:12:35.288Z",
+      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n表の投稿では欲を煽らず、市場の構造と失敗しやすい導線を話すくらいがちょうどいい。\n\n伸ばす前に、守る線を決める。",
+      "diversified_at": "2026-06-25T16:12:35.404Z"
     }
   ]
 }
