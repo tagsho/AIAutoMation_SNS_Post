@@ -2625,11 +2625,14 @@
       "id": "side_hustle-202606252150-ai-workflow-662d68",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-25T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-06-17T17:35:38.935Z",
-      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\nリンクを貼る前に、読む理由を作る。",
+      "creation_id": "18039710267616906",
+      "post_id": "17982434484040847",
+      "published_at": "2026-06-25T13:49:16.468Z"
     },
     {
       "id": "side_hustle-202606260750-sns-funnel-6eb484",
