@@ -2638,12 +2638,15 @@
       "id": "side_hustle-202606260750-sns-funnel-6eb484",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-26T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-06-18T16:48:45.237Z",
       "text": "Threadsは短い文章で温度を作りやすい。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-06-18T16:48:45.377Z"
+      "diversified_at": "2026-06-18T16:48:45.377Z",
+      "creation_id": "18039754061616906",
+      "post_id": "18091585568627768",
+      "published_at": "2026-06-25T23:13:51.037Z"
     },
     {
       "id": "side_hustle-202606261520-rakuten-workstyle-71f202",
