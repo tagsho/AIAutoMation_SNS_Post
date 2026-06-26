@@ -2680,12 +2680,15 @@
       "id": "side_hustle-202606270750-beginner-mistake-8f8dda",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-27T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-06-19T16:57:25.434Z",
       "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-06-19T16:57:25.569Z"
+      "diversified_at": "2026-06-19T16:57:25.569Z",
+      "creation_id": "18039863729616906",
+      "post_id": "17940523263251708",
+      "published_at": "2026-06-26T23:33:58.173Z"
     },
     {
       "id": "side_hustle-202606271520-high-ticket-5ee8ce",
