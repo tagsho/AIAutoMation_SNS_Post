@@ -2694,12 +2694,15 @@
       "id": "side_hustle-202606271520-high-ticket-5ee8ce",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-27T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-06-19T16:57:25.435Z",
       "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-06-19T16:57:25.569Z"
+      "diversified_at": "2026-06-19T16:57:25.569Z",
+      "creation_id": "18039900083616906",
+      "post_id": "18120468643689477",
+      "published_at": "2026-06-27T08:14:09.940Z"
     },
     {
       "id": "side_hustle-202606272150-sns-funnel-446c2f",
