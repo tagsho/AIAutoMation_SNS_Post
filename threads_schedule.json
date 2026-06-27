@@ -2721,12 +2721,15 @@
       "id": "side_hustle-202606280750-sns-funnel-6eec22",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-28T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-06-20T15:11:05.689Z",
       "text": "Threadsは短い文章で温度を作りやすい。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-06-20T15:11:05.943Z"
+      "diversified_at": "2026-06-20T15:11:05.943Z",
+      "creation_id": "18039973898616906",
+      "post_id": "18108290224770413",
+      "published_at": "2026-06-27T23:39:25.900Z"
     },
     {
       "id": "side_hustle-202606281520-rakuten-workstyle-1a0a40",
