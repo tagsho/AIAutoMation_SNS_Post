@@ -2762,12 +2762,15 @@
       "id": "side_hustle-202606290750-adult-adjacent-safe-13b49f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-29T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-06-21T16:19:01.725Z",
       "text": "男性向け市場は需要が強い。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n表の投稿では欲を煽らず、市場の構造と失敗しやすい導線を話すくらいがちょうどいい。\n\n刺激より、違和感の少ない入口を作る。",
-      "diversified_at": "2026-06-21T16:19:01.966Z"
+      "diversified_at": "2026-06-21T16:19:01.966Z",
+      "creation_id": "18040084469616906",
+      "post_id": "17909320353424530",
+      "published_at": "2026-06-28T23:44:43.439Z"
     },
     {
       "id": "side_hustle-202606291520-beginner-mistake-59caf8",
