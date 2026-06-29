@@ -2776,12 +2776,15 @@
       "id": "side_hustle-202606291520-beginner-mistake-59caf8",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-29T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-06-21T16:19:01.725Z",
       "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
-      "diversified_at": "2026-06-21T16:19:01.966Z"
+      "diversified_at": "2026-06-21T16:19:01.966Z",
+      "creation_id": "18040112858616906",
+      "post_id": "18102070094168235",
+      "published_at": "2026-06-29T06:24:56.351Z"
     },
     {
       "id": "side_hustle-202606292150-market-selection-e1504b",
