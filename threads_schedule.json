@@ -2829,12 +2829,15 @@
       "id": "side_hustle-202606302150-sns-funnel-70611e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-06-30T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-06-22T17:58:20.020Z",
       "text": "Threadsは短い文章で温度を作りやすい。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-06-22T17:58:20.264Z"
+      "diversified_at": "2026-06-22T17:58:20.264Z",
+      "creation_id": "18040252943616906",
+      "post_id": "18029844926819001",
+      "published_at": "2026-06-30T13:28:14.326Z"
     },
     {
       "id": "side_hustle-202607010750-rakuten-workstyle-dde92e",
