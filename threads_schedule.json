@@ -2843,12 +2843,15 @@
       "id": "side_hustle-202607010750-rakuten-workstyle-dde92e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-01T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-06-23T16:44:38.927Z",
       "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-06-23T16:44:39.048Z"
+      "diversified_at": "2026-06-23T16:44:39.048Z",
+      "creation_id": "18040297277616906",
+      "post_id": "18106839040799484",
+      "published_at": "2026-06-30T23:00:54.132Z"
     },
     {
       "id": "side_hustle-202607011520-adult-adjacent-safe-3c060e",
