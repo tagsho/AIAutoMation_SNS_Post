@@ -2857,12 +2857,15 @@
       "id": "side_hustle-202607011520-adult-adjacent-safe-3c060e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-01T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-06-23T16:44:38.928Z",
       "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n夜系の案件は、入口を柔らかくして、リンク先で選べる状態を作るほうが安全に回しやすい。\n\n刺激より、違和感の少ない入口を作る。",
-      "diversified_at": "2026-06-23T16:44:39.048Z"
+      "diversified_at": "2026-06-23T16:44:39.048Z",
+      "creation_id": "18040340435616906",
+      "post_id": "18050198672786042",
+      "published_at": "2026-07-01T08:47:48.344Z"
     },
     {
       "id": "side_hustle-202607012150-beginner-mistake-516f69",
