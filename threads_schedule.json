@@ -2885,12 +2885,15 @@
       "id": "side_hustle-202607020750-high-ticket-31bc2a",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-02T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-06-24T15:58:25.495Z",
       "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-06-24T15:58:25.608Z"
+      "diversified_at": "2026-06-24T15:58:25.608Z",
+      "creation_id": "18040402565616906",
+      "post_id": "17867836203574102",
+      "published_at": "2026-07-01T22:59:20.913Z"
     },
     {
       "id": "side_hustle-202607021520-ai-workflow-0c11f9",
