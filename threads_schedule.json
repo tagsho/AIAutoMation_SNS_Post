@@ -2926,11 +2926,14 @@
       "id": "side_hustle-202607030750-sns-funnel-81ab96",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-03T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-06-25T16:12:35.287Z",
-      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n作業量より、設計のズレを減らすほうが先。",
+      "creation_id": "18040504406616906",
+      "post_id": "17908343937429042",
+      "published_at": "2026-07-02T22:53:44.169Z"
     },
     {
       "id": "side_hustle-202607031520-rakuten-workstyle-2c01b2",
