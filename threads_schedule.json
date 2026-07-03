@@ -2967,12 +2967,15 @@
       "id": "side_hustle-202607040750-beginner-mistake-2e14fc",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-04T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-06-26T15:57:37.579Z",
       "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\nまずは小さく出して、反応がある角度に寄せる。",
-      "diversified_at": "2026-06-26T15:57:37.779Z"
+      "diversified_at": "2026-06-26T15:57:37.779Z",
+      "creation_id": "18040607198616906",
+      "post_id": "18105880397047204",
+      "published_at": "2026-07-03T22:50:19.790Z"
     },
     {
       "id": "side_hustle-202607041520-market-selection-0a2ebe",
