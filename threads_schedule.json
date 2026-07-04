@@ -3009,11 +3009,14 @@
       "id": "side_hustle-202607050750-ai-workflow-0fd101",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-05T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-06-27T15:56:31.350Z",
-      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n市場選びまで外すと、量だけ増えても伸びにくい。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n市場選びまで外すと、量だけ増えても伸びにくい。\n\nリンクを貼る前に、読む理由を作る。",
+      "creation_id": "18040717499616906",
+      "post_id": "17901853791461831",
+      "published_at": "2026-07-04T23:40:22.872Z"
     },
     {
       "id": "side_hustle-202607051520-sns-funnel-d0e844",
