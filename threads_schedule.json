@@ -2981,12 +2981,15 @@
       "id": "side_hustle-202607041520-market-selection-0a2ebe",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-04T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-06-26T15:57:37.580Z",
       "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-06-26T15:57:37.779Z"
+      "diversified_at": "2026-06-26T15:57:37.779Z",
+      "creation_id": "18040642187616906",
+      "post_id": "18104112815026854",
+      "published_at": "2026-07-04T07:46:13.283Z"
     },
     {
       "id": "side_hustle-202607042150-high-ticket-3ead16",
