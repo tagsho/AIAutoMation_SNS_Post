@@ -2995,12 +2995,15 @@
       "id": "side_hustle-202607042150-high-ticket-3ead16",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-04T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-06-26T15:57:37.580Z",
       "text": "安い商品ほど勢いで売れることがある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
-      "diversified_at": "2026-06-26T15:57:37.779Z"
+      "diversified_at": "2026-06-26T15:57:37.779Z",
+      "creation_id": "18040671533616906",
+      "post_id": "18414535117148850",
+      "published_at": "2026-07-04T14:11:41.324Z"
     },
     {
       "id": "side_hustle-202607050750-ai-workflow-0fd101",
