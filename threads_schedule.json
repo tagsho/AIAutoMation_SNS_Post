@@ -3233,6 +3233,38 @@
       "generated_at": "2026-07-03T15:22:40.908Z",
       "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n売る前に、読む理由を作る。",
       "diversified_at": "2026-07-03T15:22:41.142Z"
+    },
+    {
+      "id": "side_hustle-202607120750-ai-workflow-5a301b",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-12T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-07-04T15:20:06.719Z",
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202607121520-sns-funnel-7b3d8f",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-12T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-07-04T15:20:06.719Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-07-04T15:20:06.976Z"
+    },
+    {
+      "id": "side_hustle-202607122150-rakuten-workstyle-a7a0e4",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-12T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-07-04T15:20:06.719Z",
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-07-04T15:20:06.976Z"
     }
   ]
 }
