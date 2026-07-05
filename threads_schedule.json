@@ -3050,12 +3050,15 @@
       "id": "side_hustle-202607060750-beginner-mistake-a3fd89",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-06T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-06-28T15:49:22.350Z",
       "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-06-28T15:49:22.480Z"
+      "diversified_at": "2026-06-28T15:49:22.480Z",
+      "creation_id": "18040827275616906",
+      "post_id": "18181475146394628",
+      "published_at": "2026-07-05T23:45:08.894Z"
     },
     {
       "id": "side_hustle-202607061520-high-ticket-846425",
