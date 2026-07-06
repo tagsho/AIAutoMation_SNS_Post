@@ -3091,12 +3091,15 @@
       "id": "side_hustle-202607070750-high-ticket-07e0b7",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-07T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-06-29T17:27:47.046Z",
       "text": "安い商品ほど勢いで売れることがある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-06-29T17:27:47.179Z"
+      "diversified_at": "2026-06-29T17:27:47.179Z",
+      "creation_id": "18040927013616906",
+      "post_id": "17881447920609522",
+      "published_at": "2026-07-06T22:57:03.338Z"
     },
     {
       "id": "side_hustle-202607071520-ai-workflow-f70e13",
