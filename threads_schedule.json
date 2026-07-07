@@ -3133,12 +3133,15 @@
       "id": "side_hustle-202607080750-rakuten-workstyle-ee7707",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-08T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-06-30T16:01:00.525Z",
       "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-06-30T16:01:00.653Z"
+      "diversified_at": "2026-06-30T16:01:00.653Z",
+      "creation_id": "18041035010616906",
+      "post_id": "18086200337540092",
+      "published_at": "2026-07-07T23:13:14.766Z"
     },
     {
       "id": "side_hustle-202607081520-adult-adjacent-safe-04a7f2",
