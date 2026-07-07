@@ -3105,12 +3105,15 @@
       "id": "side_hustle-202607071520-ai-workflow-f70e13",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-07T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-06-29T17:27:47.047Z",
       "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-06-29T17:27:47.180Z"
+      "diversified_at": "2026-06-29T17:27:47.180Z",
+      "creation_id": "18040959482616906",
+      "post_id": "17898784905531627",
+      "published_at": "2026-07-07T06:41:19.220Z"
     },
     {
       "id": "side_hustle-202607072150-sns-funnel-21d430",
