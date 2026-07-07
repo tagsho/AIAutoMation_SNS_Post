@@ -3119,12 +3119,15 @@
       "id": "side_hustle-202607072150-sns-funnel-21d430",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-07T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-06-29T17:27:47.047Z",
       "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-06-29T17:27:47.180Z"
+      "diversified_at": "2026-06-29T17:27:47.180Z",
+      "creation_id": "18040998395616906",
+      "post_id": "17974398810119403",
+      "published_at": "2026-07-07T15:33:25.869Z"
     },
     {
       "id": "side_hustle-202607080750-rakuten-workstyle-ee7707",
@@ -3354,6 +3357,38 @@
       "generated_at": "2026-07-06T16:35:27.694Z",
       "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n強い需要ほど、言い方を間違えると削除や警戒につながる。先に境界線を決める。\n\n欲求ではなく、選び方から入る。",
       "diversified_at": "2026-07-06T16:35:27.817Z"
+    },
+    {
+      "id": "side_hustle-202607150750-rakuten-workstyle-ea0869",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-15T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-07-07T15:33:18.501Z",
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202607151520-adult-adjacent-safe-716450",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-15T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-07-07T15:33:18.502Z",
+      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n表の投稿では欲を煽らず、市場の構造と失敗しやすい導線を話すくらいがちょうどいい。\n\n強い市場ほど、表現は一段落として設計する。",
+      "diversified_at": "2026-07-07T15:33:18.643Z"
+    },
+    {
+      "id": "side_hustle-202607152150-high-ticket-16adcc",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-15T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-07-07T15:33:18.502Z",
+      "text": "安い商品ほど勢いで売れることがある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
+      "diversified_at": "2026-07-07T15:33:18.643Z"
     }
   ]
 }
