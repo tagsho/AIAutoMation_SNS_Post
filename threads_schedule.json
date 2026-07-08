@@ -3161,12 +3161,15 @@
       "id": "side_hustle-202607082150-beginner-mistake-7cc435",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-08T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-06-30T16:01:00.527Z",
       "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-06-30T16:01:00.654Z"
+      "diversified_at": "2026-06-30T16:01:00.654Z",
+      "creation_id": "18041103776616906",
+      "post_id": "17860096572658394",
+      "published_at": "2026-07-08T14:37:31.570Z"
     },
     {
       "id": "side_hustle-202607090750-market-selection-94a0c7",
