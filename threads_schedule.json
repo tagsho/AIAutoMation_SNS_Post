@@ -3147,12 +3147,15 @@
       "id": "side_hustle-202607081520-adult-adjacent-safe-04a7f2",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-08T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-06-30T16:01:00.526Z",
       "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n夜系の案件は、入口を柔らかくして、リンク先で選べる状態を作るほうが安全に回しやすい。\n\n強い市場ほど、表現は一段落として設計する。",
-      "diversified_at": "2026-06-30T16:01:00.654Z"
+      "diversified_at": "2026-06-30T16:01:00.654Z",
+      "creation_id": "18041073893616906",
+      "post_id": "18023256956681260",
+      "published_at": "2026-07-08T08:43:46.242Z"
     },
     {
       "id": "side_hustle-202607082150-beginner-mistake-7cc435",
