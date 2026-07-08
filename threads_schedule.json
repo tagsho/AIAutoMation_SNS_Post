@@ -3175,12 +3175,15 @@
       "id": "side_hustle-202607090750-market-selection-94a0c7",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-09T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-07-01T16:24:49.953Z",
       "text": "稼げる人は、投稿文だけを見ていない。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-07-01T16:24:50.172Z"
+      "diversified_at": "2026-07-01T16:24:50.172Z",
+      "creation_id": "18041141456616906",
+      "post_id": "18091894580374630",
+      "published_at": "2026-07-08T22:52:07.799Z"
     },
     {
       "id": "side_hustle-202607091520-high-ticket-a5763e",
