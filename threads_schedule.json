@@ -3189,12 +3189,15 @@
       "id": "side_hustle-202607091520-high-ticket-a5763e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-09T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-07-01T16:24:49.953Z",
       "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\nまずは小さく出して、反応がある角度に寄せる。",
-      "diversified_at": "2026-07-01T16:24:50.172Z"
+      "diversified_at": "2026-07-01T16:24:50.172Z",
+      "creation_id": "18041183171616906",
+      "post_id": "18112096390928025",
+      "published_at": "2026-07-09T09:55:16.948Z"
     },
     {
       "id": "side_hustle-202607092150-ai-workflow-9fd870",
