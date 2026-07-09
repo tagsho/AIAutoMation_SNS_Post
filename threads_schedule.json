@@ -3203,12 +3203,15 @@
       "id": "side_hustle-202607092150-ai-workflow-9fd870",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-09T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-07-01T16:24:49.953Z",
       "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-07-01T16:24:50.173Z"
+      "diversified_at": "2026-07-01T16:24:50.173Z",
+      "creation_id": "18041211770616906",
+      "post_id": "18058246016759420",
+      "published_at": "2026-07-09T15:38:51.478Z"
     },
     {
       "id": "side_hustle-202607100750-sns-funnel-46d574",
@@ -3436,6 +3439,39 @@
       "generated_at": "2026-07-08T16:17:52.897Z",
       "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
       "diversified_at": "2026-07-08T16:17:53.018Z"
+    },
+    {
+      "id": "side_hustle-202607170750-sns-funnel-1d6e08",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-17T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-07-09T15:38:43.340Z",
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-07-09T15:38:43.471Z"
+    },
+    {
+      "id": "side_hustle-202607171520-rakuten-workstyle-733fb4",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-17T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-07-09T15:38:43.340Z",
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-07-09T15:38:43.472Z"
+    },
+    {
+      "id": "side_hustle-202607172150-adult-adjacent-safe-a740b2",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-17T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-07-09T15:38:43.340Z",
+      "text": "男性向け市場は需要が強い。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n攻めるなら、投稿・プロフィール・リンク先の役割を分ける。全部を1投稿で売ろうとしない。\n\n欲求ではなく、選び方から入る。",
+      "diversified_at": "2026-07-09T15:38:43.472Z"
     }
   ]
 }
