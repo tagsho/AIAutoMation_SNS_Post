@@ -3231,12 +3231,15 @@
       "id": "side_hustle-202607101520-rakuten-workstyle-3f27fe",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-10T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-07-02T16:24:03.176Z",
       "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-07-02T16:24:03.528Z"
+      "diversified_at": "2026-07-02T16:24:03.528Z",
+      "creation_id": "18041282126616906",
+      "post_id": "18095552042358599",
+      "published_at": "2026-07-10T08:35:28.137Z"
     },
     {
       "id": "side_hustle-202607102150-adult-adjacent-safe-a39bfe",
