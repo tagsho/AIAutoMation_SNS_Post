@@ -3301,11 +3301,14 @@
       "id": "side_hustle-202607120750-ai-workflow-5a301b",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-12T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-07-04T15:20:06.719Z",
-      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n小さく試して、反応がある場所に寄せる。",
+      "creation_id": "18041453261616906",
+      "post_id": "17878280004614184",
+      "published_at": "2026-07-11T23:06:13.596Z"
     },
     {
       "id": "side_hustle-202607121520-sns-funnel-7b3d8f",
