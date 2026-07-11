@@ -3287,12 +3287,15 @@
       "id": "side_hustle-202607112150-ai-workflow-5dc992",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-11T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-07-03T15:22:40.908Z",
       "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-07-03T15:22:41.142Z"
+      "diversified_at": "2026-07-03T15:22:41.142Z",
+      "creation_id": "18041409527616906",
+      "post_id": "18038224031632573",
+      "published_at": "2026-07-11T14:07:22.228Z"
     },
     {
       "id": "side_hustle-202607120750-ai-workflow-5a301b",
