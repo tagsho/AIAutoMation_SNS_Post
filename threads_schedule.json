@@ -3328,12 +3328,15 @@
       "id": "side_hustle-202607122150-rakuten-workstyle-a7a0e4",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-12T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-07-04T15:20:06.719Z",
       "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-07-04T15:20:06.976Z"
+      "diversified_at": "2026-07-04T15:20:06.976Z",
+      "creation_id": "18041518151616906",
+      "post_id": "18063718559725371",
+      "published_at": "2026-07-12T13:51:31.867Z"
     },
     {
       "id": "side_hustle-202607130750-adult-adjacent-safe-3ca70b",
