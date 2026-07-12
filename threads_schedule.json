@@ -3314,12 +3314,15 @@
       "id": "side_hustle-202607121520-sns-funnel-7b3d8f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-12T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-07-04T15:20:06.719Z",
       "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-07-04T15:20:06.976Z"
+      "diversified_at": "2026-07-04T15:20:06.976Z",
+      "creation_id": "18041484071616906",
+      "post_id": "18126723175649898",
+      "published_at": "2026-07-12T06:23:31.188Z"
     },
     {
       "id": "side_hustle-202607122150-rakuten-workstyle-a7a0e4",
