@@ -3369,12 +3369,15 @@
       "id": "side_hustle-202607132150-market-selection-5eb663",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-13T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-07-05T15:34:03.199Z",
       "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-07-05T15:34:03.332Z"
+      "diversified_at": "2026-07-05T15:34:03.332Z",
+      "creation_id": "18041636720616906",
+      "post_id": "17921322342399551",
+      "published_at": "2026-07-13T15:18:25.295Z"
     },
     {
       "id": "side_hustle-202607140750-sns-funnel-8a7b93",
@@ -3601,6 +3604,38 @@
       "generated_at": "2026-07-12T15:40:58.141Z",
       "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
       "diversified_at": "2026-07-12T15:40:58.267Z"
+    },
+    {
+      "id": "side_hustle-202607210750-ai-workflow-3b6253",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-21T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-07-13T15:18:17.339Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
+      "diversified_at": "2026-07-13T15:18:17.487Z"
+    },
+    {
+      "id": "side_hustle-202607211520-sns-funnel-e1c3cd",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-21T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-07-13T15:18:17.339Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202607212150-adult-adjacent-safe-14fee3",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-21T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-07-13T15:18:17.339Z",
+      "text": "男性向け市場は需要が強い。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n露骨な単語を増やすより、なぜその市場が動くのかを説明したほうが長く使える投稿になる。\n\n強い市場ほど、表現は一段落として設計する。",
+      "diversified_at": "2026-07-13T15:18:17.488Z"
     }
   ]
 }
