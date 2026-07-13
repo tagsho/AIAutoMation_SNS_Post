@@ -3355,12 +3355,15 @@
       "id": "side_hustle-202607131520-beginner-mistake-5fd289",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-13T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-07-05T15:34:03.199Z",
       "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-07-05T15:34:03.331Z"
+      "diversified_at": "2026-07-05T15:34:03.331Z",
+      "creation_id": "18041596694616906",
+      "post_id": "17950103226013254",
+      "published_at": "2026-07-13T06:41:51.915Z"
     },
     {
       "id": "side_hustle-202607132150-market-selection-5eb663",
