@@ -3411,12 +3411,15 @@
       "id": "side_hustle-202607142150-adult-adjacent-safe-280c43",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-14T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-07-06T16:35:27.694Z",
       "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n強い需要ほど、言い方を間違えると削除や警戒につながる。先に境界線を決める。\n\n欲求ではなく、選び方から入る。",
-      "diversified_at": "2026-07-06T16:35:27.817Z"
+      "diversified_at": "2026-07-06T16:35:27.817Z",
+      "creation_id": "18041735060616906",
+      "post_id": "18105121307116197",
+      "published_at": "2026-07-14T14:19:35.710Z"
     },
     {
       "id": "side_hustle-202607150750-rakuten-workstyle-ea0869",
