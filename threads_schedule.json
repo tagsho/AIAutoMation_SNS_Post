@@ -3438,12 +3438,15 @@
       "id": "side_hustle-202607151520-adult-adjacent-safe-716450",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-15T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-07-07T15:33:18.502Z",
       "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n表の投稿では欲を煽らず、市場の構造と失敗しやすい導線を話すくらいがちょうどいい。\n\n強い市場ほど、表現は一段落として設計する。",
-      "diversified_at": "2026-07-07T15:33:18.643Z"
+      "diversified_at": "2026-07-07T15:33:18.643Z",
+      "creation_id": "18041813849616906",
+      "post_id": "18155221813487759",
+      "published_at": "2026-07-15T07:44:59.857Z"
     },
     {
       "id": "side_hustle-202607152150-high-ticket-16adcc",
