@@ -3452,12 +3452,15 @@
       "id": "side_hustle-202607152150-high-ticket-16adcc",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-15T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-07-07T15:33:18.502Z",
       "text": "安い商品ほど勢いで売れることがある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-07-07T15:33:18.643Z"
+      "diversified_at": "2026-07-07T15:33:18.643Z",
+      "creation_id": "18041843861616906",
+      "post_id": "17920275399181496",
+      "published_at": "2026-07-15T14:24:46.093Z"
     },
     {
       "id": "side_hustle-202607160750-high-ticket-59c182",
