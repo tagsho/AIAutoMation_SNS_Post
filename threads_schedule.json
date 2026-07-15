@@ -3687,6 +3687,39 @@
       "generated_at": "2026-07-14T15:52:37.563Z",
       "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n作業量より、導線のズレを減らす。",
       "diversified_at": "2026-07-14T15:52:37.711Z"
+    },
+    {
+      "id": "side_hustle-202607230750-market-selection-5ccac6",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-23T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "market_selection",
+      "generated_at": "2026-07-15T15:56:25.866Z",
+      "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-07-15T15:56:26.131Z"
+    },
+    {
+      "id": "side_hustle-202607231520-high-ticket-19acf8",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-23T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-07-15T15:56:25.866Z",
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nその代わり、雑な煽りでは売れにくい。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\nまずは小さく出して、反応がある角度に寄せる。",
+      "diversified_at": "2026-07-15T15:56:26.131Z"
+    },
+    {
+      "id": "side_hustle-202607232150-ai-workflow-2ddcf9",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-23T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-07-15T15:56:25.866Z",
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
+      "diversified_at": "2026-07-15T15:56:26.132Z"
     }
   ]
 }
