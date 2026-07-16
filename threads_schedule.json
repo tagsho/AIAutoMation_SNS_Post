@@ -3479,12 +3479,15 @@
       "id": "side_hustle-202607161520-sns-funnel-040e40",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-16T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-07-08T16:17:52.897Z",
       "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\nまずは小さく出して、反応がある角度に寄せる。",
-      "diversified_at": "2026-07-08T16:17:53.017Z"
+      "diversified_at": "2026-07-08T16:17:53.017Z",
+      "creation_id": "18041920898616906",
+      "post_id": "18108904771797444",
+      "published_at": "2026-07-16T06:38:20.402Z"
     },
     {
       "id": "side_hustle-202607162150-rakuten-workstyle-1d8a27",
