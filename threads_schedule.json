@@ -3771,6 +3771,38 @@
       "generated_at": "2026-07-16T15:51:39.449Z",
       "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n攻めるなら、投稿・プロフィール・リンク先の役割を分ける。全部を1投稿で売ろうとしない。\n\n売る前に、警戒されない順番を作る。",
       "diversified_at": "2026-07-16T15:51:39.596Z"
+    },
+    {
+      "id": "side_hustle-202607250750-beginner-mistake-a466f0",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-25T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-07-17T15:50:36.843Z",
+      "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
+      "diversified_at": "2026-07-17T15:50:37.104Z"
+    },
+    {
+      "id": "side_hustle-202607251520-high-ticket-27b064",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-25T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-07-17T15:50:36.843Z",
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n悩みを整理して、比較して、納得してもらう導線がいる。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202607252150-ai-workflow-cc271e",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-25T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-07-17T15:50:36.843Z",
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
+      "diversified_at": "2026-07-17T15:50:37.104Z"
     }
   ]
 }
