@@ -3521,12 +3521,15 @@
       "id": "side_hustle-202607171520-rakuten-workstyle-733fb4",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-17T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-07-09T15:38:43.340Z",
       "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-07-09T15:38:43.472Z"
+      "diversified_at": "2026-07-09T15:38:43.472Z",
+      "creation_id": "18042026480616906",
+      "post_id": "18116764711804017",
+      "published_at": "2026-07-17T06:34:59.543Z"
     },
     {
       "id": "side_hustle-202607172150-adult-adjacent-safe-a740b2",
