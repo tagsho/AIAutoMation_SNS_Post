@@ -3577,12 +3577,15 @@
       "id": "side_hustle-202607182150-high-ticket-86177f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-18T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-07-10T16:02:23.015Z",
       "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-07-10T16:02:23.146Z"
+      "diversified_at": "2026-07-10T16:02:23.146Z",
+      "creation_id": "18042167558616906",
+      "post_id": "18070855832395537",
+      "published_at": "2026-07-18T14:05:03.107Z"
     },
     {
       "id": "side_hustle-202607190750-rakuten-workstyle-a6ff5c",
