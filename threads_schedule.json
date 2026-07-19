@@ -3631,12 +3631,15 @@
       "id": "side_hustle-202607200750-adult-adjacent-safe-ff6b8f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-20T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-07-12T15:40:58.141Z",
       "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n露骨な単語を増やすより、なぜその市場が動くのかを説明したほうが長く使える投稿になる。\n\n売る前に、警戒されない順番を作る。",
-      "diversified_at": "2026-07-12T15:40:58.267Z"
+      "diversified_at": "2026-07-12T15:40:58.267Z",
+      "creation_id": "18042329078616906",
+      "post_id": "18109870276990838",
+      "published_at": "2026-07-19T23:36:16.017Z"
     },
     {
       "id": "side_hustle-202607201520-beginner-mistake-873726",
