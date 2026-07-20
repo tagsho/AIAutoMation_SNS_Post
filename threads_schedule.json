@@ -3894,6 +3894,37 @@
       "generated_at": "2026-07-19T15:37:45.119Z",
       "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n作業量より、導線のズレを減らす。",
       "diversified_at": "2026-07-19T15:37:45.270Z"
+    },
+    {
+      "id": "side_hustle-202607280750-high-ticket-c62f58",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-28T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-07-20T16:17:58.048Z",
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-07-20T16:17:58.335Z"
+    },
+    {
+      "id": "side_hustle-202607281520-ai-workflow-720359",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-28T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-07-20T16:17:58.049Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202607282150-sns-funnel-6448d1",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-28T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-07-20T16:17:58.049Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n売る前に、選ばれる理由を作る。"
     }
   ]
 }
