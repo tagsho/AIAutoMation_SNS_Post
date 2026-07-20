@@ -3658,12 +3658,15 @@
       "id": "side_hustle-202607202150-high-ticket-4906c9",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-20T21:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-07-12T15:40:58.141Z",
       "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-07-12T15:40:58.267Z"
+      "diversified_at": "2026-07-12T15:40:58.267Z",
+      "creation_id": "18042402434616906",
+      "post_id": "18121621564802047",
+      "published_at": "2026-07-20T14:53:08.833Z"
     },
     {
       "id": "side_hustle-202607210750-ai-workflow-3b6253",
