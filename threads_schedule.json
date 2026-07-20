@@ -3672,12 +3672,15 @@
       "id": "side_hustle-202607210750-ai-workflow-3b6253",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-21T07:50:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-07-13T15:18:17.339Z",
       "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-07-13T15:18:17.487Z"
+      "diversified_at": "2026-07-13T15:18:17.487Z",
+      "creation_id": "18042436649616906",
+      "post_id": "17877297792514143",
+      "published_at": "2026-07-20T23:28:27.124Z"
     },
     {
       "id": "side_hustle-202607211520-sns-funnel-e1c3cd",
