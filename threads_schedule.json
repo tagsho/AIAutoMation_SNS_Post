@@ -3934,6 +3934,39 @@
       "pillar": "sns_funnel",
       "generated_at": "2026-07-20T16:17:58.049Z",
       "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202607290750-adult-adjacent-safe-d575f5",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-29T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-07-21T16:11:21.373Z",
+      "text": "男性向け市場は需要が強い。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n成人向けに近い市場は、刺激で押すより、匿名性・悩み・比較の3つを分けて設計したほうが残りやすい。\n\n強い市場ほど、表現は一段落として設計する。",
+      "diversified_at": "2026-07-21T16:11:21.524Z"
+    },
+    {
+      "id": "side_hustle-202607291520-high-ticket-13d606",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-29T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-07-21T16:11:21.374Z",
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-07-21T16:11:21.524Z"
+    },
+    {
+      "id": "side_hustle-202607292150-ai-workflow-9c1e6e",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-07-29T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-07-21T16:11:21.374Z",
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
+      "diversified_at": "2026-07-21T16:11:21.525Z"
     }
   ]
 }
