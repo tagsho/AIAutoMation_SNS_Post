@@ -3727,12 +3727,15 @@
       "id": "side_hustle-202607221520-adult-adjacent-safe-bdfe33",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-22T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-07-14T15:52:37.563Z",
       "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n露骨な単語を増やすより、なぜその市場が動くのかを説明したほうが長く使える投稿になる。\n\n強い市場ほど、表現は一段落として設計する。",
-      "diversified_at": "2026-07-14T15:52:37.711Z"
+      "diversified_at": "2026-07-14T15:52:37.711Z",
+      "creation_id": "18042565343616906",
+      "post_id": "18399606046093870",
+      "published_at": "2026-07-22T07:09:51.967Z"
     },
     {
       "id": "side_hustle-202607222150-beginner-mistake-bc2ac5",
