@@ -3769,12 +3769,15 @@
       "id": "side_hustle-202607231520-high-ticket-19acf8",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-23T15:20:00",
-      "status": "scheduled",
+      "status": "published",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-07-15T15:56:25.866Z",
       "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nその代わり、雑な煽りでは売れにくい。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\nまずは小さく出して、反応がある角度に寄せる。",
-      "diversified_at": "2026-07-15T15:56:26.131Z"
+      "diversified_at": "2026-07-15T15:56:26.131Z",
+      "creation_id": "18042668855616906",
+      "post_id": "18169144228434024",
+      "published_at": "2026-07-23T09:03:44.095Z"
     },
     {
       "id": "side_hustle-202607232150-ai-workflow-2ddcf9",
