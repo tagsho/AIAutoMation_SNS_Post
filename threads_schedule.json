@@ -3837,12 +3837,14 @@
       "id": "side_hustle-202607250750-beginner-mistake-a466f0",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-25T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-07-17T15:50:36.843Z",
       "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
-      "diversified_at": "2026-07-17T15:50:37.104Z"
+      "diversified_at": "2026-07-17T15:50:37.104Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-07-24T23:40:06.267Z"
     },
     {
       "id": "side_hustle-202607251520-high-ticket-27b064",
