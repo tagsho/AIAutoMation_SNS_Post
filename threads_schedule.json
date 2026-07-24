@@ -3824,12 +3824,14 @@
       "id": "side_hustle-202607242150-adult-adjacent-safe-ad4ebc",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-24T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-07-16T15:51:39.449Z",
       "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n攻めるなら、投稿・プロフィール・リンク先の役割を分ける。全部を1投稿で売ろうとしない。\n\n売る前に、警戒されない順番を作る。",
-      "diversified_at": "2026-07-16T15:51:39.596Z"
+      "diversified_at": "2026-07-16T15:51:39.596Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-07-24T14:23:50.700Z"
     },
     {
       "id": "side_hustle-202607250750-beginner-mistake-a466f0",
