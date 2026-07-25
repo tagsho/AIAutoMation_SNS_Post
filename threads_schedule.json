@@ -3850,11 +3850,13 @@
       "id": "side_hustle-202607251520-high-ticket-27b064",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-25T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-07-17T15:50:36.843Z",
-      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n悩みを整理して、比較して、納得してもらう導線がいる。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n悩みを整理して、比較して、納得してもらう導線がいる。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "error": "Non-JSON response 500: ",
+      "failed_at": "2026-07-25T06:35:01.754Z"
     },
     {
       "id": "side_hustle-202607252150-ai-workflow-cc271e",
