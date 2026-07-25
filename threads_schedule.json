@@ -4090,6 +4090,38 @@
       "generated_at": "2026-07-24T15:50:03.024Z",
       "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n売る前に、読む理由を作る。",
       "diversified_at": "2026-07-24T15:50:03.176Z"
+    },
+    {
+      "id": "side_hustle-202608020750-ai-workflow-e5fd49",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-02T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-07-25T15:33:29.493Z",
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
+      "diversified_at": "2026-07-25T15:33:29.613Z"
+    },
+    {
+      "id": "side_hustle-202608021520-sns-funnel-f036fc",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-02T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-07-25T15:33:29.493Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
+      "diversified_at": "2026-07-25T15:33:29.614Z"
+    },
+    {
+      "id": "side_hustle-202608022150-rakuten-workstyle-69131f",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-02T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-07-25T15:33:29.493Z",
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\n小さく試して、反応がある場所に寄せる。"
     }
   ]
 }
