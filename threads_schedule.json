@@ -3888,11 +3888,13 @@
       "id": "side_hustle-202607261520-sns-funnel-1290de",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-26T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-07-18T15:10:13.742Z",
-      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-07-26T06:26:38.583Z"
     },
     {
       "id": "side_hustle-202607262150-rakuten-workstyle-8c0cdc",
