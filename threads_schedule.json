@@ -4128,6 +4128,39 @@
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-07-25T15:33:29.493Z",
       "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202608030750-adult-adjacent-safe-1b9a2d",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-03T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-07-26T15:19:54.610Z",
+      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n攻めるなら、投稿・プロフィール・リンク先の役割を分ける。全部を1投稿で売ろうとしない。\n\n短期で刺すより、消されにくい導線を積む。",
+      "diversified_at": "2026-07-26T15:19:54.755Z"
+    },
+    {
+      "id": "side_hustle-202608031520-beginner-mistake-3e3706",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-03T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-07-26T15:19:54.611Z",
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-07-26T15:19:54.755Z"
+    },
+    {
+      "id": "side_hustle-202608032150-high-ticket-163993",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-03T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-07-26T15:19:54.611Z",
+      "text": "安い商品ほど勢いで売れることがある。\n\nその代わり、雑な煽りでは売れにくい。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-07-26T15:19:54.755Z"
     }
   ]
 }
