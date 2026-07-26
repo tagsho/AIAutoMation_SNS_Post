@@ -3913,11 +3913,13 @@
       "id": "side_hustle-202607270750-adult-adjacent-safe-e4fe11",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-27T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-07-19T15:37:45.119Z",
-      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n攻めるなら、先に守る線を決める。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n攻めるなら、先に守る線を決める。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "Non-JSON response 500: ",
+      "failed_at": "2026-07-26T23:37:02.933Z"
     },
     {
       "id": "side_hustle-202607271520-beginner-mistake-43daaa",
