@@ -3938,12 +3938,14 @@
       "id": "side_hustle-202607272150-market-selection-a96fd7",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-27T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-07-19T15:37:45.119Z",
       "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-07-19T15:37:45.270Z"
+      "diversified_at": "2026-07-19T15:37:45.270Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-07-27T14:03:29.235Z"
     },
     {
       "id": "side_hustle-202607280750-high-ticket-c62f58",
