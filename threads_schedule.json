@@ -3925,12 +3925,14 @@
       "id": "side_hustle-202607271520-beginner-mistake-43daaa",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-27T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-07-19T15:37:45.119Z",
       "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-07-19T15:37:45.269Z"
+      "diversified_at": "2026-07-19T15:37:45.269Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-07-27T08:26:47.495Z"
     },
     {
       "id": "side_hustle-202607272150-market-selection-a96fd7",
