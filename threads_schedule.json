@@ -3964,11 +3964,13 @@
       "id": "side_hustle-202607281520-ai-workflow-720359",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-28T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-07-20T16:17:58.049Z",
-      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-07-28T08:48:44.987Z"
     },
     {
       "id": "side_hustle-202607282150-sns-funnel-6448d1",
