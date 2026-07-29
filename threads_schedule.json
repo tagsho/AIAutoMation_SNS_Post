@@ -4027,11 +4027,13 @@
       "id": "side_hustle-202607300750-high-ticket-7783e3",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-30T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-07-22T16:10:31.526Z",
-      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-07-29T23:38:33.099Z"
     },
     {
       "id": "side_hustle-202607301520-sns-funnel-4fea0f",
