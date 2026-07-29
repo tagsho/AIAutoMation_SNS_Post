@@ -4001,12 +4001,14 @@
       "id": "side_hustle-202607291520-high-ticket-13d606",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-29T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-07-21T16:11:21.374Z",
       "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-07-21T16:11:21.524Z"
+      "diversified_at": "2026-07-21T16:11:21.524Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-07-29T07:27:30.936Z"
     },
     {
       "id": "side_hustle-202607292150-ai-workflow-9c1e6e",
