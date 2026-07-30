@@ -4063,11 +4063,13 @@
       "id": "side_hustle-202607310750-sns-funnel-5ec46b",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-31T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-07-23T16:21:08.165Z",
-      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-07-30T22:53:18.000Z"
     },
     {
       "id": "side_hustle-202607311520-rakuten-workstyle-258b3b",
