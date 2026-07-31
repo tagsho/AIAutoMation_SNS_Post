@@ -4099,11 +4099,13 @@
       "id": "side_hustle-202608010750-beginner-mistake-a24685",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-01T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-07-24T15:50:03.024Z",
-      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n先に出口を決める。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n先に出口を決める。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "error": "Non-JSON response 500: ",
+      "failed_at": "2026-07-31T23:38:41.785Z"
     },
     {
       "id": "side_hustle-202608011520-market-selection-a40005",
