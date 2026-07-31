@@ -4087,11 +4087,13 @@
       "id": "side_hustle-202607312150-adult-adjacent-safe-795f2e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-07-31T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-07-23T16:21:08.166Z",
-      "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n露骨に寄せるより、ルールと境界線を理解して設計するほうが長く残る。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n露骨に寄せるより、ルールと境界線を理解して設計するほうが長く残る。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-07-31T14:42:41.815Z"
     },
     {
       "id": "side_hustle-202608010750-beginner-mistake-a24685",
