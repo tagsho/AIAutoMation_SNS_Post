@@ -4111,12 +4111,14 @@
       "id": "side_hustle-202608011520-market-selection-a40005",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-01T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-07-24T15:50:03.024Z",
       "text": "稼げる人は、投稿文だけを見ていない。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-07-24T15:50:03.176Z"
+      "diversified_at": "2026-07-24T15:50:03.176Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-08-01T07:10:53.402Z"
     },
     {
       "id": "side_hustle-202608012150-high-ticket-90c489",
