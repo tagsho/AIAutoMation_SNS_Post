@@ -4354,6 +4354,38 @@
       "pillar": "sns_funnel",
       "generated_at": "2026-07-31T16:22:12.398Z",
       "text": "Threadsは短い文章で温度を作りやすい。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202608090750-ai-workflow-8fbbfa",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-09T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-08-01T15:32:14.125Z",
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
+      "diversified_at": "2026-08-01T15:32:14.419Z"
+    },
+    {
+      "id": "side_hustle-202608091520-sns-funnel-54f8fc",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-09T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-08-01T15:32:14.125Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202608092150-rakuten-workstyle-dbd31e",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-09T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-08-01T15:32:14.125Z",
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
+      "diversified_at": "2026-08-01T15:32:14.419Z"
     }
   ]
 }
