@@ -4163,11 +4163,13 @@
       "id": "side_hustle-202608022150-rakuten-workstyle-69131f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-02T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-07-25T15:33:29.493Z",
-      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-08-02T14:19:40.090Z"
     },
     {
       "id": "side_hustle-202608030750-adult-adjacent-safe-1b9a2d",
