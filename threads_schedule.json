@@ -4175,12 +4175,14 @@
       "id": "side_hustle-202608030750-adult-adjacent-safe-1b9a2d",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-03T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-07-26T15:19:54.610Z",
       "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n攻めるなら、投稿・プロフィール・リンク先の役割を分ける。全部を1投稿で売ろうとしない。\n\n短期で刺すより、消されにくい導線を積む。",
-      "diversified_at": "2026-07-26T15:19:54.755Z"
+      "diversified_at": "2026-07-26T15:19:54.755Z",
+      "error": "Non-JSON response 500: ",
+      "failed_at": "2026-08-02T23:37:17.964Z"
     },
     {
       "id": "side_hustle-202608031520-beginner-mistake-3e3706",
