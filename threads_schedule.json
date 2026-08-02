@@ -4150,12 +4150,14 @@
       "id": "side_hustle-202608021520-sns-funnel-f036fc",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-02T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-07-25T15:33:29.493Z",
       "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-07-25T15:33:29.614Z"
+      "diversified_at": "2026-07-25T15:33:29.614Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-08-02T07:14:34.127Z"
     },
     {
       "id": "side_hustle-202608022150-rakuten-workstyle-69131f",
