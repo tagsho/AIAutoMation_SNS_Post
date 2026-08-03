@@ -4429,6 +4429,38 @@
       "pillar": "market_selection",
       "generated_at": "2026-08-02T15:33:18.455Z",
       "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n先に市場を選ぶと、努力の空振りが減る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202608110750-high-ticket-8a1acf",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-11T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-08-03T16:25:19.929Z",
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\nまずは小さく出して、反応がある角度に寄せる。",
+      "diversified_at": "2026-08-03T16:25:20.103Z"
+    },
+    {
+      "id": "side_hustle-202608111520-sns-funnel-e27bf9",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-11T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-08-03T16:25:19.930Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
+      "diversified_at": "2026-08-03T16:25:20.104Z"
+    },
+    {
+      "id": "side_hustle-202608112150-rakuten-workstyle-484c84",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-11T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-08-03T16:25:19.930Z",
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\nリンクを貼る前に、読む理由を作る。"
     }
   ]
 }
