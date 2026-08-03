@@ -4188,12 +4188,14 @@
       "id": "side_hustle-202608031520-beginner-mistake-3e3706",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-03T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-07-26T15:19:54.611Z",
       "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-07-26T15:19:54.755Z"
+      "diversified_at": "2026-07-26T15:19:54.755Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-08-03T08:02:48.686Z"
     },
     {
       "id": "side_hustle-202608032150-high-ticket-163993",
