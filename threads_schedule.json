@@ -4214,12 +4214,14 @@
       "id": "side_hustle-202608040750-high-ticket-2f2e00",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-04T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-07-27T16:32:12.387Z",
       "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-07-27T16:32:12.540Z"
+      "diversified_at": "2026-07-27T16:32:12.540Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-08-03T23:56:00.519Z"
     },
     {
       "id": "side_hustle-202608041520-ai-workflow-3ff2c2",
