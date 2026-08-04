@@ -4240,12 +4240,14 @@
       "id": "side_hustle-202608042150-sns-funnel-f1fd6f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-04T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-07-27T16:32:12.388Z",
       "text": "Threadsは短い文章で温度を作りやすい。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-07-27T16:32:12.540Z"
+      "diversified_at": "2026-07-27T16:32:12.540Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-08-04T14:58:14.744Z"
     },
     {
       "id": "side_hustle-202608050750-rakuten-workstyle-b6338c",
