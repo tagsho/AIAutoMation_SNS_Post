@@ -4266,12 +4266,14 @@
       "id": "side_hustle-202608051520-adult-adjacent-safe-e347ce",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-05T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-07-28T15:19:41.652Z",
       "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n表の投稿では欲を煽らず、市場の構造と失敗しやすい導線を話すくらいがちょうどいい。\n\n強い市場ほど、表現は一段落として設計する。",
-      "diversified_at": "2026-07-28T15:19:41.984Z"
+      "diversified_at": "2026-07-28T15:19:41.984Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-08-05T07:07:07.488Z"
     },
     {
       "id": "side_hustle-202608052150-beginner-mistake-d1d248",
