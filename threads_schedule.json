@@ -4279,11 +4279,13 @@
       "id": "side_hustle-202608052150-beginner-mistake-d1d248",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-05T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-07-28T15:19:41.652Z",
-      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "Non-JSON response 500: ",
+      "failed_at": "2026-08-05T13:27:59.257Z"
     },
     {
       "id": "side_hustle-202608060750-market-selection-e5cbf4",
