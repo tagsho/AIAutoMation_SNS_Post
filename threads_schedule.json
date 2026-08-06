@@ -4315,11 +4315,13 @@
       "id": "side_hustle-202608062150-ai-workflow-a529ed",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-06T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-07-29T16:06:17.153Z",
-      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-08-06T13:26:15.847Z"
     },
     {
       "id": "side_hustle-202608070750-sns-funnel-c62f0e",
