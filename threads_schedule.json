@@ -4351,12 +4351,14 @@
       "id": "side_hustle-202608072150-adult-adjacent-safe-914c84",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-07T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-07-30T15:08:02.639Z",
       "text": "男性向け市場は需要が強い。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n強い需要ほど、言い方を間違えると削除や警戒につながる。先に境界線を決める。\n\n刺激より、違和感の少ない入口を作る。",
-      "diversified_at": "2026-07-30T15:08:02.798Z"
+      "diversified_at": "2026-07-30T15:08:02.798Z",
+      "error": "Non-JSON response 500: ",
+      "failed_at": "2026-08-07T13:33:37.190Z"
     },
     {
       "id": "side_hustle-202608080750-high-ticket-ed30ee",
