@@ -4364,12 +4364,14 @@
       "id": "side_hustle-202608080750-high-ticket-ed30ee",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-08T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-07-31T16:22:12.398Z",
       "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nその代わり、雑な煽りでは売れにくい。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-07-31T16:22:12.550Z"
+      "diversified_at": "2026-07-31T16:22:12.550Z",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-08-07T22:51:31.905Z"
     },
     {
       "id": "side_hustle-202608081520-ai-workflow-a6b0a0",
