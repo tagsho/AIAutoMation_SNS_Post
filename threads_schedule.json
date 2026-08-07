@@ -4339,11 +4339,13 @@
       "id": "side_hustle-202608071520-rakuten-workstyle-54c2ca",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-07T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-07-30T15:08:02.639Z",
-      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"code\":1,\"message\":\"An unknown error occurred\"}}",
+      "failed_at": "2026-08-07T06:38:13.897Z"
     },
     {
       "id": "side_hustle-202608072150-adult-adjacent-safe-914c84",
