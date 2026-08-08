@@ -4377,11 +4377,13 @@
       "id": "side_hustle-202608081520-ai-workflow-a6b0a0",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-08T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-07-31T16:22:12.398Z",
-      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n仕組みにすると、毎日の迷いが減る。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n仕組みにすると、毎日の迷いが減る。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 08-Aug-26 00:10:43 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Axz9u_OxhQa7ezkJw_U5pE0\"}}",
+      "failed_at": "2026-08-08T07:10:43.739Z"
     },
     {
       "id": "side_hustle-202608082150-sns-funnel-c2c0cf",
