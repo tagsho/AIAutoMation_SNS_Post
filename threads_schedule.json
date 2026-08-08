@@ -4389,11 +4389,13 @@
       "id": "side_hustle-202608082150-sns-funnel-c2c0cf",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-08T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-07-31T16:22:12.398Z",
-      "text": "Threadsは短い文章で温度を作りやすい。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "Threadsは短い文章で温度を作りやすい。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 08-Aug-26 06:23:06 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AcZ1JL7bBUm_h8hJ6eb5RiH\"}}",
+      "failed_at": "2026-08-08T13:23:06.583Z"
     },
     {
       "id": "side_hustle-202608090750-ai-workflow-8fbbfa",
