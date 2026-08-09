@@ -4426,12 +4426,14 @@
       "id": "side_hustle-202608092150-rakuten-workstyle-dbd31e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-09T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-08-01T15:32:14.125Z",
       "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-08-01T15:32:14.419Z"
+      "diversified_at": "2026-08-01T15:32:14.419Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 09-Aug-26 06:27:02 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Aev6hsy7yIdRPwi-WSGQZ6C\"}}",
+      "failed_at": "2026-08-09T13:27:02.586Z"
     },
     {
       "id": "side_hustle-202608100750-adult-adjacent-safe-fc2fe4",
