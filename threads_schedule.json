@@ -4439,12 +4439,14 @@
       "id": "side_hustle-202608100750-adult-adjacent-safe-fc2fe4",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-10T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-08-02T15:33:18.454Z",
       "text": "男性向け市場は需要が強い。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n表の投稿では欲を煽らず、市場の構造と失敗しやすい導線を話すくらいがちょうどいい。\n\n売る前に、警戒されない順番を作る。",
-      "diversified_at": "2026-08-02T15:33:18.806Z"
+      "diversified_at": "2026-08-02T15:33:18.806Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 09-Aug-26 15:54:48 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ABwxrRkdpO7t0ipqnC2kruf\"}}",
+      "failed_at": "2026-08-09T22:54:48.534Z"
     },
     {
       "id": "side_hustle-202608101520-beginner-mistake-884453",
