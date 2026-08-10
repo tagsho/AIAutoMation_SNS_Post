@@ -4464,11 +4464,13 @@
       "id": "side_hustle-202608102150-market-selection-967e73",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-10T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-08-02T15:33:18.455Z",
-      "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n先に市場を選ぶと、努力の空振りが減る。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n先に市場を選ぶと、努力の空振りが減る。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Monday, 10-Aug-26 06:39:09 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A3Uw_sUuSRvvD-sqh5JWBBv\"}}",
+      "failed_at": "2026-08-10T13:39:09.287Z"
     },
     {
       "id": "side_hustle-202608110750-high-ticket-8a1acf",
