@@ -4514,11 +4514,13 @@
       "id": "side_hustle-202608120750-rakuten-workstyle-b51c6a",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-12T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-08-04T16:44:36.395Z",
-      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Tuesday, 11-Aug-26 16:21:29 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AW4qZjB6QuJY7iqocQydm2B\"}}",
+      "failed_at": "2026-08-11T23:21:30.119Z"
     },
     {
       "id": "side_hustle-202608121520-adult-adjacent-safe-7399de",
