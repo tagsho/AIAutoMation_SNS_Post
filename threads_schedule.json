@@ -4649,12 +4649,14 @@
       "id": "side_hustle-202608152150-sns-funnel-1439d6",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-15T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-08-07T15:31:44.585Z",
       "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-08-07T15:31:44.732Z"
+      "diversified_at": "2026-08-07T15:31:44.732Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 15-Aug-26 05:56:42 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A8PCUAPlNX1b1b9Bq1y5DqQ\"}}",
+      "failed_at": "2026-08-15T12:56:42.702Z"
     },
     {
       "id": "side_hustle-202608160750-ai-workflow-1619db",
