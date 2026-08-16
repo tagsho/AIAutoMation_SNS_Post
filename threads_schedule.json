@@ -4699,12 +4699,14 @@
       "id": "side_hustle-202608170750-adult-adjacent-safe-b8430d",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-17T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-08-09T15:17:59.025Z",
       "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n夜系の案件は、入口を柔らかくして、リンク先で選べる状態を作るほうが安全に回しやすい。\n\n伸ばす前に、守る線を決める。",
-      "diversified_at": "2026-08-09T15:17:59.183Z"
+      "diversified_at": "2026-08-09T15:17:59.183Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 16-Aug-26 15:54:07 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AQE1X5G6lfFDFTX4SHMn1b7\"}}",
+      "failed_at": "2026-08-16T22:54:07.812Z"
     },
     {
       "id": "side_hustle-202608171520-beginner-mistake-3208eb",
