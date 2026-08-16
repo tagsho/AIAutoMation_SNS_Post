@@ -4687,11 +4687,13 @@
       "id": "side_hustle-202608162150-rakuten-workstyle-6a171f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-16T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-08-08T15:15:44.835Z",
-      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 16-Aug-26 05:58:23 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AT-uJ0DiT6T4Qw6LF8RYjKf\"}}",
+      "failed_at": "2026-08-16T12:58:23.675Z"
     },
     {
       "id": "side_hustle-202608170750-adult-adjacent-safe-b8430d",
