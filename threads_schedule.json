@@ -4738,12 +4738,14 @@
       "id": "side_hustle-202608180750-high-ticket-ea066e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-18T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-08-10T15:34:38.787Z",
       "text": "安い商品ほど勢いで売れることがある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-08-10T15:34:38.904Z"
+      "diversified_at": "2026-08-10T15:34:38.904Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Monday, 17-Aug-26 15:56:27 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A_043I3dMVhDm0z0Bhh4ZfQ\"}}",
+      "failed_at": "2026-08-17T22:56:28.087Z"
     },
     {
       "id": "side_hustle-202608181520-ai-workflow-e5c4d5",
