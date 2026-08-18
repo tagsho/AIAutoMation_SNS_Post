@@ -4751,11 +4751,13 @@
       "id": "side_hustle-202608181520-ai-workflow-e5c4d5",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-18T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-08-10T15:34:38.787Z",
-      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n市場選びまで外すと、量だけ増えても伸びにくい。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n市場選びまで外すと、量だけ増えても伸びにくい。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Tuesday, 18-Aug-26 00:10:30 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AEfYPS1msGdDbirPOJl-X1k\"}}",
+      "failed_at": "2026-08-18T07:10:30.944Z"
     },
     {
       "id": "side_hustle-202608182150-sns-funnel-c571c3",
