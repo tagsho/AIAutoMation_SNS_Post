@@ -5032,6 +5032,38 @@
       "pillar": "beginner_mistake",
       "generated_at": "2026-08-18T15:18:25.192Z",
       "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n小さく使って初めて元が取れる。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202608270750-high-ticket-763125",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-27T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-08-19T15:17:45.611Z",
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
+      "diversified_at": "2026-08-19T15:17:45.729Z"
+    },
+    {
+      "id": "side_hustle-202608271520-ai-workflow-273e85",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-27T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-08-19T15:17:45.611Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-08-19T15:17:45.729Z"
+    },
+    {
+      "id": "side_hustle-202608272150-sns-funnel-e41c9a",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-27T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-08-19T15:17:45.611Z",
+      "text": "Threadsは短い文章で温度を作りやすい。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n作業量より、設計のズレを減らすほうが先。"
     }
   ]
 }
