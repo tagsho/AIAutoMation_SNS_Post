@@ -4802,11 +4802,13 @@
       "id": "side_hustle-202608192150-beginner-mistake-5a7dd9",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-19T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-08-11T15:33:17.142Z",
-      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n小さく使って初めて元が取れる。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n小さく使って初めて元が取れる。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 19-Aug-26 06:23:24 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Ak_Xcx4wyLIeBjYkpD6JgRH\"}}",
+      "failed_at": "2026-08-19T13:23:24.704Z"
     },
     {
       "id": "side_hustle-202608200750-market-selection-ba7525",
