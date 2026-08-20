@@ -5070,6 +5070,37 @@
       "pillar": "sns_funnel",
       "generated_at": "2026-08-19T15:17:45.611Z",
       "text": "Threadsは短い文章で温度を作りやすい。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202608280750-adult-adjacent-safe-909080",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-28T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-08-20T15:00:10.993Z",
+      "text": "男性向け市場は需要が強い。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n表の投稿では欲を煽らず、市場の構造と失敗しやすい導線を話すくらいがちょうどいい。\n\n短期で刺すより、消されにくい導線を積む。",
+      "diversified_at": "2026-08-20T15:00:11.150Z"
+    },
+    {
+      "id": "side_hustle-202608281520-beginner-mistake-bfc05f",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-28T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-08-20T15:00:10.993Z",
+      "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202608282150-market-selection-89dd24",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-28T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "market_selection",
+      "generated_at": "2026-08-20T15:00:10.993Z",
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n量を増やす前に、単価と需要を見る。\n\n先に出口を決めると、投稿の迷いが減る。"
     }
   ]
 }
