@@ -4876,12 +4876,14 @@
       "id": "side_hustle-202608212150-beginner-mistake-96a808",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-21T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-08-13T15:35:23.156Z",
       "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
-      "diversified_at": "2026-08-13T15:35:23.327Z"
+      "diversified_at": "2026-08-13T15:35:23.327Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Friday, 21-Aug-26 06:29:19 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AyHOJbvhycFnhG8Gx3bv6P7\"}}",
+      "failed_at": "2026-08-21T13:29:19.698Z"
     },
     {
       "id": "side_hustle-202608220750-beginner-mistake-429209",
