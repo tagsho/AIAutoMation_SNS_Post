@@ -5184,6 +5184,37 @@
       "generated_at": "2026-08-22T15:08:32.408Z",
       "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
       "diversified_at": "2026-08-22T15:08:32.583Z"
+    },
+    {
+      "id": "side_hustle-202608310750-adult-adjacent-safe-f34a12",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-31T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-08-23T15:20:24.542Z",
+      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\nこの距離感を作れる人が強い。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202608311520-beginner-mistake-be40dc",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-31T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-08-23T15:20:24.542Z",
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\nまずは小さく出して、反応がある角度に寄せる。",
+      "diversified_at": "2026-08-23T15:20:24.840Z"
+    },
+    {
+      "id": "side_hustle-202608312150-high-ticket-5d344a",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-08-31T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-08-23T15:20:24.543Z",
+      "text": "安い商品ほど勢いで売れることがある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n自分の時間単価から逆算したほうがいい。\n\n作業量より、設計のズレを減らすほうが先。"
     }
   ]
 }
