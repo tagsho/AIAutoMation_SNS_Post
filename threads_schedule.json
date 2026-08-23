@@ -4954,12 +4954,14 @@
       "id": "side_hustle-202608232150-rakuten-workstyle-e6f36e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-23T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-08-15T15:08:57.675Z",
       "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-08-15T15:08:57.952Z"
+      "diversified_at": "2026-08-15T15:08:57.952Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 23-Aug-26 05:59:57 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AkSzz82fN3M3xBblGfB9KIf\"}}",
+      "failed_at": "2026-08-23T12:59:57.711Z"
     },
     {
       "id": "side_hustle-202608240750-beginner-mistake-3b43c1",
