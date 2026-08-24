@@ -4992,12 +4992,14 @@
       "id": "side_hustle-202608242150-ai-workflow-224cb3",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-24T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-08-16T15:09:51.934Z",
       "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-08-16T15:09:52.192Z"
+      "diversified_at": "2026-08-16T15:09:52.192Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Monday, 24-Aug-26 06:33:54 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A4sTqtjZ9RxZeCzpuYCGOOi\"}}",
+      "failed_at": "2026-08-24T13:33:54.521Z"
     },
     {
       "id": "side_hustle-202608250750-high-ticket-197576",
