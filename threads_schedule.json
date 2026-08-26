@@ -5054,12 +5054,14 @@
       "id": "side_hustle-202608261520-adult-adjacent-safe-44197d",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-26T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-08-18T15:18:25.192Z",
       "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n攻めるなら、投稿・プロフィール・リンク先の役割を分ける。全部を1投稿で売ろうとしない。\n\n欲求ではなく、選び方から入る。",
-      "diversified_at": "2026-08-18T15:18:25.493Z"
+      "diversified_at": "2026-08-18T15:18:25.493Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Tuesday, 25-Aug-26 23:23:20 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AwbSZkpSWFIuXMajCBwGr-M\"}}",
+      "failed_at": "2026-08-26T06:23:20.507Z"
     },
     {
       "id": "side_hustle-202608262150-beginner-mistake-cd0258",
