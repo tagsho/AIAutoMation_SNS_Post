@@ -5079,12 +5079,14 @@
       "id": "side_hustle-202608270750-high-ticket-763125",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-27T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-08-19T15:17:45.611Z",
       "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-08-19T15:17:45.729Z"
+      "diversified_at": "2026-08-19T15:17:45.729Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 26-Aug-26 17:53:37 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AYaRjUqZ2kUUQvaE9O9YCR4\"}}",
+      "failed_at": "2026-08-27T00:53:37.501Z"
     },
     {
       "id": "side_hustle-202608271520-ai-workflow-273e85",
