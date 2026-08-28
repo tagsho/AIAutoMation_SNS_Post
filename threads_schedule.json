@@ -5130,21 +5130,25 @@
       "id": "side_hustle-202608281520-beginner-mistake-bfc05f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-28T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-08-20T15:00:10.993Z",
-      "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Friday, 28-Aug-26 09:48:33 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Af-OF2HZTq2ScNzJDSpYyrL\"}}",
+      "failed_at": "2026-08-28T16:48:33.898Z"
     },
     {
       "id": "side_hustle-202608282150-market-selection-89dd24",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-28T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-08-20T15:00:10.993Z",
-      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n量を増やす前に、単価と需要を見る。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n量を増やす前に、単価と需要を見る。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Friday, 28-Aug-26 09:48:33 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ADwT8wHzMtUnLAwSbmTgLSH\"}}",
+      "failed_at": "2026-08-28T16:48:33.943Z"
     },
     {
       "id": "side_hustle-202608290750-beginner-mistake-31795f",
@@ -5367,6 +5371,39 @@
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-08-27T20:45:06.680Z",
       "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n露骨に寄せるより、ルールと境界線を理解して設計するほうが長く残る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202609050750-high-ticket-ce87f9",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-05T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-08-28T16:48:33.393Z",
+      "text": "安い商品ほど勢いで売れることがある。\n\nその代わり、雑な煽りでは売れにくい。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-08-28T16:48:33.565Z"
+    },
+    {
+      "id": "side_hustle-202609051520-ai-workflow-691700",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-05T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-08-28T16:48:33.393Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
+      "diversified_at": "2026-08-28T16:48:33.566Z"
+    },
+    {
+      "id": "side_hustle-202609052150-sns-funnel-ba0720",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-05T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-08-28T16:48:33.393Z",
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-08-28T16:48:33.566Z"
     }
   ]
 }
