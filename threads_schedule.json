@@ -5167,12 +5167,14 @@
       "id": "side_hustle-202608291520-market-selection-2a07fa",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-29T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-08-21T15:19:59.572Z",
       "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-08-21T15:19:59.667Z"
+      "diversified_at": "2026-08-21T15:19:59.667Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 29-Aug-26 00:29:18 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AfUor2M2AFLDxrlBLv_u53M\"}}",
+      "failed_at": "2026-08-29T07:29:18.434Z"
     },
     {
       "id": "side_hustle-202608292150-high-ticket-058849",
