@@ -5192,12 +5192,14 @@
       "id": "side_hustle-202608300750-ai-workflow-7d03ef",
       "account_id": "side_hustle",
       "scheduled_at": "2026-08-30T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-08-22T15:08:32.407Z",
       "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-08-22T15:08:32.580Z"
+      "diversified_at": "2026-08-22T15:08:32.580Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 29-Aug-26 16:46:13 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AmOAgLrHAkdNZyxNHKPtBKo\"}}",
+      "failed_at": "2026-08-29T23:46:13.481Z"
     },
     {
       "id": "side_hustle-202608301520-sns-funnel-2454c0",
