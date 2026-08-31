@@ -5483,6 +5483,38 @@
       "pillar": "market_selection",
       "generated_at": "2026-08-30T17:37:58.353Z",
       "text": "稼げる人は、投稿文だけを見ていない。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\n先に市場を選ぶと、努力の空振りが減る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202609080750-ai-workflow-f095b3",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-08T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-08-31T19:59:36.729Z",
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-08-31T19:59:36.907Z"
+    },
+    {
+      "id": "side_hustle-202609081520-sns-funnel-c8d4c7",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-08T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-08-31T19:59:36.729Z",
+      "text": "Threadsは短い文章で温度を作りやすい。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202609082150-rakuten-workstyle-8f4b7b",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-08T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-08-31T19:59:36.729Z",
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-08-31T19:59:36.910Z"
     }
   ]
 }
