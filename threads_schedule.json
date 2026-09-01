@@ -5292,12 +5292,14 @@
       "id": "side_hustle-202609012150-sns-funnel-bfeb41",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-01T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-08-24T15:05:36.143Z",
       "text": "Threadsは短い文章で温度を作りやすい。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-08-24T15:05:36.258Z"
+      "diversified_at": "2026-08-24T15:05:36.258Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Tuesday, 01-Sep-26 09:55:44 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AcNE0GnGkxvJCxa28Z-6jGk\"}}",
+      "failed_at": "2026-09-01T16:55:44.976Z"
     },
     {
       "id": "side_hustle-202609020750-rakuten-workstyle-884767",
@@ -5519,6 +5521,37 @@
       "generated_at": "2026-08-31T19:59:36.729Z",
       "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
       "diversified_at": "2026-08-31T19:59:36.910Z"
+    },
+    {
+      "id": "side_hustle-202609090750-rakuten-workstyle-794466",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-09T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-09-01T16:55:44.350Z",
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202609091520-adult-adjacent-safe-4a775d",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-09T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-09-01T16:55:44.350Z",
+      "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n表の投稿では欲を煽らず、市場の構造と失敗しやすい導線を話すくらいがちょうどいい。\n\n刺激より、違和感の少ない入口を作る。",
+      "diversified_at": "2026-09-01T16:55:44.521Z"
+    },
+    {
+      "id": "side_hustle-202609092150-beginner-mistake-3724c4",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-09T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-09-01T16:55:44.350Z",
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n先に出口を決める。\n\n作業量より、設計のズレを減らすほうが先。"
     }
   ]
 }
