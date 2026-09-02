@@ -5330,12 +5330,14 @@
       "id": "side_hustle-202609022150-beginner-mistake-cac914",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-02T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-08-25T15:40:03.097Z",
       "text": "教材を読むだけで満足すると、収益は動かない。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-08-25T15:40:03.265Z"
+      "diversified_at": "2026-08-25T15:40:03.265Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 02-Sep-26 08:15:49 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A0Rg3UZsV-AuN-D3OSV3tag\"}}",
+      "failed_at": "2026-09-02T15:15:49.211Z"
     },
     {
       "id": "side_hustle-202609030750-market-selection-257ac2",
@@ -5556,6 +5558,37 @@
       "pillar": "beginner_mistake",
       "generated_at": "2026-09-01T16:55:44.350Z",
       "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n先に出口を決める。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202609100750-high-ticket-936328",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-10T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-09-02T15:15:48.568Z",
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-09-02T15:15:48.731Z"
+    },
+    {
+      "id": "side_hustle-202609101520-sns-funnel-1d433b",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-10T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-09-02T15:15:48.568Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202609102150-rakuten-workstyle-b2692f",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-10T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-09-02T15:15:48.568Z",
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\n小さく試して、反応がある場所に寄せる。"
     }
   ]
 }
