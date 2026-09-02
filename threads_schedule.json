@@ -5317,12 +5317,14 @@
       "id": "side_hustle-202609021520-adult-adjacent-safe-4d756f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-02T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-08-25T15:40:03.097Z",
       "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n露骨な単語を増やすより、なぜその市場が動くのかを説明したほうが長く使える投稿になる。\n\n短期で刺すより、消されにくい導線を積む。",
-      "diversified_at": "2026-08-25T15:40:03.264Z"
+      "diversified_at": "2026-08-25T15:40:03.264Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Tuesday, 01-Sep-26 23:23:32 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Ah9E0uoPTnLsErFwMCTVGG4\"}}",
+      "failed_at": "2026-09-02T06:23:32.603Z"
     },
     {
       "id": "side_hustle-202609022150-beginner-mistake-cac914",
