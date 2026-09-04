@@ -5418,12 +5418,14 @@
       "id": "side_hustle-202609050750-high-ticket-ce87f9",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-05T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-08-28T16:48:33.393Z",
       "text": "安い商品ほど勢いで売れることがある。\n\nその代わり、雑な煽りでは売れにくい。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-08-28T16:48:33.565Z"
+      "diversified_at": "2026-08-28T16:48:33.565Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Friday, 04-Sep-26 16:06:24 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A6AxO6d5EGqIkkLYurqnniP\"}}",
+      "failed_at": "2026-09-04T23:06:25.005Z"
     },
     {
       "id": "side_hustle-202609051520-ai-workflow-691700",
