@@ -5469,11 +5469,13 @@
       "id": "side_hustle-202609061520-beginner-mistake-12bc57",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-06T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-08-29T17:14:47.766Z",
-      "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 06-Sep-26 01:59:07 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AjCtVK1zUict4pQNYCzpijb\"}}",
+      "failed_at": "2026-09-06T08:59:08.026Z"
     },
     {
       "id": "side_hustle-202609062150-market-selection-64e783",
