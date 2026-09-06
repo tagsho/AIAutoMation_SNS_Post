@@ -5493,12 +5493,14 @@
       "id": "side_hustle-202609070750-adult-adjacent-safe-cfef68",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-07T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-08-30T17:37:58.352Z",
       "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n成人向けに近い市場は、刺激で押すより、匿名性・悩み・比較の3つを分けて設計したほうが残りやすい。\n\n伸ばす前に、守る線を決める。",
-      "diversified_at": "2026-08-30T17:37:58.516Z"
+      "diversified_at": "2026-08-30T17:37:58.516Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 06-Sep-26 16:07:24 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ANYIj6mV0Izf8IYk3G43DSY\"}}",
+      "failed_at": "2026-09-06T23:07:24.626Z"
     },
     {
       "id": "side_hustle-202609071520-beginner-mistake-fe6885",
