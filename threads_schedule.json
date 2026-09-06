@@ -5481,11 +5481,13 @@
       "id": "side_hustle-202609062150-market-selection-64e783",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-06T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-08-29T17:14:47.766Z",
-      "text": "稼げる人は、投稿文だけを見ていない。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n副業は作業より、設計で差がつく。\n\n売る前に、選ばれる理由を作る。"
+      "text": "稼げる人は、投稿文だけを見ていない。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n副業は作業より、設計で差がつく。\n\n売る前に、選ばれる理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 06-Sep-26 08:44:00 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AMMFBQ8mXVd7QxEJrHik64Q\"}}",
+      "failed_at": "2026-09-06T15:44:00.686Z"
     },
     {
       "id": "side_hustle-202609070750-adult-adjacent-safe-cfef68",
@@ -5705,6 +5707,36 @@
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-09-05T15:08:23.675Z",
       "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202609140750-adult-adjacent-safe-8a8000",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-14T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-09-06T15:44:00.107Z",
+      "text": "男性向け市場は需要が強い。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\nこの距離感を作れる人が強い。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202609141520-beginner-mistake-c2b521",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-14T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-09-06T15:44:00.107Z",
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n先に出口を決める。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202609142150-high-ticket-d07411",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-14T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-09-06T15:44:00.107Z",
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n自分の時間単価から逆算したほうがいい。\n\n作業量より、設計のズレを減らすほうが先。"
     }
   ]
 }
