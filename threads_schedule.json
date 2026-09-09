@@ -5819,6 +5819,37 @@
       "generated_at": "2026-09-08T17:36:08.769Z",
       "text": "教材を読むだけで満足すると、収益は動かない。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n売る前に、読む理由を作る。",
       "diversified_at": "2026-09-08T17:36:08.976Z"
+    },
+    {
+      "id": "side_hustle-202609170750-market-selection-c35333",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-17T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "market_selection",
+      "generated_at": "2026-09-09T17:22:08.795Z",
+      "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
+      "diversified_at": "2026-09-09T17:22:08.968Z"
+    },
+    {
+      "id": "side_hustle-202609171520-ai-workflow-b473fc",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-17T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-09-09T17:22:08.796Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202609172150-sns-funnel-fe7ec7",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-17T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-09-09T17:22:08.796Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n先に出口を決めると、投稿の迷いが減る。"
     }
   ]
 }
