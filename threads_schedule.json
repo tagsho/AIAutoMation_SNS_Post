@@ -5605,12 +5605,14 @@
       "id": "side_hustle-202609100750-high-ticket-936328",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-10T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-09-02T15:15:48.568Z",
       "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-09-02T15:15:48.731Z"
+      "diversified_at": "2026-09-02T15:15:48.731Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 09-Sep-26 17:09:58 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AIm2YuIkSALMPgvhC2tZaP0\"}}",
+      "failed_at": "2026-09-10T00:09:58.530Z"
     },
     {
       "id": "side_hustle-202609101520-sns-funnel-1d433b",
