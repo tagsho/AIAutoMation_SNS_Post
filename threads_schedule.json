@@ -5856,6 +5856,38 @@
       "pillar": "sns_funnel",
       "generated_at": "2026-09-09T17:22:08.796Z",
       "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202609180750-sns-funnel-86a18f",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-18T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-09-10T17:09:36.351Z",
+      "text": "Threadsは短い文章で温度を作りやすい。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202609181520-adult-adjacent-safe-b2c0f7",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-18T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-09-10T17:09:36.351Z",
+      "text": "男性向け市場は需要が強い。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n夜系の案件は、入口を柔らかくして、リンク先で選べる状態を作るほうが安全に回しやすい。\n\n伸ばす前に、守る線を決める。",
+      "diversified_at": "2026-09-10T17:09:36.699Z"
+    },
+    {
+      "id": "side_hustle-202609182150-beginner-mistake-68c228",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-09-18T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-09-10T17:09:36.351Z",
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n雑に始めるのではなく、小さく試す。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-09-10T17:09:36.700Z"
     }
   ]
 }
