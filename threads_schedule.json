@@ -5866,12 +5866,14 @@
       "id": "side_hustle-202609170750-market-selection-c35333",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-17T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-09-09T17:22:08.795Z",
       "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-09-09T17:22:08.968Z"
+      "diversified_at": "2026-09-09T17:22:08.968Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 16-Sep-26 16:42:14 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Ak0nW8PTKz3ip5HqjFmZfZg\"}}",
+      "failed_at": "2026-09-16T23:42:14.897Z"
     },
     {
       "id": "side_hustle-202609171520-ai-workflow-b473fc",
