@@ -5978,11 +5978,13 @@
       "id": "side_hustle-202609200750-ai-workflow-349686",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-20T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-09-12T15:53:35.224Z",
-      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n市場選びまで外すと、量だけ増えても伸びにくい。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n市場選びまで外すと、量だけ増えても伸びにくい。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 19-Sep-26 16:33:04 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AM8BpTmFfk1G3xNCuh_w7PZ\"}}",
+      "failed_at": "2026-09-19T23:33:04.633Z"
     },
     {
       "id": "side_hustle-202609201520-sns-funnel-3d7527",
