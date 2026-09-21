@@ -6027,11 +6027,13 @@
       "id": "side_hustle-202609211520-beginner-mistake-31c2c4",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-21T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-09-13T15:02:44.689Z",
-      "text": "教材を読むだけで満足すると、収益は動かない。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n先に出口を決める。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "教材を読むだけで満足すると、収益は動かない。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n先に出口を決める。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Monday, 21-Sep-26 03:53:01 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ARsYJLl4TeQShRVsJDqeIGu\"}}",
+      "failed_at": "2026-09-21T10:53:01.191Z"
     },
     {
       "id": "side_hustle-202609212150-market-selection-618703",
