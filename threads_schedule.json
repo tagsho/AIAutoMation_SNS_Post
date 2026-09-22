@@ -6064,12 +6064,14 @@
       "id": "side_hustle-202609221520-ai-workflow-c62b15",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-22T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-09-14T16:31:59.322Z",
       "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-09-14T16:31:59.613Z"
+      "diversified_at": "2026-09-14T16:31:59.613Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Monday, 21-Sep-26 23:53:54 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A0nySiIlckoPzZ-Ri0htMPI\"}}",
+      "failed_at": "2026-09-22T06:53:54.244Z"
     },
     {
       "id": "side_hustle-202609222150-sns-funnel-d530b3",
