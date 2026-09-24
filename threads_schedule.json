@@ -6374,6 +6374,38 @@
       "pillar": "sns_funnel",
       "generated_at": "2026-09-23T18:46:39.779Z",
       "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202610020750-rakuten-workstyle-086b91",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-02T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-09-24T18:28:35.496Z",
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202610021520-adult-adjacent-safe-ed5601",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-02T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-09-24T18:28:35.496Z",
+      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n攻めるなら、投稿・プロフィール・リンク先の役割を分ける。全部を1投稿で売ろうとしない。\n\n欲求ではなく、選び方から入る。",
+      "diversified_at": "2026-09-24T18:28:35.638Z"
+    },
+    {
+      "id": "side_hustle-202610022150-beginner-mistake-ffa2f5",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-02T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-09-24T18:28:35.496Z",
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n雑に始めるのではなく、小さく試す。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
+      "diversified_at": "2026-09-24T18:28:35.639Z"
     }
   ]
 }
