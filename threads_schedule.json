@@ -6448,6 +6448,37 @@
       "pillar": "ai_workflow",
       "generated_at": "2026-09-25T18:44:42.044Z",
       "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202610040750-ai-workflow-1c387a",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-04T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-09-26T17:25:53.192Z",
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202610041520-sns-funnel-b1f75a",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-04T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-09-26T17:25:53.192Z",
+      "text": "Threadsは短い文章で温度を作りやすい。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-09-26T17:25:53.342Z"
+    },
+    {
+      "id": "side_hustle-202610042150-rakuten-workstyle-922d8a",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-04T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-09-26T17:25:53.192Z",
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n売る前に、選ばれる理由を作る。"
     }
   ]
 }
