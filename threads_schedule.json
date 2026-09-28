@@ -6271,11 +6271,13 @@
       "id": "side_hustle-202609280750-adult-adjacent-safe-aa1b3e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-28T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-09-20T15:12:07.734Z",
-      "text": "男性向け市場は需要が強い。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n露骨に寄せるより、ルールと境界線を理解して設計するほうが長く残る。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "男性向け市場は需要が強い。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n露骨に寄せるより、ルールと境界線を理解して設計するほうが長く残る。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 27-Sep-26 17:39:06 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ArL1WlB8LNkT9ZxZNbcnw7K\"}}",
+      "failed_at": "2026-09-28T00:39:06.077Z"
     },
     {
       "id": "side_hustle-202609281520-beginner-mistake-18c878",
