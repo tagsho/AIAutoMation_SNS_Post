@@ -6332,12 +6332,14 @@
       "id": "side_hustle-202609292150-beginner-mistake-fe2039",
       "account_id": "side_hustle",
       "scheduled_at": "2026-09-29T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-09-21T16:39:23.960Z",
       "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n雑に始めるのではなく、小さく試す。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\nまずは小さく出して、反応がある角度に寄せる。",
-      "diversified_at": "2026-09-21T16:39:24.162Z"
+      "diversified_at": "2026-09-21T16:39:24.162Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Tuesday, 29-Sep-26 08:44:32 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"And7xW-ahzfL8IxBAZoUMZm\"}}",
+      "failed_at": "2026-09-29T15:44:32.343Z"
     },
     {
       "id": "side_hustle-202609300750-rakuten-workstyle-57fc22",
@@ -6557,6 +6559,36 @@
       "pillar": "sns_funnel",
       "generated_at": "2026-09-28T19:38:03.081Z",
       "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202610070750-rakuten-workstyle-a5483b",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-07T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-09-29T15:44:31.817Z",
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202610071520-adult-adjacent-safe-8d1967",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-07T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-09-29T15:44:31.818Z",
+      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n露骨に寄せるより、ルールと境界線を理解して設計するほうが長く残る。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202610072150-high-ticket-918d21",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-07T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-09-29T15:44:31.818Z",
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n自分の時間単価から逆算したほうがいい。\n\nリンクを貼る前に、読む理由を作る。"
     }
   ]
 }
