@@ -6409,11 +6409,13 @@
       "id": "side_hustle-202610012150-sns-funnel-4071b4",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-01T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-09-23T18:46:39.779Z",
-      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Thursday, 01-Oct-26 09:21:58 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AE9308iOoWnw83mISsZVeo1\"}}",
+      "failed_at": "2026-10-01T16:21:59.047Z"
     },
     {
       "id": "side_hustle-202610020750-rakuten-workstyle-086b91",
@@ -6630,6 +6632,38 @@
       "generated_at": "2026-09-30T15:24:45.280Z",
       "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
       "diversified_at": "2026-09-30T15:24:45.609Z"
+    },
+    {
+      "id": "side_hustle-202610090750-rakuten-workstyle-96e9d9",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-09T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-10-01T16:21:58.273Z",
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\n毎回同じ結論に見えるなら、先に読者の悩みを変える。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-10-01T16:21:58.514Z"
+    },
+    {
+      "id": "side_hustle-202610091520-adult-adjacent-safe-fa180f",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-09T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-10-01T16:21:58.273Z",
+      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n攻めるなら、先に守る線を決める。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202610092150-beginner-mistake-17aad6",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-09T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-10-01T16:21:58.273Z",
+      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-10-01T16:21:58.515Z"
     }
   ]
 }
