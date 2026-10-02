@@ -6446,12 +6446,14 @@
       "id": "side_hustle-202610022150-beginner-mistake-ffa2f5",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-02T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-09-24T18:28:35.496Z",
       "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n雑に始めるのではなく、小さく試す。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-09-24T18:28:35.639Z"
+      "diversified_at": "2026-09-24T18:28:35.639Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Friday, 02-Oct-26 10:58:08 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A9rp-6W-ViEqPeuDH4A81c3\"}}",
+      "failed_at": "2026-10-02T17:58:08.625Z"
     },
     {
       "id": "side_hustle-202610030750-beginner-mistake-bb6881",
@@ -6668,6 +6670,37 @@
       "generated_at": "2026-10-01T16:21:58.273Z",
       "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n作業量より、導線のズレを減らす。",
       "diversified_at": "2026-10-01T16:21:58.515Z"
+    },
+    {
+      "id": "side_hustle-202610100750-beginner-mistake-bbb64f",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-10T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-10-02T17:58:07.923Z",
+      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n先に出口を決める。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202610101520-market-selection-e6484d",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-10T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "market_selection",
+      "generated_at": "2026-10-02T17:58:07.923Z",
+      "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n作業量より、導線のズレを減らす。",
+      "diversified_at": "2026-10-02T17:58:08.140Z"
+    },
+    {
+      "id": "side_hustle-202610102150-high-ticket-b2508e",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-10T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-10-02T17:58:07.924Z",
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n自分の時間単価から逆算したほうがいい。\n\n小さく試して、反応がある場所に寄せる。"
     }
   ]
 }
