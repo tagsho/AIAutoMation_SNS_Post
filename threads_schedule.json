@@ -6433,12 +6433,14 @@
       "id": "side_hustle-202610021520-adult-adjacent-safe-ed5601",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-02T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-09-24T18:28:35.496Z",
       "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n攻めるなら、投稿・プロフィール・リンク先の役割を分ける。全部を1投稿で売ろうとしない。\n\n欲求ではなく、選び方から入る。",
-      "diversified_at": "2026-09-24T18:28:35.638Z"
+      "diversified_at": "2026-09-24T18:28:35.638Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Friday, 02-Oct-26 05:29:31 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AXnhGtkVgD6ogAX_hvlvEos\"}}",
+      "failed_at": "2026-10-02T12:29:31.239Z"
     },
     {
       "id": "side_hustle-202610022150-beginner-mistake-ffa2f5",
