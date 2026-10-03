@@ -6471,11 +6471,13 @@
       "id": "side_hustle-202610031520-high-ticket-7e6ffe",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-03T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-09-25T18:44:42.044Z",
-      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 03-Oct-26 03:38:05 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AgDJRduANKxTqaNg2-lVzmQ\"}}",
+      "failed_at": "2026-10-03T10:38:05.893Z"
     },
     {
       "id": "side_hustle-202610032150-ai-workflow-81c42b",
