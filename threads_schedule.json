@@ -6781,6 +6781,37 @@
       "pillar": "sns_funnel",
       "generated_at": "2026-10-04T15:29:20.343Z",
       "text": "Threadsは短い文章で温度を作りやすい。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202610130750-ai-workflow-011692",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-13T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-10-05T21:14:41.664Z",
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n仕組みにすると、毎日の迷いが減る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202610131520-sns-funnel-eab5b2",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-13T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-10-05T21:14:41.664Z",
+      "text": "Threadsは短い文章で温度を作りやすい。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n売る前に、読む理由を作る。",
+      "diversified_at": "2026-10-05T21:14:41.950Z"
+    },
+    {
+      "id": "side_hustle-202610132150-rakuten-workstyle-c41d6d",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-13T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-10-05T21:14:41.664Z",
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n小さく試して、反応がある場所に寄せる。"
     }
   ]
 }
