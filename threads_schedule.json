@@ -6532,12 +6532,14 @@
       "id": "side_hustle-202610050750-adult-adjacent-safe-e23d5d",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-05T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-09-27T15:24:27.822Z",
       "text": "男性向け市場は需要が強い。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n成人向けに近い市場は、刺激で押すより、匿名性・悩み・比較の3つを分けて設計したほうが残りやすい。\n\n伸ばす前に、守る線を決める。",
-      "diversified_at": "2026-09-27T15:24:28.173Z"
+      "diversified_at": "2026-09-27T15:24:28.173Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 04-Oct-26 17:18:11 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A996D94sBgO5ggcwTmfrw9b\"}}",
+      "failed_at": "2026-10-05T00:18:11.112Z"
     },
     {
       "id": "side_hustle-202610051520-beginner-mistake-0fdbc1",
