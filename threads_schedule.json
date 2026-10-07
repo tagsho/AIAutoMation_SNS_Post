@@ -6618,11 +6618,13 @@
       "id": "side_hustle-202610071520-adult-adjacent-safe-8d1967",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-07T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-09-29T15:44:31.818Z",
-      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n露骨に寄せるより、ルールと境界線を理解して設計するほうが長く残る。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n露骨に寄せるより、ルールと境界線を理解して設計するほうが長く残る。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 07-Oct-26 02:24:50 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AgLlODFb10MGERQhC5bUTIi\"}}",
+      "failed_at": "2026-10-07T09:24:50.741Z"
     },
     {
       "id": "side_hustle-202610072150-high-ticket-918d21",
