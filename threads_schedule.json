@@ -6630,11 +6630,13 @@
       "id": "side_hustle-202610072150-high-ticket-918d21",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-07T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-09-29T15:44:31.818Z",
-      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n自分の時間単価から逆算したほうがいい。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n自分の時間単価から逆算したほうがいい。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 07-Oct-26 09:41:33 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Au2FiwbX8KMBD_Aidv9yQr7\"}}",
+      "failed_at": "2026-10-07T16:41:33.980Z"
     },
     {
       "id": "side_hustle-202610080750-high-ticket-04e4a8",
@@ -6852,6 +6854,36 @@
       "pillar": "beginner_mistake",
       "generated_at": "2026-10-06T15:05:00.494Z",
       "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n雑に始めるのではなく、小さく試す。\n\n小さく使って初めて元が取れる。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202610150750-market-selection-dc85b0",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-15T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "market_selection",
+      "generated_at": "2026-10-07T16:41:33.122Z",
+      "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\n量を増やす前に、単価と需要を見る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202610151520-high-ticket-706577",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-15T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-10-07T16:41:33.122Z",
+      "text": "安い商品ほど勢いで売れることがある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n悩みを整理して、比較して、納得してもらう導線がいる。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202610152150-sns-funnel-ec2d30",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-15T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-10-07T16:41:33.122Z",
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n小さく試して、反応がある場所に寄せる。"
     }
   ]
 }
