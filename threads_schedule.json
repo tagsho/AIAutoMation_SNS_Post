@@ -6890,6 +6890,36 @@
       "pillar": "sns_funnel",
       "generated_at": "2026-10-07T16:41:33.122Z",
       "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202610160750-sns-funnel-78ff87",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-16T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-10-08T20:16:26.874Z",
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202610161520-rakuten-workstyle-1adc6a",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-16T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-10-08T20:16:26.875Z",
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202610162150-adult-adjacent-safe-f6cb8d",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-16T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-10-08T20:16:26.875Z",
+      "text": "男性向け市場は需要が強い。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n攻めるなら、先に守る線を決める。\n\nリンクを貼る前に、読む理由を作る。"
     }
   ]
 }
