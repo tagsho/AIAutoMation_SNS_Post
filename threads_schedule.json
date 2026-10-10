@@ -6729,12 +6729,14 @@
       "id": "side_hustle-202610101520-market-selection-e6484d",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-10T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-10-02T17:58:07.923Z",
       "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\n作業量より、導線のズレを減らす。",
-      "diversified_at": "2026-10-02T17:58:08.140Z"
+      "diversified_at": "2026-10-02T17:58:08.140Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 10-Oct-26 01:26:03 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ASYEzzYNIPipLRQBoNGVtxO\"}}",
+      "failed_at": "2026-10-10T08:26:03.619Z"
     },
     {
       "id": "side_hustle-202610102150-high-ticket-b2508e",
