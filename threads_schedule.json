@@ -6754,11 +6754,13 @@
       "id": "side_hustle-202610110750-rakuten-workstyle-00e44c",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-11T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-10-03T18:22:05.453Z",
-      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 10-Oct-26 17:57:18 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A0XctI-GetMw7XJ-f7Um0Ui\"}}",
+      "failed_at": "2026-10-11T00:57:18.691Z"
     },
     {
       "id": "side_hustle-202610111520-high-ticket-6170c9",
