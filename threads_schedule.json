@@ -6840,12 +6840,14 @@
       "id": "side_hustle-202610131520-sns-funnel-eab5b2",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-13T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-10-05T21:14:41.664Z",
       "text": "Threadsは短い文章で温度を作りやすい。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-10-05T21:14:41.950Z"
+      "diversified_at": "2026-10-05T21:14:41.950Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Tuesday, 13-Oct-26 04:05:39 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AXJrRtWv5iMjzUUf612gIKK\"}}",
+      "failed_at": "2026-10-13T11:05:40.100Z"
     },
     {
       "id": "side_hustle-202610132150-rakuten-workstyle-c41d6d",
