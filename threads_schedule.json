@@ -6925,11 +6925,13 @@
       "id": "side_hustle-202610152150-sns-funnel-ec2d30",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-15T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-10-07T16:41:33.122Z",
-      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Thursday, 15-Oct-26 08:49:02 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AOPT0pOd-km3X_Clz0e5qrD\"}}",
+      "failed_at": "2026-10-15T15:49:02.406Z"
     },
     {
       "id": "side_hustle-202610160750-sns-funnel-78ff87",
@@ -7141,6 +7143,36 @@
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-10-14T17:04:50.412Z",
       "text": "男性向け市場は需要が強い。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\nこの距離感を作れる人が強い。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202610230750-sns-funnel-1c2121",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-23T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-10-15T15:49:01.896Z",
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202610231520-rakuten-workstyle-f5dd7f",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-23T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-10-15T15:49:01.896Z",
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202610232150-adult-adjacent-safe-4561c8",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-23T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-10-15T15:49:01.896Z",
+      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\nこの距離感を作れる人が強い。\n\n売る前に、選ばれる理由を作る。"
     }
   ]
 }
