@@ -6973,11 +6973,13 @@
       "id": "side_hustle-202610170750-high-ticket-4bfef3",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-17T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-10-09T18:58:24.250Z",
-      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nその代わり、雑な煽りでは売れにくい。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nその代わり、雑な煽りでは売れにくい。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Friday, 16-Oct-26 15:56:43 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ALyYjoMJ8ag2LYJ6gq842d4\"}}",
+      "failed_at": "2026-10-16T22:56:43.138Z"
     },
     {
       "id": "side_hustle-202610171520-sns-funnel-c203bf",
