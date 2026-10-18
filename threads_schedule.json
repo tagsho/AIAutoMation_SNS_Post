@@ -7022,11 +7022,13 @@
       "id": "side_hustle-202610181520-sns-funnel-104829",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-18T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-10-10T18:49:19.694Z",
-      "text": "Threadsは短い文章で温度を作りやすい。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "Threadsは短い文章で温度を作りやすい。\n\n投稿で興味を作って、プロフィールで整理して、リンク先で選ばせる。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 18-Oct-26 02:11:00 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AV2ZWHwmEXSdyYvHhZLU9Z6\"}}",
+      "failed_at": "2026-10-18T09:11:01.083Z"
     },
     {
       "id": "side_hustle-202610182150-rakuten-workstyle-5412a7",
