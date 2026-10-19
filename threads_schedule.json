@@ -7058,21 +7058,25 @@
       "id": "side_hustle-202610191520-beginner-mistake-5831db",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-19T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-10-11T18:26:03.662Z",
-      "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n売る前に、選ばれる理由を作る。"
+      "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n売る前に、選ばれる理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Monday, 19-Oct-26 06:00:56 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ABmRUhkCYGRS7ofFLP2d6t0\"}}",
+      "failed_at": "2026-10-19T13:00:56.202Z"
     },
     {
       "id": "side_hustle-202610192150-high-ticket-698239",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-19T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-10-11T18:26:03.662Z",
-      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nその代わり、雑な煽りでは売れにくい。\n\n自分の時間単価から逆算したほうがいい。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nその代わり、雑な煽りでは売れにくい。\n\n自分の時間単価から逆算したほうがいい。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Monday, 19-Oct-26 06:00:56 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AYqwc3M4abeBM7aJmA3_7Cr\"}}",
+      "failed_at": "2026-10-19T13:00:56.302Z"
     },
     {
       "id": "side_hustle-202610200750-high-ticket-aa856a",
