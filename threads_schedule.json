@@ -7106,11 +7106,13 @@
       "id": "side_hustle-202610202150-beginner-mistake-b68016",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-20T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-10-12T16:58:57.936Z",
-      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n先に出口を決める。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n先に出口を決める。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Tuesday, 20-Oct-26 08:43:02 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AJMoS7osS58YtCKPUUh_jnc\"}}",
+      "failed_at": "2026-10-20T15:43:02.184Z"
     },
     {
       "id": "side_hustle-202610210750-adult-adjacent-safe-421eec",
@@ -7323,6 +7325,37 @@
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-10-19T19:16:09.990Z",
       "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\nこの距離感を作れる人が強い。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202610280750-rakuten-workstyle-7777b1",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-28T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-10-20T15:43:01.593Z",
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202610281520-adult-adjacent-safe-dd2264",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-28T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-10-20T15:43:01.593Z",
+      "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n夜系の案件は、入口を柔らかくして、リンク先で選べる状態を作るほうが安全に回しやすい。\n\n刺激より、違和感の少ない入口を作る。",
+      "diversified_at": "2026-10-20T15:43:01.828Z"
+    },
+    {
+      "id": "side_hustle-202610282150-market-selection-563abe",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-28T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "market_selection",
+      "generated_at": "2026-10-20T15:43:01.593Z",
+      "text": "稼げる人は、投稿文だけを見ていない。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n量を増やす前に、単価と需要を見る。\n\nリンクを貼る前に、読む理由を作る。"
     }
   ]
 }
