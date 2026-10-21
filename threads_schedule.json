@@ -7142,11 +7142,13 @@
       "id": "side_hustle-202610212150-high-ticket-14e5cb",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-21T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-10-13T18:12:41.662Z",
-      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n悩みを整理して、比較して、納得してもらう導線がいる。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n悩みを整理して、比較して、納得してもらう導線がいる。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 21-Oct-26 08:24:15 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AxnL6tB989gUh9Lf7sDT16J\"}}",
+      "failed_at": "2026-10-21T15:24:15.179Z"
     },
     {
       "id": "side_hustle-202610220750-ai-workflow-587ddc",
@@ -7360,6 +7362,36 @@
       "pillar": "market_selection",
       "generated_at": "2026-10-20T15:43:01.593Z",
       "text": "稼げる人は、投稿文だけを見ていない。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n量を増やす前に、単価と需要を見る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202610290750-market-selection-554e06",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-29T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "market_selection",
+      "generated_at": "2026-10-21T15:24:14.644Z",
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n副業は作業より、設計で差がつく。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202610291520-high-ticket-651241",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-29T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-10-21T15:24:14.644Z",
+      "text": "安い商品ほど勢いで売れることがある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202610292150-ai-workflow-0a0a59",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-10-29T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-10-21T15:24:14.644Z",
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n市場選びまで外すと、量だけ増えても伸びにくい。\n\n作業量より、設計のズレを減らすほうが先。"
     }
   ]
 }
