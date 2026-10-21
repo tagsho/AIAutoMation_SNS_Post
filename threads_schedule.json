@@ -7130,11 +7130,13 @@
       "id": "side_hustle-202610211520-beginner-mistake-bc8035",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-21T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-10-13T18:12:41.662Z",
-      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n売る前に、選ばれる理由を作る。"
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n売る前に、選ばれる理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 21-Oct-26 03:21:59 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AlkskFVAggobWxpJFNyUw7V\"}}",
+      "failed_at": "2026-10-21T10:21:59.732Z"
     },
     {
       "id": "side_hustle-202610212150-high-ticket-14e5cb",
