@@ -7166,11 +7166,13 @@
       "id": "side_hustle-202610221520-rakuten-workstyle-334140",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-22T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-10-14T17:04:50.412Z",
-      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Thursday, 22-Oct-26 03:36:34 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A5gjnvSNkF40ESS7MG0dbK2\"}}",
+      "failed_at": "2026-10-22T10:36:34.955Z"
     },
     {
       "id": "side_hustle-202610222150-adult-adjacent-safe-96d914",
