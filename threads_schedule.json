@@ -7202,11 +7202,13 @@
       "id": "side_hustle-202610231520-rakuten-workstyle-f5dd7f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-23T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-10-15T15:49:01.896Z",
-      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Friday, 23-Oct-26 03:22:04 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AEWopzcKcuWKjKkO4oSUYBY\"}}",
+      "failed_at": "2026-10-23T10:22:04.762Z"
     },
     {
       "id": "side_hustle-202610232150-adult-adjacent-safe-4561c8",
