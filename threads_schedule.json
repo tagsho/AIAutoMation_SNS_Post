@@ -7190,11 +7190,13 @@
       "id": "side_hustle-202610230750-sns-funnel-1c2121",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-23T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-10-15T15:49:01.896Z",
-      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n売る前に、選ばれる理由を作る。"
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n売る前に、選ばれる理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Thursday, 22-Oct-26 17:54:51 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AWRw_JSvV-jkcUlmKFEQocP\"}}",
+      "failed_at": "2026-10-23T00:54:51.699Z"
     },
     {
       "id": "side_hustle-202610231520-rakuten-workstyle-f5dd7f",
