@@ -7226,11 +7226,13 @@
       "id": "side_hustle-202610240750-beginner-mistake-2127cd",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-24T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-10-16T17:59:10.439Z",
-      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Friday, 23-Oct-26 17:36:14 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AcK4qohGP8qx5s7ujuy96eZ\"}}",
+      "failed_at": "2026-10-24T00:36:14.580Z"
     },
     {
       "id": "side_hustle-202610241520-market-selection-2ddb4a",
