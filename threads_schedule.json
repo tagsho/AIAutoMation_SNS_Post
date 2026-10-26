@@ -7312,11 +7312,13 @@
       "id": "side_hustle-202610261520-high-ticket-79c0b2",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-26T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-10-18T16:31:16.254Z",
-      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n自分の時間単価から逆算したほうがいい。\n\n売る前に、選ばれる理由を作る。"
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\nその代わり、雑な煽りでは売れにくい。\n\n自分の時間単価から逆算したほうがいい。\n\n売る前に、選ばれる理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 25-Oct-26 23:28:39 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AQxc5PKCCGEVmhKjetCLXcN\"}}",
+      "failed_at": "2026-10-26T06:28:39.086Z"
     },
     {
       "id": "side_hustle-202610262150-ai-workflow-541c1a",
