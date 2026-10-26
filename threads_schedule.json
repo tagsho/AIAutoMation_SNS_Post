@@ -7544,6 +7544,36 @@
       "pillar": "market_selection",
       "generated_at": "2026-10-25T16:07:50.425Z",
       "text": "低単価案件を積み上げるほど、時間だけが削られることがある。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n先に市場を選ぶと、努力の空振りが減る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202611030750-high-ticket-d4e299",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-03T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "high_ticket",
+      "generated_at": "2026-10-26T19:25:31.396Z",
+      "text": "1件100円の案件を100件取るのと、1件1万円の案件を1件取るのは別ゲーム。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n悩みを整理して、比較して、納得してもらう導線がいる。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202611031520-ai-workflow-c8d665",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-03T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-10-26T19:25:31.396Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n調べる、構成する、言い換える、予約する。面倒な部分を分解して任せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202611032150-sns-funnel-ef693b",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-03T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-10-26T19:25:31.396Z",
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\n普段は考え方、たまに導線くらいがちょうどいい。\n\nリンクを貼る前に、読む理由を作る。"
     }
   ]
 }
