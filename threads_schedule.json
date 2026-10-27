@@ -7348,11 +7348,13 @@
       "id": "side_hustle-202610271520-sns-funnel-801f9f",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-27T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "sns_funnel",
       "generated_at": "2026-10-19T19:16:09.990Z",
-      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n先に出口を決めると、投稿の迷いが減る。"
+      "text": "SNSアフィリは、投稿だけで完結させようとすると弱い。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\n役割を分けるほど、売り込み感は薄くなる。\n\n先に出口を決めると、投稿の迷いが減る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Tuesday, 27-Oct-26 00:44:29 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ADV5Uo3Wr_PDpw_MfblvBeL\"}}",
+      "failed_at": "2026-10-27T07:44:30.106Z"
     },
     {
       "id": "side_hustle-202610272150-adult-adjacent-safe-3b61bf",
