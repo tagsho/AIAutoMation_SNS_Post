@@ -7397,11 +7397,13 @@
       "id": "side_hustle-202610282150-market-selection-563abe",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-28T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-10-20T15:43:01.593Z",
-      "text": "稼げる人は、投稿文だけを見ていない。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n量を増やす前に、単価と需要を見る。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "稼げる人は、投稿文だけを見ていない。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n量を増やす前に、単価と需要を見る。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 28-Oct-26 07:28:27 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AU1kxRdQRSMZGLZNg7dSq9f\"}}",
+      "failed_at": "2026-10-28T14:28:27.457Z"
     },
     {
       "id": "side_hustle-202610290750-market-selection-554e06",
