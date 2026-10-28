@@ -7384,12 +7384,14 @@
       "id": "side_hustle-202610281520-adult-adjacent-safe-dd2264",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-28T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-10-20T15:43:01.593Z",
       "text": "成人向けに近い市場は、ただ刺激的に書けばいいわけではない。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n夜系の案件は、入口を柔らかくして、リンク先で選べる状態を作るほうが安全に回しやすい。\n\n刺激より、違和感の少ない入口を作る。",
-      "diversified_at": "2026-10-20T15:43:01.828Z"
+      "diversified_at": "2026-10-20T15:43:01.828Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 28-Oct-26 00:34:47 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AmhjZsuISvFW6qz3gPrQ9fT\"}}",
+      "failed_at": "2026-10-28T07:34:47.420Z"
     },
     {
       "id": "side_hustle-202610282150-market-selection-563abe",
