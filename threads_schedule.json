@@ -7421,11 +7421,13 @@
       "id": "side_hustle-202610291520-high-ticket-651241",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-29T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-10-21T15:24:14.644Z",
-      "text": "安い商品ほど勢いで売れることがある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "安い商品ほど勢いで売れることがある。\n\n初心者ほど、どちらを選ぶかで作業量が変わる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Thursday, 29-Oct-26 01:59:46 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Al0-_YtcgH1zMMb9STgkekV\"}}",
+      "failed_at": "2026-10-29T08:59:46.690Z"
     },
     {
       "id": "side_hustle-202610292150-ai-workflow-0a0a59",
