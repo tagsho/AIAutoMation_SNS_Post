@@ -7445,11 +7445,13 @@
       "id": "side_hustle-202610300750-beginner-mistake-a0f85e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-10-30T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-10-22T15:37:21.450Z",
-      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n先に出口を決める。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n先に出口を決める。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Thursday, 29-Oct-26 17:21:12 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ARoRjJLBDK9AFgh4aY6PuFE\"}}",
+      "failed_at": "2026-10-30T00:21:12.041Z"
     },
     {
       "id": "side_hustle-202610301520-ai-workflow-72f7fa",
