@@ -7725,6 +7725,37 @@
       "pillar": "high_ticket",
       "generated_at": "2026-10-30T18:16:59.888Z",
       "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nその代わり、雑な煽りでは売れにくい。\n\n悩みを整理して、比較して、納得してもらう導線がいる。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202611080750-ai-workflow-2d316a",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-08T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-10-31T17:59:25.125Z",
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
+      "diversified_at": "2026-10-31T17:59:25.340Z"
+    },
+    {
+      "id": "side_hustle-202611081520-sns-funnel-8a27cd",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-08T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-10-31T17:59:25.126Z",
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nこの3つを分けるだけで、同じ案件でも見え方が変わる。\n\nいきなり売るより、迷わず選べる状態を作る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202611082150-rakuten-workstyle-9bb8b0",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-08T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-10-31T17:59:25.126Z",
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\nリンクを貼る前に、読む理由を作る。"
     }
   ]
 }
