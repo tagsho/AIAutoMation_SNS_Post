@@ -7639,21 +7639,25 @@
       "id": "side_hustle-202611041520-beginner-mistake-c7558a",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-04T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-10-27T18:56:41.076Z",
-      "text": "教材を読むだけで満足すると、収益は動かない。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n売る前に、選ばれる理由を作る。"
+      "text": "教材を読むだけで満足すると、収益は動かない。\n\n誰に何を売るかが曖昧だと、伸びた投稿も収益に変わりにくい。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n売る前に、選ばれる理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 04-Nov-26 10:15:21 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A7KTQdkotcHjS6tBHCwBeVO\"}}",
+      "failed_at": "2026-11-04T18:15:21.431Z"
     },
     {
       "id": "side_hustle-202611042150-rakuten-workstyle-231d48",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-04T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-10-27T18:56:41.076Z",
-      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nまずは1ジャンル、1記事、1投稿で反応を見る。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nまずは1ジャンル、1記事、1投稿で反応を見る。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 04-Nov-26 10:15:21 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AwN3ScnWz4LxQ2wJy3DXnng\"}}",
+      "failed_at": "2026-11-04T18:15:21.491Z"
     },
     {
       "id": "side_hustle-202611050750-high-ticket-29ce73",
@@ -7866,6 +7870,37 @@
       "pillar": "beginner_mistake",
       "generated_at": "2026-11-03T18:03:11.386Z",
       "text": "副業で完璧な準備を待つと、だいたい始まらない。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202611120750-market-selection-629d40",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-12T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "market_selection",
+      "generated_at": "2026-11-04T18:15:21.027Z",
+      "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n同じ1投稿でも、欲求が強い場所と弱い場所では反応が変わる。\n\n反応を見るなら、言い切りより具体例を混ぜたほうが判断しやすい。\n\nまずは小さく出して、反応がある角度に寄せる。",
+      "diversified_at": "2026-11-04T18:15:21.168Z"
+    },
+    {
+      "id": "side_hustle-202611121520-ai-workflow-ee35c2",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-12T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-11-04T18:15:21.028Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n作業量より、設計のズレを減らすほうが先。"
+    },
+    {
+      "id": "side_hustle-202611122150-adult-adjacent-safe-cbbbbc",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-12T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-11-04T18:15:21.028Z",
+      "text": "男性向け市場は需要が強い。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n攻めるなら、先に守る線を決める。\n\n小さく試して、反応がある場所に寄せる。"
     }
   ]
 }
