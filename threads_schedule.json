@@ -7760,11 +7760,13 @@
       "id": "side_hustle-202611072150-high-ticket-b93639",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-07T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-10-30T18:16:59.888Z",
-      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nその代わり、雑な煽りでは売れにくい。\n\n悩みを整理して、比較して、納得してもらう導線がいる。\n\n売る前に、選ばれる理由を作る。"
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\nその代わり、雑な煽りでは売れにくい。\n\n悩みを整理して、比較して、納得してもらう導線がいる。\n\n売る前に、選ばれる理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 07-Nov-26 07:47:12 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"An6gsDWuss7f3QSTFrbFFsJ\"}}",
+      "failed_at": "2026-11-07T15:47:12.176Z"
     },
     {
       "id": "side_hustle-202611080750-ai-workflow-2d316a",
@@ -7977,6 +7979,37 @@
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-11-06T18:24:55.431Z",
       "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202611150750-ai-workflow-3aa829",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-15T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-11-07T15:47:11.674Z",
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202611151520-rakuten-workstyle-0bf5d7",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-15T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-11-07T15:47:11.674Z",
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nまずは1ジャンル、1記事、1投稿で反応を見る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202611152150-adult-adjacent-safe-bdd049",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-15T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-11-07T15:47:11.674Z",
+      "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\n表では市場設計、リンク先で適性確認、最終商品で詳細。\n\n成人向けに近い市場は、刺激で押すより、匿名性・悩み・比較の3つを分けて設計したほうが残りやすい。\n\n売る前に、警戒されない順番を作る。",
+      "diversified_at": "2026-11-07T15:47:11.862Z"
     }
   ]
 }
