@@ -7747,12 +7747,14 @@
       "id": "side_hustle-202611071520-market-selection-941120",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-07T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-10-30T18:16:59.888Z",
       "text": "稼げる人は、投稿文だけを見ていない。\n\n少ない成約で月の数字が動く導線を先に考える。\n\n投稿は増やすより、入口の角度をずらしたほうが検証しやすい。\n\n売る前に、読む理由を作る。",
-      "diversified_at": "2026-10-30T18:17:00.111Z"
+      "diversified_at": "2026-10-30T18:17:00.111Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 07-Nov-26 01:25:42 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AalEicD3d-Wfg9EnqBuyZ3-\"}}",
+      "failed_at": "2026-11-07T09:25:42.260Z"
     },
     {
       "id": "side_hustle-202611072150-high-ticket-b93639",
