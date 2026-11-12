@@ -7930,21 +7930,25 @@
       "id": "side_hustle-202611121520-ai-workflow-ee35c2",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-12T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-11-04T18:15:21.028Z",
-      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n仕組みにすると、毎日の迷いが減る。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Thursday, 12-Nov-26 05:03:27 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"AM8h3lUwAufiD3-K6EHAm8L\"}}",
+      "failed_at": "2026-11-12T13:03:27.942Z"
     },
     {
       "id": "side_hustle-202611122150-adult-adjacent-safe-cbbbbc",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-12T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-11-04T18:15:21.028Z",
-      "text": "男性向け市場は需要が強い。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n攻めるなら、先に守る線を決める。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "男性向け市場は需要が強い。\n\nプラットフォームの規約、広告先の条件、投稿の見せ方を分ける。\n\n攻めるなら、先に守る線を決める。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Thursday, 12-Nov-26 05:03:27 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Aw_KAf3ns7ouiA5CH94T74F\"}}",
+      "failed_at": "2026-11-12T13:03:27.991Z"
     },
     {
       "id": "side_hustle-202611130750-sns-funnel-e20f65",
