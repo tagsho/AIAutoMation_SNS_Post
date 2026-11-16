@@ -8075,11 +8075,13 @@
       "id": "side_hustle-202611161520-beginner-mistake-419e48",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-16T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-11-08T15:37:37.550Z",
-      "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n先に出口を決める。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "教材を読むだけで満足すると、収益は動かない。\n\n雑に始めるのではなく、小さく試す。\n\n先に出口を決める。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Monday, 16-Nov-26 00:50:07 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"AzwmvLa4bDxh76xSUnNAjCF\"}}",
+      "failed_at": "2026-11-16T08:50:07.117Z"
     },
     {
       "id": "side_hustle-202611162150-market-selection-2dc49a",
