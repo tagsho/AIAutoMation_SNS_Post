@@ -8136,11 +8136,13 @@
       "id": "side_hustle-202611180750-beginner-mistake-a94245",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-18T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-11-10T18:19:45.516Z",
-      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n雑に始めるのではなく、小さく試す。\n\n小さく使って初めて元が取れる。\n\n売る前に、選ばれる理由を作る。"
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n雑に始めるのではなく、小さく試す。\n\n小さく使って初めて元が取れる。\n\n売る前に、選ばれる理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Tuesday, 17-Nov-26 17:42:46 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"Asnf4y8lbEiOK5kSsMzmaE2\"}}",
+      "failed_at": "2026-11-18T01:42:46.189Z"
     },
     {
       "id": "side_hustle-202611181520-ai-workflow-ce8ad9",
