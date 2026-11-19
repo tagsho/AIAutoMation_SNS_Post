@@ -8184,21 +8184,25 @@
       "id": "side_hustle-202611191520-ai-workflow-faf4cb",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-19T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "ai_workflow",
       "generated_at": "2026-11-11T17:56:48.160Z",
-      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n市場選びまで外すと、量だけ増えても伸びにくい。\n\n作業量より、設計のズレを減らすほうが先。"
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n市場選びまで外すと、量だけ増えても伸びにくい。\n\n作業量より、設計のズレを減らすほうが先。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Thursday, 19-Nov-26 05:51:56 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"ASYCbUtxd0R_EuG3SYTMKzm\"}}",
+      "failed_at": "2026-11-19T13:51:56.837Z"
     },
     {
       "id": "side_hustle-202611192150-rakuten-workstyle-082b60",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-19T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-11-11T17:56:48.161Z",
-      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "楽天アフィリで扱いやすいのは、生活の悩みと商品がすぐつながるジャンル。\n\n在宅ワーク用品、収納、時短グッズは、売り込みより選び方を出すほうが自然。\n\nリンクを貼る前に、なぜ見るべきかを作る。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Thursday, 19-Nov-26 05:51:57 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"AQFXuiBIGlnphXvbgkw1Li8\"}}",
+      "failed_at": "2026-11-19T13:51:57.084Z"
     },
     {
       "id": "side_hustle-202611200750-sns-funnel-acf0ce",
