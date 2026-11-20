@@ -8232,12 +8232,14 @@
       "id": "side_hustle-202611202150-adult-adjacent-safe-b6abab",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-20T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "adult_adjacent_safe",
       "generated_at": "2026-11-12T20:45:59.220Z",
       "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n露骨な単語を増やすより、なぜその市場が動くのかを説明したほうが長く使える投稿になる。\n\n刺激より、違和感の少ない入口を作る。",
-      "diversified_at": "2026-11-12T20:45:59.421Z"
+      "diversified_at": "2026-11-12T20:45:59.421Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Friday, 20-Nov-26 10:41:46 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"AX5ohc8D99TgkLgkvM1KRhr\"}}",
+      "failed_at": "2026-11-20T18:41:46.856Z"
     },
     {
       "id": "side_hustle-202611210750-beginner-mistake-7d6841",
@@ -8452,6 +8454,36 @@
       "pillar": "beginner_mistake",
       "generated_at": "2026-11-19T21:52:35.101Z",
       "text": "教材を読むだけで満足すると、収益は動かない。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n先に出口を決める。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202611280750-ai-workflow-ff3b17",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-28T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-11-20T18:41:46.270Z",
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n市場選びまで外すと、量だけ増えても伸びにくい。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202611281520-sns-funnel-171653",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-28T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "sns_funnel",
+      "generated_at": "2026-11-20T18:41:46.270Z",
+      "text": "投稿は入口、固定投稿は説明、リンク先は比較。\n\nでもリンクを毎回貼ると、読まれる前に広告っぽく見える。\n\nいきなり売るより、迷わず選べる状態を作る。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202611282150-rakuten-workstyle-1e99d9",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-28T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "rakuten_workstyle",
+      "generated_at": "2026-11-20T18:41:46.270Z",
+      "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nまずは1ジャンル、1記事、1投稿で反応を見る。\n\n小さく試して、反応がある場所に寄せる。"
     }
   ]
 }
