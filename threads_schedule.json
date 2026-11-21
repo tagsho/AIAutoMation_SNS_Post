@@ -8269,11 +8269,13 @@
       "id": "side_hustle-202611212150-high-ticket-d2337e",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-21T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-11-13T16:43:56.181Z",
-      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "高単価アフィリは、クリック数が少なくても勝てる可能性がある。\n\n高い商品ほど、なぜ今それを見るべきかの理由が必要になる。\n\n投稿は売り込みより、判断材料を渡す場所。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Saturday, 21-Nov-26 07:06:50 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"ANgRl1PMaDWeHkOz2zBVQ6I\"}}",
+      "failed_at": "2026-11-21T15:06:50.738Z"
     },
     {
       "id": "side_hustle-202611220750-sns-funnel-fba3e9",
@@ -8488,6 +8490,36 @@
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-11-20T18:41:46.270Z",
       "text": "副業を続けるなら、教材より先に作業環境を整えるのも大事。\n\n商品名から入るより、まず悩みを言葉にしたほうが読まれやすい。\n\nまずは1ジャンル、1記事、1投稿で反応を見る。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202611290750-ai-workflow-93c123",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-29T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-11-21T15:06:49.756Z",
+      "text": "自動化で最初に楽にするのは、収益ではなく継続。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n仕組みにすると、毎日の迷いが減る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202611291520-adult-adjacent-safe-70edbd",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-29T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-11-21T15:06:49.756Z",
+      "text": "需要が強いジャンルほど、雑に扱うとアカウントが短命になる。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\nこの距離感を作れる人が強い。\n\n売る前に、選ばれる理由を作る。"
+    },
+    {
+      "id": "side_hustle-202611292150-ai-workflow-cf9e4a",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-29T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-11-21T15:06:49.756Z",
+      "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\nリンクを貼る前に、読む理由を作る。"
     }
   ]
 }
