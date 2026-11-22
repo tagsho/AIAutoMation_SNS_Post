@@ -8306,11 +8306,13 @@
       "id": "side_hustle-202611222150-beginner-mistake-d18d35",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-22T21:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-11-14T15:45:17.458Z",
-      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n売る前に、選ばれる理由を作る。"
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n雑に始めるのではなく、小さく試す。\n\n1週間で反応を見て、弱いところだけ直せばいい。\n\n売る前に、選ばれる理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 22-Nov-26 07:29:37 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"APIEYlCZszx7CFkJNRV5vpG\"}}",
+      "failed_at": "2026-11-22T15:29:38.022Z"
     },
     {
       "id": "side_hustle-202611230750-beginner-mistake-24a3ee",
@@ -8524,6 +8526,36 @@
       "pillar": "ai_workflow",
       "generated_at": "2026-11-21T15:06:49.756Z",
       "text": "AIツールは稼ぐ道具というより、試行回数を増やす道具。\n\n投稿を考える、保存する、予約する。この詰まりを減らす。\n\n続けられる状態を作ると、改善する余裕が残る。\n\nリンクを貼る前に、読む理由を作る。"
+    },
+    {
+      "id": "side_hustle-202611300750-beginner-mistake-39488f",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-30T07:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "beginner_mistake",
+      "generated_at": "2026-11-22T15:29:37.289Z",
+      "text": "初心者が詰まりやすいのは、案件を決める前に投稿を増やすこと。\n\n雑に始めるのではなく、小さく試す。\n\n小さく使って初めて元が取れる。\n\n小さく試して、反応がある場所に寄せる。"
+    },
+    {
+      "id": "side_hustle-202611301520-ai-workflow-9e289a",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-30T15:20:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "ai_workflow",
+      "generated_at": "2026-11-22T15:29:37.289Z",
+      "text": "AI副業で大事なのは、AIに丸投げすることではない。\n\n投稿案、導線案、比較表、改善案を速く出せる。\n\n続けられる状態を作ると、改善する余裕が残る。\n\n先に出口を決めると、投稿の迷いが減る。"
+    },
+    {
+      "id": "side_hustle-202611302150-adult-adjacent-safe-dc6a38",
+      "account_id": "side_hustle",
+      "scheduled_at": "2026-11-30T21:50:00",
+      "status": "scheduled",
+      "kind": "generated_trust",
+      "pillar": "adult_adjacent_safe",
+      "generated_at": "2026-11-22T15:29:37.289Z",
+      "text": "男性向け市場は需要が強い。\n\nただし強い市場ほど、表現と導線を間違えると危ない。\n\n露骨に寄せるより、ルールと境界線を理解して設計するほうが長く残る。\n\n先に出口を決めると、投稿の迷いが減る。"
     }
   ]
 }
