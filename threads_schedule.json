@@ -8318,11 +8318,13 @@
       "id": "side_hustle-202611230750-beginner-mistake-24a3ee",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-23T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "beginner_mistake",
       "generated_at": "2026-11-15T17:52:30.302Z",
-      "text": "教材を読むだけで満足すると、収益は動かない。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n先に出口を決める。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "教材を読むだけで満足すると、収益は動かない。\n\n1つ読んだら、投稿を3本、導線を1つ、検証を1回。\n\n先に出口を決める。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Sunday, 22-Nov-26 17:36:36 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"AzYrXVUGKIZK0H0QzVfzgfA\"}}",
+      "failed_at": "2026-11-23T01:36:36.888Z"
     },
     {
       "id": "side_hustle-202611231520-ai-workflow-e51de8",
