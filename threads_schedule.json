@@ -8354,11 +8354,13 @@
       "id": "side_hustle-202611240750-high-ticket-b51c09",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-24T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "high_ticket",
       "generated_at": "2026-11-16T18:58:13.608Z",
-      "text": "安い商品ほど勢いで売れることがある。\n\nその代わり、雑な煽りでは売れにくい。\n\n自分の時間単価から逆算したほうがいい。\n\n小さく試して、反応がある場所に寄せる。"
+      "text": "安い商品ほど勢いで売れることがある。\n\nその代わり、雑な煽りでは売れにくい。\n\n自分の時間単価から逆算したほうがいい。\n\n小さく試して、反応がある場所に寄せる。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Monday, 23-Nov-26 21:29:38 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"Az4gDSWjgpgqnA7nlHIib85\"}}",
+      "failed_at": "2026-11-24T05:29:38.319Z"
     },
     {
       "id": "side_hustle-202611241520-sns-funnel-786789",
