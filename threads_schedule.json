@@ -8428,12 +8428,14 @@
       "id": "side_hustle-202611260750-market-selection-837cad",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-26T07:50:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "market_selection",
       "generated_at": "2026-11-18T17:58:40.105Z",
       "text": "副業で最初に見るべきなのは、作業量より市場の強さ。\n\n誰のどんな悩みに刺すか、最後に何へ流すかまで決めている。\n\n同じ話でも、悩み・比較・手順のどこから入るかで読まれ方は変わる。\n\n入口を変えるだけで、同じ案件でも見え方は変わる。",
-      "diversified_at": "2026-11-18T17:58:40.309Z"
+      "diversified_at": "2026-11-18T17:58:40.309Z",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Wednesday, 25-Nov-26 18:09:33 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"AVeW8SohUK7b7jbu2tgue7u\"}}",
+      "failed_at": "2026-11-26T02:09:33.419Z"
     },
     {
       "id": "side_hustle-202611261520-rakuten-workstyle-3d00f9",
