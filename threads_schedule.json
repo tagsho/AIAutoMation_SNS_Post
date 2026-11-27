@@ -8477,11 +8477,13 @@
       "id": "side_hustle-202611271520-rakuten-workstyle-d9548a",
       "account_id": "side_hustle",
       "scheduled_at": "2026-11-27T15:20:00",
-      "status": "scheduled",
+      "status": "failed",
       "kind": "generated_trust",
       "pillar": "rakuten_workstyle",
       "generated_at": "2026-11-19T21:52:35.101Z",
-      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\nリンクを貼る前に、読む理由を作る。"
+      "text": "在宅で作業する人ほど、椅子と机まわりの小さなストレスを甘く見ないほうがいい。\n\n肩こり、机の狭さ、集中しにくさ。こういう悩みは、商品紹介に自然につなげやすい。\n\n高単価だけでなく、日常の小さな悩みから入口を作る。\n\nリンクを貼る前に、読む理由を作る。",
+      "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 23-Jul-26 17:01:55 PDT. The current time is Friday, 27-Nov-26 03:09:36 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":0,\"fbtrace_id\":\"ApuR7uKurpjMer8P5AO9tLw\"}}",
+      "failed_at": "2026-11-27T11:09:36.892Z"
     },
     {
       "id": "side_hustle-202611272150-beginner-mistake-578216",
